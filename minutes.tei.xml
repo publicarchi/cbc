@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription des minutes du Conseil des bâtiments civils</title>
+      </titleStmt>
+      <editor>
+        <persName>
+          <forename>Emmanuel</forename>
+          <surname>Château-Dutier</surname>
+        </persName>
+      </editor>
+      <publicationStmt>
+        <publisher>none</publisher>
+        <date from="2016-11">de novembre 2016 à </date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales de France</institution>
+            <idno>FRAN/F/21/*/</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <docTitle>
+                <titlePart>Minutes des procès-verbaux du Conseil des bâtiments civils</titlePart>
+              </docTitle>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart>Minutes des procès-verbaux du Conseil des bâtiments civils</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div>
+        <head></head>
+        <div>
+          <head></head>
+          <p></p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
