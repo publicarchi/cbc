@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription des notes du Conseil des bâtiments civils</title>
+      </titleStmt>
+      <editor>
+        <persName>
+          <forename>Emmanuel</forename>
+          <surname>Château-Dutier</surname>
+        </persName>
+      </editor>
+      <publicationStmt>
+        <publisher>none</publisher>
+        <date from="2016-11">de novembre 2016 à </date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales de France</institution>
+            <idno>FRAN/F/21/*/2540</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <docTitle>
+                <titlePart>Notes prises aux séances du Conseil des bâtiments civils, 1839</titlePart>
+              </docTitle>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart>Notes</titlePart>
+          <titlePart>prises aux séances du Conseil des bâtiments civils</titlePart>
+        </docTitle>
+        <docDate>1839</docDate>
+      </titlePage>
+    </front>
+    <body>
+      <fw>1</fw>
+      <div>
+        <head>Séance du 17 janvier 1839</head>
+        <div>
+          <head>Halle couverte à Metz</head>
+          <label><persName>Biet</persName></label>
+          <p>Renvoi au bureau de contrôle</p>
+          <p>Remis à la prochaine séance</p>
+        </div>
+      </div>
+      <div>
+        <head>Église de Plaisance</head>
+        <label><persName>Leclère</persName></label>
+        <p>L’architecte a rectifié les plans et devis. <unclear>propose moyens</unclear> faits tout ce qui ne <unclear>l’est</unclear> possible de faire.</p>
+        <p>Le projet est susceptible d’adoption. Renvoi au bureau de contrôle (à calquer).</p>
+      </div>
+      <div>
+        <head>Amphithéâtre d’anatomie pittoresque à l’École des Beaux-arts</head>
+        <label><persName>Caristie</persName></label>
+        <p>Le Conseil adopte le pon</p>
+      </div>
+
+
+    </body>
+  </text>
+</TEI>
