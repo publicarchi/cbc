@@ -5,14 +5,14 @@
     <fileDesc>
       <titleStmt>
         <title>Transcription des Procès-verbaux des séances du Conseil des bâtiments civils</title>
+        <editor>
+          <persName>
+            <forename>Emmanuel</forename>
+            <surname>Château-Dutier</surname>
+          </persName>
+        </editor>
       </titleStmt>
-      <editor>
-        <persName>
-          <forename>Emmanuel</forename>
-          <surname>Château-Dutier</surname>
-        </persName>
-      </editor>
-      <publicationStmt>
+        <publicationStmt>
         <publisher>none</publisher>
         <date from="2016-11">de novembre 2016 à </date>
       </publicationStmt>
