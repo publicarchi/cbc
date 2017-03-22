@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schemas/transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="schemas/cbc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -43,28 +43,39 @@
         </docTitle>
         <docDate>1839</docDate>
       </titlePage>
+      <pb/>
+      <space extent="1" unit="pages"/>
+      <pb/>
     </front>
     <body>
-      <fw>1</fw>
-      <div>
-        <head>Séance du 17 janvier 1839</head>
-        <div>
+      <fw type="fol">1</fw>
+      <div type="assembly">
+        <head>Séance du <date when="1839-01-17">17 janvier 1839</date></head>
+        <div type="case">
           <head>Halle couverte à Metz</head>
           <label><persName>Biet</persName></label>
           <p>Renvoi au bureau de contrôle</p>
           <p>Remis à la prochaine séance</p>
+          <!-- @todo notation marginale -->
         </div>
       </div>
       <div>
         <head>Église de Plaisance</head>
-        <label><persName>Leclère</persName></label>
-        <p>L’architecte a rectifié les plans et devis. <unclear>propose moyens</unclear> faits tout ce qui ne <unclear>l’est</unclear> possible de faire.</p>
-        <p>Le projet est susceptible d’adoption. Renvoi au bureau de contrôle (à calquer).</p>
+        <label><persName>A. Leclère</persName></label>
+        <p>L’<expan>architecte</expan> a rectifié les plans et devis. <unclear>propose</unclear> ayant fait tout ce qu’il était possible de faire.</p>
+        <p>Le projet est susceptible d’adoption. Renvoi au Bureau de contrôle (à calquer).</p>
       </div>
-      <div>
+      <div type="case">
         <head>Amphithéâtre d’anatomie pittoresque à l’École des Beaux-arts</head>
         <label><persName>Caristie</persName></label>
-        <p>Le Conseil adopte le pon</p>
+        <p>Le Conseil adopte le parti proposé par M. le rapporteur puisqu’il n’y a pas d’inconvénient à ce que le devis adressé pour les projets soit maintenu en conséquence le <unclear>recevoir</unclear> au Bureau de contrôle (calquer le projet n° 3).</p>
+      </div>
+      <div type="case">
+        <head>Ministère des Travaux publics</head>
+        <label><persName>Rohault</persName></label>
+        <p>Suppression de 2 colonnes dans le passage</p>
+        <p>Qu’on <expan>demande</expan> s’il est bien nécessaire d’avoir des entresols. M. Moreau dit que cela est ainsi pour que le public ne monte pas au-dessus de l’appartement du directeur.</p>
+        <p>M. le président dit que le principe est de <unclear>faire</unclear> bien d’abord pour l’édifice. Il <expan>demande</expan> les employés en </p>
       </div>
 
 
