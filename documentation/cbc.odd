@@ -6,7 +6,8 @@
         <title xml:lang="fr"
           >Schéma et documentation de l’édition structurée des procès-verbaux du Conseil des bâtiments civils</title>
         <principal xml:id="EC">Emmanuel Château-Dutier</principal>
-        <funder>Labex Les Passés dans le Présent, <date from="2013" to="2018">2013-2018</date></funder>
+        <funder>Labex Les Passés dans le Présent, <date from="2013" to="2018"
+          >2013-2018</date></funder>
       </titleStmt>
       <publicationStmt>
         <publisher>Université de Montréal</publisher>
@@ -31,7 +32,7 @@
   <text>
     <front>
       <div>
-        <p></p>
+        <p/>
       </div>
     </front>
     <body>
@@ -55,7 +56,8 @@
           except="binaryObject headItem headLabel measure measureGrp name postBox postCode relatedItem said sp speaker stage street textLang time"/>
         <moduleRef key="linking" except="ab alt altGrp anchor join joinGrp timeline when"/>
         <moduleRef key="header"
-          except="appInfo application biblFull calendar calendarDesc correspAction correspContext correspDesc distributor handNote refState scriptNote segmentation "/>
+          except="appInfo application biblFull calendar calendarDesc correspAction correspContext correspDesc distributor refState scriptNote segmentation "
+        />
         <!-- pour une utilisation de handNote afin de traiter les annotations éventuelles -->
         <classSpec ident="att.handFeatures" mode="change" type="atts" module="tei">
           <attList>
@@ -72,6 +74,7 @@
             </attDef>
           </attList>
         </classSpec>
+        <moduleRef key="msdescription"/>
         <!-- structure du texte -->
         <moduleRef key="textstructure" except="div1 div2 div3 div4 div5 div6 div7"/>
         <elementSpec ident="div" mode="change">
@@ -80,22 +83,10 @@
               <datatype minOccurs="1" maxOccurs="unbounded"> <text
                 xmlns="http://relaxng.org/ns/structure/1.0"/> </datatype>
               <valList mode="replace" type="closed">
-                <valItem ident="dedicace"/>
-                <valItem ident="imprimatur"/>
+                <valItem ident="assembly"/>
+                <valItem ident="additional"/>
+                <valItem ident="case"/>
                 <valItem ident="toc"/>
-                <valItem ident="foreword"/>
-                <valItem ident="preface"/>
-                <valItem ident="introduction"/>
-                <valItem ident="book"/>
-                <valItem ident="part"/>
-                <valItem ident="chapter"/>
-                <valItem ident="section"/>
-                <valItem ident="item"/>
-                <valItem ident="index"/>
-                <valItem ident="errata"/>
-                <valItem ident="supplement"/>
-                <valItem ident="notes"/>
-                <valItem ident="notesCritical"/>
                 <valItem ident="unknown"/>
               </valList>
             </attDef>
