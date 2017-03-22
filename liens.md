@@ -12,7 +12,7 @@ En outre, pour les années 1839 à 1843, les minutes des procès-verbaux peuvent
 - F21 2541 (20 février 1841 au 8 décembre 1842, 197 feuillets) 
   - correspondant aux registres F21* 2536, 2542-5 et 2542-6 ; 
 
-- F21 25421 (12 décembre 1842 au 28 mars 1844, non paginé) 
+- F21 2542-1 (12 décembre 1842 au 28 mars 1844, non paginé) 
   - correspondant aux registres F21* 2542-7 et 2542-8. 
 
 De même, pour les années 1844 à 1846, les minutes des procès-verbaux peuvent être croisées avec la transcription des avis motivés conservés sous les cotes F21 2537 (4 janvier 1844 au 22 juin 1846, 475 p.) et F21 2538 (2 juillet 1846 au 28 décembre 1846, 99 p.).
