@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/cbc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcription des procès-verbaux du Conseil des bâtiments civils, F/21/2534</title>
+            </titleStmt>
+            <editor>
+                <persName>
+                    <forename>Emmanuel</forename>
+                    <surname>Château-Dutier</surname>
+                </persName>
+            </editor>
+            <publicationStmt>
+                <publisher>none</publisher>
+                <date from="2016-11">de novembre 2016 à </date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales de France</institution>
+                        <idno>FRAN/F/21/*/2534</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <docTitle>
+                                <titlePart>Procès-verbaux du Conseil des bâtiments civils</titlePart>
+                            </docTitle>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                <titlePart></titlePart>
+            </titlePage>
+        </front>
+        <body>
+            <div type="assembly">
+                <head>Séance du <date when="1839-01-17">17 janvier 1839</date></head>
+                <div type="case">
+                    <label>Seine</label>
+                    <label>Paris</label>
+                    <label>Projet d’agrandissement du ministère des Travaux publics et du Commerce</label>
+                    <label>380</label>
+                <p>M. Rohault dépose ce projet sur le bureau et demande à M. l’architecte s’il ne serait pas convenable de supprimer les colonnes placées dans le passage et M. Moreau reconnaît, qu’en effet, il y aura avantage à exécuter cette modification. Il fait ensuite connaître au Conseil que l‘entresol a été projeté afin d’éviter que le public ait à monter au-dessus de l’appartement de M. le Directeur général, M. le Président pense que cette disposition a l’inconvénient de détruire l’harmonie qu’il est convenable d’établir entre la façade projetée et celle qui existe, en conséquence il propose de placer les bureaux dans les bâtiments de la rue des <unclear cert="low">Baronnies</unclear> et <unclear cert="low">donner lad. façade dans ceux</unclear> dont il s’agit que les appartements de réception et d’habitation particulière, ce parti permettrait que les dispositions architecturales de <expan>ladite</expan> façade actuelle dans celle que l’on se propose d’édifier fut placée <gap extent="2" unit="words"/> celle de l’hôtel du ministère.</p>
+                <p>Monsieur l’architecte exprime la crainte que les construction de la rue de Varennes ne soit pas assez solide pour supporter la charge d’une surélévation, et de plus il pense que cette disposition n’augmentera de beaucoup la dépense.<pb/> Un membre fait remarquer que la suppression de l’entresol, produirait une diminution de dépense qui pourra établir une compensation qui nécessairement diminuera l’augmentation signalée.</p>
+                    <p>M. le Président examine de quelle manière le passage couvert devrait servir de communication entre le ministère des travaux publics et celui de l’Intérieur pourrait être disposé.</p>
+                    <p>Les explications données à ce sujet données par M. l’architecte démontrent qu’il sera facile d’établir ce passage dont la nécessité est reconnue par MM. les membres.</p>
+                    <p>Enfin, M. le Président invite plusieurs de M. les membres à se rendre rue de Varennes afin d’examiner conjointement avec M. Moreau si l’état actuel des constructions permet de les surélever, l’engageant <del>ensuite</del> à présenter ensuite au Conseil l’état des dépenses que l’estimation de ce nouveau projet pourrait occasionner.</p>
+            </div>
+            </div>
+        </body>
+    </text>
+</TEI>
