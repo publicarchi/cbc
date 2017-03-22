@@ -5,6 +5,7 @@
 http://www.siv.archives-nationales.culture.gouv.fr/siv/IR/FRAN_IR_000218
 
 Si ces minutes sont généralement difficiles à lire, les formules du discours architectural sont relativement récurrentes et par conséquent facilement compréhensibles pour un transcripteur exercé. En revanche, l’élucidation des noms de lieux peut s’avérer problématique. À cet égard, les minutes des procès-verbaux pourront être recoupées avec d’autres sources. Celles-ci comportent notamment une mention marginale que l’on retrouve dans les répertoires annuels F21* 2569 à 2579. 
+
 En outre, pour les années 1839 à 1843, les minutes des procès-verbaux peuvent également être croisées avec les notes prises au Conseil conservées sous les cotes :
 - F21 2540 (17 janvier 1839 au 9 janvier 1840, non paginé) 
   - correspondant au registres F21* 2534, 2535, 2542-3 et 2542-4 ; 
