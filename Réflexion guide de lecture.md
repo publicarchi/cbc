@@ -27,42 +27,50 @@ Montre une classification non exhaustive des formes des lettres et du système d
 
 ##### Les lettres dont la graphie est tombée en désuétude
 L'ouvrage présente des exemple de mots comprennant ces lettres (illustrations).
-** Les lettres à jambage **
-Lettres I, M, N, U et V. Parfois difficile d'individualiser et reconnaître ces lettres. 
-**Les lettres à jambage et aigrette**
-Lettres E et S.
-**Les lettres rondes**
-Lettres O et R dit "roulé".
-**Les lettres constituées par un trait d'attaque oblique sur la ligne d'écriture**
-Lettres A et D.
-**Le C "gothique"
-Le S à crosse**
+Lettres A, C gothique, D, E, I, M, N, O, R dit "roulé", S, S à crosse, U et V. 
+Parfois difficile d'individualiser et reconnaître ces lettres. 
 
 ##### Les lettres présentant par nature un développement sous la ligne d'écriture
 Lettres F, G, H, J, M, N, P, Q, S, Y, Z.
-**La lettre H
-Les lettres M et N
-Le S à crosse et le S bouclé tombant sous la ligne d'écriture**
 
 ##### Les lettres pouvant présenter, par déformation, un développement sous la ligne d'écriture
-**La lettre C (en position initiale d'un mot)
-La lettre L (en position initiale d'un mot)
-La lettre X**
+Les lettres C et L (en position initiale d'un mot), la lettre X.
 
 ##### Les lettres ayant la même graphie sous l'Ancien Régime
-**Les lettres I et J
-Les lettres G et Q
-Les lettres U et V (en position initiale d'un mot)**
+Les lettres G, I, J, Q, U et V (en position initiale d'un mot).
 
 ##### Les lettres employées l'une pour l'autre sous l'Ancien Régime
-**Les lettres I et Y
-Les lettres S et Z
-Les lettres S, Z et X comme marque du pluriel**
+Les lettres I, S, Y et Z, ainsi que S, Z et X comme marque du pluriel.
 
 #### Les différentes graphies usuelles d'une même lettre
+Répertorie de manière chronologique les différentes formes usuelles que peuvent prendre une même lettre selon diverses plumes, parfois dans un même texte : mot et illustrations.
 
+#### Les différentes graphies usuelles d'une même lettre
+Répertorie chronologiquement différentes formes que peuvent prendre une même lettre sous diverses plumes, ou dans un même texte parfois.
+Mentionne des exemples accompagnés d'illustrations des lettres au sein d'un mot complet.
 
+#### Les majuscules
+Liste d'exemples non exhaustifs des lettres majuscules utilisées sous l'Ancien Régime, les plsu couemment employées par les scribes sélectionnés. Suivant l'ordre alphabétique, illustrées par des mots complets.
 
+#### Un système d'abréviations complexe
+Trois modes d'abréviations conventionnels à l'époque moderne : par contraction, par suspension ou par l'utilisation de signes.
+- Les abréviations par contraction : mots dont le scribe a retranché certaines lettres médianes, en prenant parfois soin de conserver une ou deux lettres caractéristiques qui servent à reconnaître le mot abrégé, tout en signalant par un "titulus" d'abréviation. Donne des exemples de diverses utilisations d'un "titulus" et des illustrations.
+- Les abréviations par suspension : la ou les dernières lettres ou syllabes manquantes sont remplacées par un signe abréviatif, signalé par un titulus d'abréviation. Donne des exemples de diverses utilisations d'une suspension et des illustrations. 
+- Les signes abréviatifs conventionnels ou notes tironiennes : huit signes souvent employés, positionnés à la place de la syllabe abrégée. Donne les exemples de "CON" et "COM", "ET", "PAR"/"PER", "PRE", "PRO", "QUE", "UR", "US". Accompagnée d'illustrations.
+
+#### Les signes abréviatifs particuliers
+- L'utilisation du "etc." par les notaires : utilisés pour abréger les formules récurrentes dans les brouillons, développées ensuite dans les actes.
+- Les notes de renvoi : les lacunes d'un texte peuvent être corrigées par des renvois indiqués à la place de l'oubli, par un signe, une croix, un dièse, un signe égal vertical, ou tout autre signe, renvoyant au même signe en fin de texte.
+
+#### Les permanences orthographiques
+L'orthographe n'est pas fixe, elle peut aussi être originale ou fantaisiste, ou garder des traces de pratiques orthographiques passées, comme le latin.
+- L'ajout de lettres ou de groupes de lettres
+- Des nodifications d'ordre orthographique
+
+#### L'écriture des chiffres
+Les chiffres s'écrivent soit en toutes lettres, pour dater un acte, ou en chiffres romains ou arabes.
+
+### Transcriptions
 
 
 
