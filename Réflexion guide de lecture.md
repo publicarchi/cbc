@@ -81,6 +81,11 @@ Outils de travail, ouvrages et revues relatifs à l'écriture, ouvrages d'histoi
 
 
 
+## Gabriel Audisio (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
+
+
+
+
 
 
 
