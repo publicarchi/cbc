@@ -1,7 +1,7 @@
 Dans l'objectif de produire une transcription du corpus sélectionné et d'en faciliter la lecture, il serait souhaitable de réfléchir à la création d'un guide. Celui-ci serait regrouperait les outils pratiques et des méthodes pour déchiffrer les textes dont les formes peuvent varier entre les Procès Verbaux, les notes et les minutes. Il aiderait aussi à comprendre les différentes graphies dans ces documents.
 Cette méthode pourrait s'inspirer d'ouvrages destinés à apprendre les techniques de paléographie, dont nous dressons une liste non exhaustive :
 - [ ] Alphonse Chassant (1972). *Paléographie des chartes et des manuscrits du XIe au XVIIe siècle*. Genève: Slatkine Reprints.
-- [ ] Béatrice Beaucourt-Vicidomini (2012). *Manuel de paléographie moderne, XVIe-XVIIIe siécles*. Paris: Archives & culture.
+- [X] Béatrice Beaucourt-Vicidomini (2012). *Manuel de paléographie moderne, XVIe-XVIIIe siécles*. Paris: Archives & culture.
 - [ ] Marcel Lafortune (1982). *Initiation à la paléographie franco-canadienne: les écritures des notaires aux XVIIe-XVIIIe siècles*. Montréal: Société de recherche historique Archiv-Histo.
 - [ ] Colette Sirat (1981). *L’examen des écritures: l’œil et la machine : essai de méthodologie*. Paris: Editions du Centre national de la recherche scientifique.
 - [ ] Gabriel Audisio (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
@@ -71,6 +71,16 @@ L'orthographe n'est pas fixe, elle peut aussi être originale ou fantaisiste, ou
 Les chiffres s'écrivent soit en toutes lettres, pour dater un acte, ou en chiffres romains ou arabes.
 
 ### Transcriptions
+#### Les principales règles de la transcription
+La transcription de document  peut être très attachée à une reproduction du texte à l'identique, ou bien à une transcription très proche de notre écriture actuelle.
+Le parti pris de cet ouvrage est que la transcription doit respecter intégralement l'orthographe de l'original, restituer l'accentuation et la ponctuation, selon les règles actuelles, adopter notre système actuel de majuscules. À cela s'ajoutent d'autres règles concernant les ajouts et modifications de texte, les lacunes, les abréviations, etc.
+L'ouvrage propose ensuite 26 textes transcrits accompagnés de leur illustration avec les numéros de lignes ajoutées, et un glossaire en bas de page.
+
+### Bibliographie
+Outils de travail, ouvrages et revues relatifs à l'écriture, ouvrages d'histoire relatifs à l'époque moderne.
+
+
+
 
 
 
