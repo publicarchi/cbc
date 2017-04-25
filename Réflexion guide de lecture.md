@@ -100,17 +100,43 @@ Outils de travail, ouvrages et revues relatifs à l'écriture, ouvrages d'histoi
 
 ### Introduction
 Cite en référence l'ouvrage de Maurice Prou, puis du chanoine Reusens, Jacques Stiennon et bernard Bischoff, Françoise Gasparri, concernant les médiévistes. Pour les modernes, mentionne Gabriel Audisio et Isabelle Bonnot-Rambaud, Emmanuel Poulle, puis les cours de l'école des Chartes disponibles en ligne.
-
+Explique l'évolution de l'écriture des livres, qui est lente, alors que l'écriture diplomatique et documentaire évolue vite et qui est plus difficile à lire.
+Explique la méthode et les objectifs de cet ouvrage : non echaustif, favorise l'écriture documentaire car plus difficile à lire pour mieux initier. Textes pour la plupart tirés des archives de Lorraine.
+Observation du tracé des lettres et des abréviations et exercices de traçage.
+Donne des textes en original et en vis-à-vis sa transcription, totale ou partielle, ou présenté seul avec une transcription en annexe.
 
 ### Bibliographie sommaire 
+- Gabriel Audisio (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
+- Bernhard Bischoff (1985). *Paléographie de l'Antiquité romaine  et du Moyen Age occidental*, traduits par Hatmut Atsma et Jean Vezin. Paris :  Grands manuels Picard.
+- Alphonse Chassant (1972). *Paléographie des chartes et des manuscrits du XIe au XVIIe siècle*. Genève: Slatkine Reprints.
+- Françoise Gasparri (1994). *Introduction à l'histoire de l'écriture*. Turnhout : Brepols.
+- Emmanuel Poulle (1966). *Paléogrpahie des écritures cursives en France du XVe au XVIIe siècle*. Denève : Droz.
+- Maurice Prou (1924). *Manuel de paléographie latine et française*. Paris.
+- Chanoine Reusens (1963). *Éléments de paléographie*. Louvain-Bruxelles.
+- Jacques Stiennon (1991). *Paléographie du Moyen Age*. Paris : Armand Colin.
 
 ### Transcription des textes en latin et en français
+Donne des indications sur les principes suivis dans les transcriptions reportées dans cet ouvrage, sur le texte, les lettres u et i, les abréviations, les majuscules et noms propres et la ponctuation.
 
-### Pour mieux travailler
+### Pour mieux travailler (p.12)
+Méthode comprennant les phases successives suivantes :
+- reconstituer l'alphabet du scribe en recherchant l'emploi de chaque lettre de l'alphabet de a à z.
+- noter les changements éventuels dans le tracé de certaines lettres typiques (c, g, i, m, r).
+- chercher toutes les abréviations et proposer leur résolution.
+- recopier tout le texte mot à mot, parfois lettre par lettre, en laissant en blanc les motss ou lettres non lus.
+- comparer la transcription avec une version corrigée.
 
 ### Écrire et abréger
 #### L'alphabet
+Description des termes employés pour décrire les letttres et leur forme (haste, hampe, queue, barre, panse, boucle). Cette description est réalisée pour chaque lettre de l'aphabet selon différentes formes majuscules, minuscules et plusieurs graphies, illustrées.
+Décrit ensuite des exemples de ligatures entre des letres, accompagnés d'exemples illustrés.
+Décrit les chiffres et les lettres, à savoir le système de notation des chiffres en chiffres romains et chiffres arabes, ainsi que leur usage. Explique comment comprendre les inscriptions des multiples de 20. Donne des exemple de transcriptions et ilustrations completes ou partielles en vis-à-vis.
+Explique comment différencier les lettres majuscules et les lettres allongées, qui ornent souvent les premières lignes d'un acte diplomatique, donne des exemples illustrés.
+Montre des exemples de divers alphabets sous format d'illustration.
+
 #### Les abréviations
+
+
 #### La mise en page
 
 ### L'écriture caroline Xe-XIIe siècle
