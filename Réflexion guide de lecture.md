@@ -84,6 +84,45 @@ Outils de travail, ouvrages et revues relatifs à l'écriture, ouvrages d'histoi
 ## Gabriel Audisio (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
 
 
+## Alphonse Chassant (1972). *Paléographie des chartes et des manuscrits du XIe au XVIIe siècle*. Genève: Slatkine Reprints.
+
+
+## Marcel Lafortune (1982). *Initiation à la paléographie franco-canadienne: les écritures des notaires aux XVIIe-XVIIIe siècles*. Montréal: Société de recherche historique Archiv-Histo.
+
+
+## Colette Sirat (1981). *L’examen des écritures: l’œil et la machine : essai de méthodologie*. Paris: Editions du Centre national de la recherche scientifique.
+
+
+## Nicolas Buat (2016). *Manuel de paléographie française*. Paris: Les Belles Lettres.
+
+
+## Michel Parisse (2006). *Manuel de paléographie médiévale: manuel pour grands commençants*. Paris: Picard.
+
+### Introduction
+Cite en référence l'ouvrage de Maurice Prou, puis du chanoine Reusens, Jacques Stiennon et bernard Bischoff, Françoise Gasparri, concernant les médiévistes. Pour les modernes, mentionne Gabriel Audisio et Isabelle Bonnot-Rambaud, Emmanuel Poulle, puis les cours de l'école des Chartes disponibles en ligne.
+
+
+### Bibliographie sommaire 
+
+### Transcription des textes en latin et en français
+
+### Pour mieux travailler
+
+### Écrire et abréger
+#### L'alphabet
+#### Les abréviations
+#### La mise en page
+
+### L'écriture caroline Xe-XIIe siècle
+#### L'écriture documentaire
+#### L'écriture des livres
+
+### L'écriture gothique XIIIe-XVe siècle
+#### Les chartes
+#### Les registres
+#### Les livres
+
+### Sources et transcriptions
 
 
 
