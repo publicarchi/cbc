@@ -14,7 +14,7 @@ Cette méthode pourrait s'inspirer d'ouvrages destinés à apprendre les techniq
 ## Béatrice Beaucourt-Vicidomini (2012). *Manuel de paléographie moderne, XVIe-XVIIIe siécles*. Paris: Archives & culture.
 
 ### Introduction
-L'ouvrage comprend une introduction sur son utilisation et les sections qu'il contient, ainsi que les choix de textes proposés pour l'apprentissage de la paléographie. Il s'agit la plupart du temps d'actes notariés ou d'actes erlatifs à la vie chrétienne. Notons qu'il s'agit uniquement de textes en langue française, présentés dans leur intégralité, afin de montrer comment une écriture peut changer au cours de la rédaction d'un acte et se dégrader pour devenir de plus en plus cursive, comporter plus d'abréviations et de ligatures, qui compliquent la lecture.
+L'ouvrage comprend une introduction sur son utilisation et les sections qu'il contient, ainsi que les choix de textes proposés pour l'apprentissage de la paléographie. Il s'agit la plupart du temps d'actes notariés ou d'actes relatifs à la vie chrétienne. Notons qu'il s'agit uniquement de textes en langue française, présentés dans leur intégralité, afin de montrer comment une écriture peut changer au cours de la rédaction d'un acte et se dégrader pour devenir de plus en plus cursive, comporter plus d'abréviations et de ligatures, qui compliquent la lecture.
 
 ### Vivre sous l'Ancien Régime
 Comprend des données sur la population française, naître, se marier et mourir à cette époque.
@@ -50,7 +50,7 @@ Répertorie chronologiquement différentes formes que peuvent prendre une même 
 Mentionne des exemples accompagnés d'illustrations des lettres au sein d'un mot complet.
 
 #### Les majuscules
-Liste d'exemples non exhaustifs des lettres majuscules utilisées sous l'Ancien Régime, les plsu couemment employées par les scribes sélectionnés. Suivant l'ordre alphabétique, illustrées par des mots complets.
+Liste d'exemples non exhaustifs des lettres majuscules utilisées sous l'Ancien Régime, les plus souvent employées par les scribes sélectionnés. Suivant l'ordre alphabétique, illustrées par des mots complets.
 
 #### Un système d'abréviations complexe
 Trois modes d'abréviations conventionnels à l'époque moderne : par contraction, par suspension ou par l'utilisation de signes.
@@ -130,18 +130,32 @@ Méthode comprennant les phases successives suivantes :
 #### L'alphabet
 Description des termes employés pour décrire les letttres et leur forme (haste, hampe, queue, barre, panse, boucle). Cette description est réalisée pour chaque lettre de l'aphabet selon différentes formes majuscules, minuscules et plusieurs graphies, illustrées.
 Décrit ensuite des exemples de ligatures entre des letres, accompagnés d'exemples illustrés.
-Décrit les chiffres et les lettres, à savoir le système de notation des chiffres en chiffres romains et chiffres arabes, ainsi que leur usage. Explique comment comprendre les inscriptions des multiples de 20. Donne des exemple de transcriptions et ilustrations completes ou partielles en vis-à-vis.
+Décrit les chiffres et les lettres, à savoir le système de notation des chiffres en chiffres romains et chiffres arabes, ainsi que leur usage. Explique comment comprendre les inscriptions des multiples de 20. Donne des exemples de transcriptions et ilustrations completes ou partielles en vis-à-vis.
 Explique comment différencier les lettres majuscules et les lettres allongées, qui ornent souvent les premières lignes d'un acte diplomatique, donne des exemples illustrés.
 Montre des exemples de divers alphabets sous format d'illustration.
 
 #### Les abréviations
-
+Grand usage des abréviations à l'époque médiévale. La plupart des scribes utilisent des systèmes d'abréviations identiques ou similaires. Le smanuels de paléographie consacrent tous un chapitre aux abréviations, mais il existe aussi des listes et des dictionnaires d'abréviations.
+donne un énoncé des abréviations indispensables à connaître, les lettres abrégées sont indiquées en gras. puis donne uen liste d'abréviations par contraction à connaître.
+Mentionne les abréviations : tilde, les abréviations finales par suspension, les abréviations par signes conventionnels, les abréviations par lettres suscrites, les abréviations par contracgtion.
+Mêle la description et des illustrations d'exemples.
+Puis liste des contractions en grand format suivi d'exercice de lecture des abréviations avec transcriptions et illustrations en vis-à-vis.
 
 #### La mise en page
+Réglure horizontale qui sert aux lettres minuscules, cadre vertical pour aligner el texte à droite et à gauche selon la justification, coupant les mots lorsque nécessaire. Évolution de la disposition des mots et des phrases, de l'usage de la ponctuation et des lettres majuscules.
+Explique le sproblèmes liés aux mots mal séparés, des mots séparés, de la ponctuation, du point d'interrogation, des pancartes et pieds de mouche, , de la glose. Présenté sous format de texte descriptif et explicatif accompagné d'exemples illustrés.
 
 ### L'écriture caroline Xe-XIIe siècle
 #### L'écriture documentaire
+Recherche de solennité dans les documents de type charte : grand format, mise en page soignées, signes symboliques, allongements des hastes et des hampes et boucles décoratives, disposition des colonnes et listes de témoins, attache de sceaux.
+Évolution de l'écriture assez sensible pour pouvoir dater un document selon l'écriture à 50 ans près. Les lettres se resserrent et les mots se rapprochent, le tracé des lettres s'accélère et on voit les marques de la vitesse d'exécution. Séparation très nette des mots, ponctuation plus ferme, majuscules plus nombreuses.
+Décrit les écritures autour de l'an Mil, puis la calligraphie et les ornements, écriture gothicisante, avec description et explications de textes illustrés et transcrits partiellement.
+
 #### L'écriture des livres
+Écriture des manuscrits, par opposition aux feuilles de parchemin des chartes. 
+Pas de fioritures, limitation maximale de shampes et des hastes. les lettres minuscules se cantonnent dans les lignes de référence. 
+DOnne des exemples de la caroline primitive, d'écriture du IXe siècle, d'évangéliaire du Xe siècle, d'annales de l'an Mil, d'une bible du XIIe siècle, d'un mécrologe, d'un cartulaire, d'uen charte en écriture livresque, d'un tableau de consanguinité, etc.
+Les exemples sont décrits et expliqués, accompagnées d'illustrations peline page et de transcriptions partielles ou complètes.
 
 ### L'écriture gothique XIIIe-XVe siècle
 #### Les chartes
