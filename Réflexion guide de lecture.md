@@ -6,7 +6,7 @@ Cette méthode pourrait s'inspirer d'ouvrages destinés à apprendre les techniq
 - [ ] Colette Sirat (1981). *L’examen des écritures: l’œil et la machine : essai de méthodologie*. Paris: Editions du Centre national de la recherche scientifique.
 - [ ] Gabriel Audisio (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
 - [ ] Nicolas Buat (2016). *Manuel de paléographie française*. Paris: Les Belles Lettres.
-- [ ] Michel Parisse (2006). *Manuel de paléographie médiévale: manuel pour grands commençants*. Paris: Picard.
+- [X] Michel Parisse (2006). *Manuel de paléographie médiévale: manuel pour grands commençants*. Paris: Picard.
 
 
 # Résumé des guides de paléographie
@@ -158,11 +158,22 @@ DOnne des exemples de la caroline primitive, d'écriture du IXe siècle, d'évan
 Les exemples sont décrits et expliqués, accompagnées d'illustrations peline page et de transcriptions partielles ou complètes.
 
 ### L'écriture gothique XIIIe-XVe siècle
+XIIIe siècle : multiplicité des écritures, puis vient l'écriture cursive progressivment au XIVe siècle. Présence grandissante de la langue vernaculaire.
+
 #### Les chartes
+Documents relativement brefs de type administratif ou juridique, donc très variés. Très lisibles au départ, puis de plsu en plsu difficiles vers la fin du Moyen Age.
+Fournit des échantillons d'écriture variés, avec des plans généraux et détaillés des documents, selon leur format. Fournit les transcriptions en vis-à-vis et une explication de texte.
+
 #### Les registres
+L'écriture devient beaucoup plus rapide, les lettres s'enchainent et se mêlent, le tracé va au plus court et se simplifie, la lecture devient plus difficile.
+Exemples de documents illustrés accompagnés de leur description et de la transcription.
+
 #### Les livres
+L'écriture livresque reste assez fidèle à l'ancienne pratique et se différencie donc de plus en plus des autres types d'écriture. Le tracé des lettres reste celui de la base caroline. Les transformations se font sur l'interligne, le resserrement de l'espace entre les mots, la distinction entre les lettres à jambage est moins nette.
+Exemples de documents illustrés accompagnés de leur explication et de leur transcription.
 
 ### Sources et transcriptions
+Donne les transcriptions complètes en annexe des illustrations dont les textes transcrits étaient partiels.
 
 
 
