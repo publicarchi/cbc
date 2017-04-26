@@ -95,6 +95,52 @@ Outils de travail, ouvrages et revues relatifs à l'écriture, ouvrages d'histoi
 
 ## Nicolas Buat (2016). *Manuel de paléographie française*. Paris: Les Belles Lettres.
 
+### Aux origines de la paléographie
+#### Archivistes et paléographes
+#### Papyrus, parchemin, papier
+#### Du latin au français
+#### Des archives bien classées
+#### Un peu de théorie, beaucoup de pratique
+
+### L'écriture cursive
+#### La paléographie romaine
+#### La nouvelle écriture commune
+#### Libraria et documentaire
+#### La mixte
+#### Gothique et financière
+
+### Les abréviations
+#### Typologie des abréviations
+#### Étude de cas
+
+### Lettres et diagrammes
+#### Majuscules et ponctuation
+
+### Langue et orthographe
+#### Orthographe
+#### Règles de transcription
+
+### Morphologie et syntaxe
+#### Morphologie
+#### Syntaxe
+
+### Texte et contexte
+#### Les prénoms
+#### Les noms
+#### Civilités et titres d'honneur
+#### Les signatures
+#### Les dates
+#### Les mesures
+#### La monnaie
+#### Les actes notariés
+
+### Orientation bibliographique
+
+### Exercices
+
+
+
+
 
 ## Michel Parisse (2006). *Manuel de paléographie médiévale: manuel pour grands commençants*. Paris: Picard.
 
