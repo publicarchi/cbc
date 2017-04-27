@@ -94,37 +94,101 @@ Outils de travail, ouvrages et revues relatifs à l'écriture, ouvrages d'histoi
 
 
 ## Nicolas Buat (2016). *Manuel de paléographie française*. Paris: Les Belles Lettres.
+L'ouvrage comporte des planches encadrées avec des textes illustrés, accompagnés de leur transcription et de leur explication.
 
-### Aux origines de la paléographie
-#### Archivistes et paléographes
-#### Papyrus, parchemin, papier
-#### Du latin au français
-#### Des archives bien classées
-#### Un peu de théorie, beaucoup de pratique
+### Aux origines de la paléographie (pp.11-25)
+#### Archivistes et paléographes (pp.12-16)
+Informations historiques sur la conservation des archives administratives, les premiers paléographes puis l'affirmation de cette science qui deviendra autonome. Distinction entre la palégraphie et la diplomatique.
 
-### L'écriture cursive
-#### La paléographie romaine
-#### La nouvelle écriture commune
-#### Libraria et documentaire
-#### La mixte
-#### Gothique et financière
+#### Papyrus, parchemin, papier (pp.16-20)
+Historique et développement des divers supports.
 
-### Les abréviations
-#### Typologie des abréviations
-#### Étude de cas
+#### Du latin au français (pp.20-22)
+Historique et développement des langues au sein des documents et dans la langue parlée.
 
-### Lettres et diagrammes
-#### Majuscules et ponctuation
+#### Des archives bien classées (pp.22-24)
+Explications du système du classement des services d'archives en France, par séries.
 
-### Langue et orthographe
-#### Orthographe
-#### Règles de transcription
+#### Un peu de théorie, beaucoup de pratique (pp.24-25)
+Explique la nécessité de comprendre le contexte des textes à transcrire pour pouvoir mieux déchiffrer l'ensemble d'un document.
 
-### Morphologie et syntaxe
-#### Morphologie
-#### Syntaxe
+### L'écriture cursive (pp.27-47)
+#### La paléographie romaine (pp.27-34)
+Grande différence entre l'alphabet que nous connaissons et l'écriture cursive, très difficile à lire.
+Donne une planche en exemple, avec comparaison de deux types d'inscriptions, l'une classique et l'autre cursive, avec illustrations respectives.
+Montre des exemples d'alphabets latins dans des tableaux, avec illustrations des lettres.
+Donne des exemples de lettres ou de mots illustrés incrustés dans le texte.
 
-### Texte et contexte
+#### La nouvelle écriture commune (pp.34-35)
+Nouvelle écriture témoigne de nouveaux gestes, changement d'angles, lettres qui se redressent ou glissent vers le bas, nouvelles ligatures. Hastes mieux séparées, hampes qui descendent sous les lettres mieux calibré. Écriture à l'origine de celle qu'on étudie en paléographie française. l'écriture onciale des manuscrits en est un des dérivés les plus connus.
+Donne des exemples de mots illustrés incrustés dans le texte.
+
+#### Libraria et documentaire (pp.35-39)
+Différencier l'écriture des manuscrits littéraires (*libraria*) et celle des archives, documentaire, qui fait l'objet exclusif de cet ouvrage.
+Donne l'historique du développement de l'écriture cursive.
+Comporte des planches avec exemples de mots et leur evolution chronologique et montrant les différences allant vers une écriture cursive croissante.
+
+#### La mixte (pp.39-43)
+TOurnant du XIVe siècle, adoption d'une écriture réformée issue de la chancellerie parisienne, dûe à l'évolution de l'instrument d'écriture, avec l'emploi d'une plume plus large, taillée en biseau à gauche. Offre un éventail plsu large de directions.
+Exemples de planches pour montrer l'évolution de l'écriture, puis des exemples de tracé de lettres.
+
+#### Gothique et financière (pp.43-47)
+Écriture crusive par excellence, adaptée au travail rapide et à la prise de note sous disvtée, facile à déformer et styliser.
+
+### Les abréviations (pp.49-75)
+Dans l'écriture documentaire, les abréviations ne sont pas systématiques car la cursivité permet de simplifier l'écriture des mots plutôt que d'utiliser des abréviations. Elles sont donc plsu redondantes et plsu faciles à identifier.
+
+#### Typologie des abréviations (pp.52-69)
+Distingue deux niveaux d'abréciations : L'abréviation par contraction et l'abréviation par construction, qui englobe les autres.
+Abréviations par contraction :  porte sur l'ensemble du mot, à connaître par coeur, car récurrentes.
+Abréviations par exposant : servent à abréger les titres d'honneur.
+Latin et notes tironiennes : Signes rappelant des abréviaitons latines, traduisant des mots français.
+Abréviations par suspension : marquées à l'aide d'un tilde, spécifiant la fin d'un mot.
+Donne des tableaux d'abréviations de différents types à différentes époques.
+
+#### Étude de cas (pp.69-75)
+Exemple d'une étude de cas d'un document pour montrer l'usage des abréviations et donne des tableaux des résultats d'abréviations trouvées  mettant en valeur les abréviations et montrant l'illustration du mot correspondant.
+
+### Lettres et digrammes (pp.77-94)
+Idéalement il faudrait parcourir chaque texte en entier avant de le déchiffrer, reconnaître l'alphabet et noter chaque différente forme d'une même lettre. Dans la praique la réalité est différente car certaines lettres vont par groupe de deux ou trois ou par mot entier transformés par la cursivité en idéogrammes.
+Donne de nombreux exemples et analyses statistiques.
+
+#### Majuscules et ponctuation (pp.88-94)
+L'écriture manuscrite ignore l'usage de la ponctuation, qu'on trouve sous une forme différente, par exemple, un triat diagonal, qui peut servir de parenthèse ou de guillemets. Les ponctuations fortes ou semi-fortes sont suggérées par une majuscule. Dans les énumérations, le mot *Item* marque le début d'un article.
+Propose une vue d'ensemble de l'évolution des majuscules, sous format de tableau illustré.
+
+### Langue et orthographe (pp.95-120)
+Distingue le moyen français comme la langue utilisée entre 1350 et 1610, qui se sépare nettement de l'ancien français utilisée par la suite. Puis la langue du français classique (et actuel) apparaît progressivement et se fige en 1835.
+
+#### Orthographe (pp.98-116)
+Les scribes s'autorisent quelques libertés mais peu de fantaisie ni d'arbitraire, issues d'uen tradition etymologique et phonétique.
+Usage étendu des voyelles nasales, diphtongues, nouveaux sons, nouvelles conventions. 
+
+#### Règles de transcription (pp.116-120)
+Propose de suivre les règles de paléographie modernes de l'École nationale des Chartes :
+- Ponctuation, majuscules : règles actuelles, sans tenir compte de la pratique du scribe.
+- Orthographe : graphie du document doit être rigoureusement respectée.
+Mais propose des variations :
+- lettres i et u ayant valeur de consonnes sont remplacées par j et v.
+- les mots agglutinés sont séparés.
+- abréviations développées la plupart du temps, pas nécessaire d'indiquer les lettres restituées.
+- usage des accents adaptés à l'époque considérée.
+
+### Morphologie et syntaxe (pp.121-145)
+Syntaxe présente des difficultés subtiles, provoque des contresens grammaticaux. Bouleversement du système nominal, disparition des déclinaisons et généralisation de l'emploi de l'article avec le moyen français. Puis emploi des mots outils du français moderne.
+
+#### Morphologie (pp.123-133)
+Disparition des déclinaisons. Explique le cas des adjectifs, des verbes, de l'article, du démonstratif, du pronom personnel, des adverbes de circonstance, des conjonctions de coordination, des prépositions et locutions prépositionnelles, de l'expression de la négation.
+Exemples de phrases ou de transcriptions d'illustrations pour montrer les diverses morphologies des mots.
+
+#### Syntaxe (pp.134-145)
+Avec la disparition des déclinaisons, l'ordre des mots devient moins flexible, il marque la relation entre verbe et sujet.
+Traite de l'ordre des mots, de la subordination, des "si", de la proposition relative, des redondances de style, du conditionnel de narration.
+Exemples de phrases ou de transcriptions d'illustrations pour montrer les diverses morphologies des mots.
+*Donne un exemple d'un procès-verbal copié par dex mains différentes, avec les illustraitons correspondantes et leur transcription (p.145).*
+
+### Texte et contexte (pp.147-179)
+
 #### Les prénoms
 #### Les noms
 #### Civilités et titres d'honneur
