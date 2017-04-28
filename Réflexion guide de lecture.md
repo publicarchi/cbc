@@ -188,12 +188,28 @@ Exemples de phrases ou de transcriptions d'illustrations pour montrer les divers
 *Donne un exemple d'un procès-verbal copié par dex mains différentes, avec les illustraitons correspondantes et leur transcription (p.145).*
 
 ### Texte et contexte (pp.147-179)
+Lien entre paléographie et critique historique des documents : réflexion sur el contexte de production des documents avant de les transcrire et connaissance du contexte historique et linguistique.
+Il faut se méfier de la lecture anticipée et lire seulement ce qu'il est possible de lire.
+En cas d'écriture difficile, procéder par comparaison, s'approprier l'alphabet et les diagrammes et combler les mots difficiles à l'aide des mots faciles à déchiffrer ou d'expressions issues de documents similaires.
 
-#### Les prénoms
-#### Les noms
-#### Civilités et titres d'honneur
-#### Les signatures
-#### Les dates
+#### Les prénoms (pp.154-157)
+Donne un panorama des prénoms les plus utilisés selon diverses périodes, sous format de tableaux avec pourcentages.
+Mentionne que certains prénoms très courants sont parfois abrégés et donne des exemples illustrés.
+
+#### Les noms (pp.157-159)
+Usage du nom de famille s'impose au Moyen Age afin de différencier les individus et affirmer le lignage. Ajout de mentions telles que "L'aîné" ou "Le jeune".
+La lecture des noms de familles est parfois difficile car ne peut se deviner et l'orthographe d'un même nom peut évoluer d'uen génération à l'autre et ils s'accordent parfois en genre et nombre.
+
+#### Civilités et titres d'honneur (pp.159-162)
+Rend compte du rang social. Les titres et civilités sont parfois abrégés.
+Donne plusieurs exemples sous forme de liste d'extrait de textes transcrits, regroupé selon la fonction occupées par un individu.
+
+#### Les signatures (pp.162-164)
+Les isgnatures sont très diverses, certaines très élaborées et d'autres réduites à une croix ou un symbole.
+
+#### Les dates (pp.164-169)
+
+
 #### Les mesures
 #### La monnaie
 #### Les actes notariés
