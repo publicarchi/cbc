@@ -13,16 +13,16 @@ Cette méthode pourrait s'inspirer d'ouvrages destinés à apprendre les techniq
 
 ## Béatrice Beaucourt-Vicidomini (2012). *Manuel de paléographie moderne, XVIe-XVIIIe siécles*. Paris: Archives & culture.
 
-### Introduction
+### Introduction (pp.3-4)
 L'ouvrage comprend une introduction sur son utilisation et les sections qu'il contient, ainsi que les choix de textes proposés pour l'apprentissage de la paléographie. Il s'agit la plupart du temps d'actes notariés ou d'actes relatifs à la vie chrétienne. Notons qu'il s'agit uniquement de textes en langue française, présentés dans leur intégralité, afin de montrer comment une écriture peut changer au cours de la rédaction d'un acte et se dégrader pour devenir de plus en plus cursive, comporter plus d'abréviations et de ligatures, qui compliquent la lecture.
 
-### Vivre sous l'Ancien Régime
+### Vivre sous l'Ancien Régime (pp.5-12)
 Comprend des données sur la population française, naître, se marier et mourir à cette époque.
 
-### L'écriture des temps modernes
+### L'écriture des temps modernes (pp.13-42)
 Comprend une description des changements d'écriture depuis le XVe siècle jusqu'au XVIIIe siècle, en expliquant ici le choix d'un corpus du XVIIe siècle qui comprend de nombreuses variations témoignant de ces changements. Fournit des exemples d'alphabets (illustration).
 
-#### Des formes de lettres propres à l'Ancien Régime
+#### Des formes de lettres propres à l'Ancien Régime (pp.16-21)
 Montre une classification non exhaustive des formes des lettres et du système d'écriture pour la différencier de l'écriture contemporaine, ainsi que les différentes graphies d'une même lettre au fil du temps.
 
 ##### Les lettres dont la graphie est tombée en désuétude
@@ -42,41 +42,41 @@ Les lettres G, I, J, Q, U et V (en position initiale d'un mot).
 ##### Les lettres employées l'une pour l'autre sous l'Ancien Régime
 Les lettres I, S, Y et Z, ainsi que S, Z et X comme marque du pluriel.
 
-#### Les différentes graphies usuelles d'une même lettre
+#### Les différentes graphies usuelles d'une même lettre (pp.22-27)
 Répertorie de manière chronologique les différentes formes usuelles que peuvent prendre une même lettre selon diverses plumes, parfois dans un même texte : mot et illustrations.
 
 #### Les différentes graphies usuelles d'une même lettre
 Répertorie chronologiquement différentes formes que peuvent prendre une même lettre sous diverses plumes, ou dans un même texte parfois.
 Mentionne des exemples accompagnés d'illustrations des lettres au sein d'un mot complet.
 
-#### Les majuscules
+#### Les majuscules (pp.28-30)
 Liste d'exemples non exhaustifs des lettres majuscules utilisées sous l'Ancien Régime, les plus souvent employées par les scribes sélectionnés. Suivant l'ordre alphabétique, illustrées par des mots complets.
 
-#### Un système d'abréviations complexe
+#### Un système d'abréviations complexe (pp.31-35)
 Trois modes d'abréviations conventionnels à l'époque moderne : par contraction, par suspension ou par l'utilisation de signes.
 - Les abréviations par contraction : mots dont le scribe a retranché certaines lettres médianes, en prenant parfois soin de conserver une ou deux lettres caractéristiques qui servent à reconnaître le mot abrégé, tout en signalant par un "titulus" d'abréviation. Donne des exemples de diverses utilisations d'un "titulus" et des illustrations.
 - Les abréviations par suspension : la ou les dernières lettres ou syllabes manquantes sont remplacées par un signe abréviatif, signalé par un titulus d'abréviation. Donne des exemples de diverses utilisations d'une suspension et des illustrations. 
 - Les signes abréviatifs conventionnels ou notes tironiennes : huit signes souvent employés, positionnés à la place de la syllabe abrégée. Donne les exemples de "CON" et "COM", "ET", "PAR"/"PER", "PRE", "PRO", "QUE", "UR", "US". Accompagnée d'illustrations.
 
-#### Les signes abréviatifs particuliers
+#### Les signes abréviatifs particuliers (pp.36-37)
 - L'utilisation du "etc." par les notaires : utilisés pour abréger les formules récurrentes dans les brouillons, développées ensuite dans les actes.
 - Les notes de renvoi : les lacunes d'un texte peuvent être corrigées par des renvois indiqués à la place de l'oubli, par un signe, une croix, un dièse, un signe égal vertical, ou tout autre signe, renvoyant au même signe en fin de texte.
 
-#### Les permanences orthographiques
+#### Les permanences orthographiques (pp.38-40)
 L'orthographe n'est pas fixe, elle peut aussi être originale ou fantaisiste, ou garder des traces de pratiques orthographiques passées, comme le latin.
 - L'ajout de lettres ou de groupes de lettres
 - Des nodifications d'ordre orthographique
 
-#### L'écriture des chiffres
+#### L'écriture des chiffres (pp.41-42)
 Les chiffres s'écrivent soit en toutes lettres, pour dater un acte, ou en chiffres romains ou arabes.
 
-### Transcriptions
-#### Les principales règles de la transcription
+### Transcriptions (pp.43-142)
+#### Les principales règles de la transcription (pp.44)
 La transcription de document  peut être très attachée à une reproduction du texte à l'identique, ou bien à une transcription très proche de notre écriture actuelle.
 Le parti pris de cet ouvrage est que la transcription doit respecter intégralement l'orthographe de l'original, restituer l'accentuation et la ponctuation, selon les règles actuelles, adopter notre système actuel de majuscules. À cela s'ajoutent d'autres règles concernant les ajouts et modifications de texte, les lacunes, les abréviations, etc.
 L'ouvrage propose ensuite 26 textes transcrits accompagnés de leur illustration avec les numéros de lignes ajoutées, et un glossaire en bas de page.
 
-### Bibliographie
+### Bibliographie (p.143)
 Outils de travail, ouvrages et revues relatifs à l'écriture, ouvrages d'histoire relatifs à l'époque moderne.
 
 
@@ -133,10 +133,10 @@ TOurnant du XIVe siècle, adoption d'une écriture réformée issue de la chance
 Exemples de planches pour montrer l'évolution de l'écriture, puis des exemples de tracé de lettres.
 
 #### Gothique et financière (pp.43-47)
-Écriture crusive par excellence, adaptée au travail rapide et à la prise de note sous disvtée, facile à déformer et styliser.
+Écriture crusive par excellence, adaptée au travail rapide et à la prise de note sous dictée, facile à déformer et styliser.
 
 ### Les abréviations (pp.49-75)
-Dans l'écriture documentaire, les abréviations ne sont pas systématiques car la cursivité permet de simplifier l'écriture des mots plutôt que d'utiliser des abréviations. Elles sont donc plsu redondantes et plsu faciles à identifier.
+Dans l'écriture documentaire, les abréviations ne sont pas systématiques car la cursivité permet de simplifier l'écriture des mots plutôt que d'utiliser des abréviations. Elles sont donc plsu redondantes et plus faciles à identifier.
 
 #### Typologie des abréviations (pp.52-69)
 Distingue deux niveaux d'abréciations : L'abréviation par contraction et l'abréviation par construction, qui englobe les autres.
