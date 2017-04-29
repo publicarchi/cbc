@@ -208,9 +208,12 @@ Donne plusieurs exemples sous forme de liste d'extrait de textes transcrits, reg
 Les isgnatures sont très diverses, certaines très élaborées et d'autres réduites à une croix ou un symbole.
 
 #### Les dates (pp.164-169)
+La lecture des dates peut poser problème par rapportau réformes du calendrier, telles que la réforme grégorienne par exemple. Mentionen d'autres réformes. Il faut alors mentionner la date en la transformant en date du "nouveau style" (n.s.).
+Puis vient la lecture de la forme de la date, en chiffres romains et avec exposants par exemple, ou avec les multiples de vingt, puis l'emploi progressif des chiffres arabes à partir du XVIe siècle. Puis le smois sont réduits à un chiffre et un suffixe (ex : novembre devient 9bre ou IXbre.
 
+#### Les mesures (pp.169-171)
+Poids et mesures sont complexes, un même terme peut recouvrir plusieurs idées très différentes selon le lieu ou la nature de l'objet concerné. Adoption du système métrique en 1790.
 
-#### Les mesures
 #### La monnaie
 #### Les actes notariés
 
