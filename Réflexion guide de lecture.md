@@ -5,7 +5,7 @@ Cette méthode pourrait s'inspirer d'ouvrages destinés à apprendre les techniq
 - [ ] Marcel Lafortune (1982). *Initiation à la paléographie franco-canadienne: les écritures des notaires aux XVIIe-XVIIIe siècles*. Montréal: Société de recherche historique Archiv-Histo.
 - [ ] Colette Sirat (1981). *L’examen des écritures: l’œil et la machine : essai de méthodologie*. Paris: Editions du Centre national de la recherche scientifique.
 - [ ] Gabriel Audisio (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
-- [ ] Nicolas Buat (2016). *Manuel de paléographie française*. Paris: Les Belles Lettres.
+- [X] Nicolas Buat (2016). *Manuel de paléographie française*. Paris: Les Belles Lettres.
 - [X] Michel Parisse (2006). *Manuel de paléographie médiévale: manuel pour grands commençants*. Paris: Picard.
 
 
@@ -209,18 +209,31 @@ Les isgnatures sont très diverses, certaines très élaborées et d'autres réd
 
 #### Les dates (pp.164-169)
 La lecture des dates peut poser problème par rapportau réformes du calendrier, telles que la réforme grégorienne par exemple. Mentionen d'autres réformes. Il faut alors mentionner la date en la transformant en date du "nouveau style" (n.s.).
-Puis vient la lecture de la forme de la date, en chiffres romains et avec exposants par exemple, ou avec les multiples de vingt, puis l'emploi progressif des chiffres arabes à partir du XVIe siècle. Puis le smois sont réduits à un chiffre et un suffixe (ex : novembre devient 9bre ou IXbre.
+Puis vient la lecture de la forme de la date, en chiffres romains et avec exposants par exemple, ou avec les multiples de vingt, puis l'emploi progressif des chiffres arabes à partir du XVIe siècle. Puis les mois sont réduits à un chiffre et un suffixe (ex : novembre devient 9bre ou IXbre.
 
 #### Les mesures (pp.169-171)
-Poids et mesures sont complexes, un même terme peut recouvrir plusieurs idées très différentes selon le lieu ou la nature de l'objet concerné. Adoption du système métrique en 1790.
+Poids et mesures sont complexes, un même terme peut recouvrir plusieurs idées très différentes selon le lieu ou la nature de l'objet concerné. Adoption du système métrique en 1790 entraîne disparition des anciennes unités. On peut trouver les équivalences dans des tables de conversion éaborées par les Commissions départementales des poids et mesures.
 
-#### La monnaie
-#### Les actes notariés
+#### La monnaie (pp.172-174)
+Prix en livres tournois (de Tours), supplante la livre parisis (de Paris), plus faible car 5 tournois = 4 parisis. Il s'agit d'unités de comptes.
+Au XVIe siècle les monnaires le splsu prestigieuses étaient l'écu d'or au soleil et le teston d'argent. Puis à partir de 1640 circulent les louis d'or, les écus d'argent et le billon de cuivre.
+Tous les contrats notariés devaient être passés en livres tournois pour être de valeur égale.
+1 écu = 3 livres.
+1 livre = 20 sous.
+1 sous = 12 deniers.
 
-### Orientation bibliographique
+#### Les actes notariés (pp.174-179)
+Chaque catégorie d'acte obéit à un style plsu ou moins codifié, et on peut recourir au *Parfait notaire* pour s'en impregner.
+Des formules sont récurrentes dans les actes et présentes les différentes parties.
+Les introductions d'actes sont longues car contiennent de nombreuses informations sur les parties. Puis vient le verbe qui donne la raison de l'acte. Puis il finti par les clauses finales.
+Donne de nombreux exemples de formulations transcrites en texte.
+
+### Orientation bibliographique (pp.181-187)
+Références bibliogrpahiques en paléographie, sur la langue française, sur la métrologie, et des références en ligne.
 
 ### Exercices
-
+Cahier d'exercices pour apprendre à lire les texte et les transcrire, à partir d'illustrations.
+Suivi des solutions.
 
 
 
