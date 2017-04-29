@@ -1,9 +1,8 @@
-Dans l'objectif de produire une transcription du corpus sélectionné et d'en faciliter la lecture, il serait souhaitable de réfléchir à la création d'un guide. Celui-ci serait regrouperait les outils pratiques et des méthodes pour déchiffrer les textes dont les formes peuvent varier entre les Procès Verbaux, les notes et les minutes. Il aiderait aussi à comprendre les différentes graphies dans ces documents.
+Dans l'objectif de produire une transcription du corpus sélectionné et d'en faciliter la lecture, il serait souhaitable de réfléchir à la création d'un guide. Celui-ci regrouperait des outils pratiques et des méthodes pour déchiffrer les textes dont les formes peuvent varier entre les Procès Verbaux, les notes et les minutes. Il aiderait aussi à comprendre les différentes graphies dans ces documents.
 Cette méthode pourrait s'inspirer d'ouvrages destinés à apprendre les techniques de paléographie, dont nous dressons une liste non exhaustive :
 - [ ] Alphonse Chassant (1972). *Paléographie des chartes et des manuscrits du XIe au XVIIe siècle*. Genève: Slatkine Reprints.
 - [X] Béatrice Beaucourt-Vicidomini (2012). *Manuel de paléographie moderne, XVIe-XVIIIe siécles*. Paris: Archives & culture.
 - [ ] Marcel Lafortune (1982). *Initiation à la paléographie franco-canadienne: les écritures des notaires aux XVIIe-XVIIIe siècles*. Montréal: Société de recherche historique Archiv-Histo.
-- [ ] Colette Sirat (1981). *L’examen des écritures: l’œil et la machine : essai de méthodologie*. Paris: Editions du Centre national de la recherche scientifique.
 - [ ] Gabriel Audisio (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
 - [X] Nicolas Buat (2016). *Manuel de paléographie française*. Paris: Les Belles Lettres.
 - [X] Michel Parisse (2006). *Manuel de paléographie médiévale: manuel pour grands commençants*. Paris: Picard.
@@ -83,24 +82,50 @@ Outils de travail, ouvrages et revues relatifs à l'écriture, ouvrages d'histoi
 
 ## Gabriel Audisio et Isabelle Rambaud (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
 
-### Introduction (pp.5-9)
+### Introduction (pp.5-8)
+Ouvrage à destination des étudiants, chercheurs et généalogistes pour lire les textes en langue française du XVIe au XVIIIe siècle.
+Explique l'évolution du mode d'accès aux archives qui sont numérisées et de plus en plus disponibles en ligne.
+Difficulté de lecture de la plupart des documents, donc il s'agit de fournir les bases pour comprendre et appréhender les textes.
+L'ouvrage ne traite pas les textes en latin ou en langues régionales (à part le provençal), et privilégie le français.
+Ouvrage en deux parties, la 1ere expliquant le contexte de l'écriture et comment la lire, la 2e est ocmposée de 52 textes classés selon leru difficulté avec un fac-similé du texte et sa transcription.
+Varie les types d'écritures et les époques, des textes intégraux et donc renoncer aux grands formats.
 
 ### "La parole est d'argent et le silence d'or" (pp.10-17)
 #### Un monde cloisonné (pp.10-13)
+Présente le contexte culturel des diverses époques traitées, le contexte commercial, géographique, démographique et social, mais aussi religieux.
+
 #### Un univers de la parole (pp.13-17)
+Primauté du geste et de la parole plutôt que de l'écrit.
 
 ### Les paroles volent, les écrits restent (pp. 18-26)
+Écart entre le monde des lettrés qui savent lire et écrire et le monde analphabète, puis la catégorie des intermédiaires culturels.
+Savoir écrire est rare et est une marque de pouvoir. Mais le XVe et XVIe siècle marquent l'explosion de l'écrit car on a de plus en plus besoin de lire et écrire, suite à un accroissement de l'encadrement administratif.
+
 #### Le support de l'écrit (pp.20-21)
-#### L'imprimerie (pp.21-24)
+Frein de L'expansion de l'écriture parfois lié à son support : le parchemin est dispendieux, et à cela s'ajoute sa mise au format, sa décoration et la reliure. Donc le livre est un objet rare. L'utilisation du papier se généralise à la fin du XIVe siècle, car bien moins coûteux.
+
+#### L'imprimerie (pp.21-23)
+Invention et développement de l'imprimerie comparé à la production de la masse manuscrite. Au XVe siècle, l'offre manuscrite ne répond plus à la demande, malgré les abréviations qui fait gagner de l'espace et du temps, l'impression fait sa place avec l'invention des caractères mobiles métalliques par Gutenberg. Le prix du livre ainsi que son temps de production baisse alors que le nombre d'éditions augmente.
+
 #### Lire et écrire (pp.24-26)
+L'apprentissage de la lecture et de l'écriture est peu répandu. Puis la multiplication de l'usage de précepteurs pour les jeunes et ensuite la création de petites écoles montre que la population souhaite apprendre.
 
 ### Langues nobles, langues vulgaires (pp.27-37)
+Ave cle papier, l'imprimerie et l'alphabétisation, s'instaure un double système d'écriture. L'écriture manuscrite se libère des écritures traditionnelles et peut se permettre d'être plus simple, plus rapide, plus personnelle... mais aussi plus ifficile à déchiffrer. L'écriture cursive et l'écriture d'imprimerie doivent être toutes deux apprises.
+
 #### Le front latino-français (pp.28-32)
+Sortie du règne du latin, encore utilisé largement par les nobles, éclésiastiques et l'administration et par les scientifiques et est utilisé pour les communications internationales.
+Mais dès le début du XVIe siècle, le déclin du latin arrive : Réforme de l'Église entraîne les traductions et adaptations en langues courantes. Les nouveaux alphabètes ne lisent et n'écrivent pas le latin, mais bien le français.
+Les imprimeurs développent leur production majoritairement en français, et donc les écrits se propagent dans cette langue plus facilement.
+Enfin le français devient la langue royale et administrative et el atin est progressivement abandonné.
+
 #### Le front franco-dialectal (pp.33-37)
+Différence entre le français et les langues faisant office de dialectes ou patois dans diverses régions, que la population parle quotidiennement. Le latin ou le français sont des langues secondes. 
+Il arrive parfois que les actes notariés comportent des termes issus de dialectes, dont on ne connaît l'équivalent latin ou français, pour des objets du quotidien.
 
 ### Le moyen français (pp.38-47)
 #### Le vocabulaire (pp.38-39)
-#### La syntaxe (pp.39-40)
+#### La syntaxe (p.39)
 #### L'orthographe (pp.40-43)
 #### La présentation du texte (pp.43-45)
 #### Une particularité : la langue et les pratiques notariales (pp.45-47)
