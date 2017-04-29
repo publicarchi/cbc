@@ -216,7 +216,7 @@ Poids et mesures sont complexes, un même terme peut recouvrir plusieurs idées 
 
 #### La monnaie (pp.172-174)
 Prix en livres tournois (de Tours), supplante la livre parisis (de Paris), plus faible car 5 tournois = 4 parisis. Il s'agit d'unités de comptes.
-Au XVIe siècle les monnaires le splsu prestigieuses étaient l'écu d'or au soleil et le teston d'argent. Puis à partir de 1640 circulent les louis d'or, les écus d'argent et le billon de cuivre.
+Au XVIe siècle les monnaies les plus prestigieuses étaient l'écu d'or au soleil et le teston d'argent. Puis à partir de 1640 circulent les louis d'or, les écus d'argent et le billon de cuivre.
 Tous les contrats notariés devaient être passés en livres tournois pour être de valeur égale.
 1 écu = 3 livres.
 1 livre = 20 sous.
@@ -225,7 +225,7 @@ Tous les contrats notariés devaient être passés en livres tournois pour être
 #### Les actes notariés (pp.174-179)
 Chaque catégorie d'acte obéit à un style plsu ou moins codifié, et on peut recourir au *Parfait notaire* pour s'en impregner.
 Des formules sont récurrentes dans les actes et présentes les différentes parties.
-Les introductions d'actes sont longues car contiennent de nombreuses informations sur les parties. Puis vient le verbe qui donne la raison de l'acte. Puis il finti par les clauses finales.
+Les introductions d'actes sont longues car contiennent de nombreuses informations sur les parties. Puis vient le verbe qui donne la raison de l'acte. Puis il finit par les clauses finales.
 Donne de nombreux exemples de formulations transcrites en texte.
 
 ### Orientation bibliographique (pp.181-187)
@@ -240,14 +240,14 @@ Suivi des solutions.
 
 ## Michel Parisse (2006). *Manuel de paléographie médiévale: manuel pour grands commençants*. Paris: Picard.
 
-### Introduction
+### Introduction (pp.7-8)
 Cite en référence l'ouvrage de Maurice Prou, puis du chanoine Reusens, Jacques Stiennon et bernard Bischoff, Françoise Gasparri, concernant les médiévistes. Pour les modernes, mentionne Gabriel Audisio et Isabelle Bonnot-Rambaud, Emmanuel Poulle, puis les cours de l'école des Chartes disponibles en ligne.
 Explique l'évolution de l'écriture des livres, qui est lente, alors que l'écriture diplomatique et documentaire évolue vite et qui est plus difficile à lire.
 Explique la méthode et les objectifs de cet ouvrage : non echaustif, favorise l'écriture documentaire car plus difficile à lire pour mieux initier. Textes pour la plupart tirés des archives de Lorraine.
 Observation du tracé des lettres et des abréviations et exercices de traçage.
 Donne des textes en original et en vis-à-vis sa transcription, totale ou partielle, ou présenté seul avec une transcription en annexe.
 
-### Bibliographie sommaire 
+### Bibliographie sommaire (p.9)
 - Gabriel Audisio (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
 - Bernhard Bischoff (1985). *Paléographie de l'Antiquité romaine  et du Moyen Age occidental*, traduits par Hatmut Atsma et Jean Vezin. Paris :  Grands manuels Picard.
 - Alphonse Chassant (1972). *Paléographie des chartes et des manuscrits du XIe au XVIIe siècle*. Genève: Slatkine Reprints.
@@ -257,7 +257,7 @@ Donne des textes en original et en vis-à-vis sa transcription, totale ou partie
 - Chanoine Reusens (1963). *Éléments de paléographie*. Louvain-Bruxelles.
 - Jacques Stiennon (1991). *Paléographie du Moyen Age*. Paris : Armand Colin.
 
-### Transcription des textes en latin et en français
+### Transcription des textes en latin et en français (pp.10-11)
 Donne des indications sur les principes suivis dans les transcriptions reportées dans cet ouvrage, sur le texte, les lettres u et i, les abréviations, les majuscules et noms propres et la ponctuation.
 
 ### Pour mieux travailler (p.12)
@@ -268,53 +268,53 @@ Méthode comprennant les phases successives suivantes :
 - recopier tout le texte mot à mot, parfois lettre par lettre, en laissant en blanc les motss ou lettres non lus.
 - comparer la transcription avec une version corrigée.
 
-### Écrire et abréger
-#### L'alphabet
+### Écrire et abréger (pp.13-70)
+#### L'alphabet (pp.16-30)
 Description des termes employés pour décrire les letttres et leur forme (haste, hampe, queue, barre, panse, boucle). Cette description est réalisée pour chaque lettre de l'aphabet selon différentes formes majuscules, minuscules et plusieurs graphies, illustrées.
 Décrit ensuite des exemples de ligatures entre des letres, accompagnés d'exemples illustrés.
 Décrit les chiffres et les lettres, à savoir le système de notation des chiffres en chiffres romains et chiffres arabes, ainsi que leur usage. Explique comment comprendre les inscriptions des multiples de 20. Donne des exemples de transcriptions et ilustrations completes ou partielles en vis-à-vis.
 Explique comment différencier les lettres majuscules et les lettres allongées, qui ornent souvent les premières lignes d'un acte diplomatique, donne des exemples illustrés.
 Montre des exemples de divers alphabets sous format d'illustration.
 
-#### Les abréviations
+#### Les abréviations (pp.31-55)
 Grand usage des abréviations à l'époque médiévale. La plupart des scribes utilisent des systèmes d'abréviations identiques ou similaires. Le smanuels de paléographie consacrent tous un chapitre aux abréviations, mais il existe aussi des listes et des dictionnaires d'abréviations.
 donne un énoncé des abréviations indispensables à connaître, les lettres abrégées sont indiquées en gras. puis donne uen liste d'abréviations par contraction à connaître.
 Mentionne les abréviations : tilde, les abréviations finales par suspension, les abréviations par signes conventionnels, les abréviations par lettres suscrites, les abréviations par contracgtion.
 Mêle la description et des illustrations d'exemples.
 Puis liste des contractions en grand format suivi d'exercice de lecture des abréviations avec transcriptions et illustrations en vis-à-vis.
 
-#### La mise en page
+#### La mise en page (pp.56-67)
 Réglure horizontale qui sert aux lettres minuscules, cadre vertical pour aligner el texte à droite et à gauche selon la justification, coupant les mots lorsque nécessaire. Évolution de la disposition des mots et des phrases, de l'usage de la ponctuation et des lettres majuscules.
 Explique le sproblèmes liés aux mots mal séparés, des mots séparés, de la ponctuation, du point d'interrogation, des pancartes et pieds de mouche, , de la glose. Présenté sous format de texte descriptif et explicatif accompagné d'exemples illustrés.
 
-### L'écriture caroline Xe-XIIe siècle
-#### L'écriture documentaire
+### L'écriture caroline Xe-XIIe siècle (pp.69-119)
+#### L'écriture documentaire (pp.71-96)
 Recherche de solennité dans les documents de type charte : grand format, mise en page soignées, signes symboliques, allongements des hastes et des hampes et boucles décoratives, disposition des colonnes et listes de témoins, attache de sceaux.
 Évolution de l'écriture assez sensible pour pouvoir dater un document selon l'écriture à 50 ans près. Les lettres se resserrent et les mots se rapprochent, le tracé des lettres s'accélère et on voit les marques de la vitesse d'exécution. Séparation très nette des mots, ponctuation plus ferme, majuscules plus nombreuses.
 Décrit les écritures autour de l'an Mil, puis la calligraphie et les ornements, écriture gothicisante, avec description et explications de textes illustrés et transcrits partiellement.
 
-#### L'écriture des livres
+#### L'écriture des livres (pp.97-119)
 Écriture des manuscrits, par opposition aux feuilles de parchemin des chartes. 
 Pas de fioritures, limitation maximale de shampes et des hastes. les lettres minuscules se cantonnent dans les lignes de référence. 
 DOnne des exemples de la caroline primitive, d'écriture du IXe siècle, d'évangéliaire du Xe siècle, d'annales de l'an Mil, d'une bible du XIIe siècle, d'un mécrologe, d'un cartulaire, d'uen charte en écriture livresque, d'un tableau de consanguinité, etc.
 Les exemples sont décrits et expliqués, accompagnées d'illustrations peline page et de transcriptions partielles ou complètes.
 
-### L'écriture gothique XIIIe-XVe siècle
+### L'écriture gothique XIIIe-XVe siècle (pp.121-200)
 XIIIe siècle : multiplicité des écritures, puis vient l'écriture cursive progressivment au XIVe siècle. Présence grandissante de la langue vernaculaire.
 
-#### Les chartes
+#### Les chartes (pp.125-152)
 Documents relativement brefs de type administratif ou juridique, donc très variés. Très lisibles au départ, puis de plsu en plsu difficiles vers la fin du Moyen Age.
 Fournit des échantillons d'écriture variés, avec des plans généraux et détaillés des documents, selon leur format. Fournit les transcriptions en vis-à-vis et une explication de texte.
 
-#### Les registres
+#### Les registres (pp.153-172)
 L'écriture devient beaucoup plus rapide, les lettres s'enchainent et se mêlent, le tracé va au plus court et se simplifie, la lecture devient plus difficile.
 Exemples de documents illustrés accompagnés de leur description et de la transcription.
 
-#### Les livres
+#### Les livres (pp.173-200)
 L'écriture livresque reste assez fidèle à l'ancienne pratique et se différencie donc de plus en plus des autres types d'écriture. Le tracé des lettres reste celui de la base caroline. Les transformations se font sur l'interligne, le resserrement de l'espace entre les mots, la distinction entre les lettres à jambage est moins nette.
 Exemples de documents illustrés accompagnés de leur explication et de leur transcription.
 
-### Sources et transcriptions
+### Sources et transcriptions (pp.201-236)
 Donne les transcriptions complètes en annexe des illustrations dont les textes transcrits étaient partiels.
 
 
