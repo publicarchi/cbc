@@ -81,7 +81,57 @@ Outils de travail, ouvrages et revues relatifs à l'écriture, ouvrages d'histoi
 
 
 
-## Gabriel Audisio (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
+## Gabriel Audisio et Isabelle Rambaud (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
+
+### Introduction (pp.5-9)
+
+### "La parole est d'argent et le silence d'or" (pp.10-17)
+#### Un monde cloisonné (pp.10-13)
+#### Un univers de la parole (pp.13-17)
+
+### Les paroles volent, les écrits restent (pp. 18-26)
+#### Le support de l'écrit (pp.20-21)
+#### L'imprimerie (pp.21-24)
+#### Lire et écrire (pp.24-26)
+
+### Langues nobles, langues vulgaires (pp.27-37)
+#### Le front latino-français (pp.28-32)
+#### Le front franco-dialectal (pp.33-37)
+
+### Le moyen français (pp.38-47)
+#### Le vocabulaire (pp.38-39)
+#### La syntaxe (pp.39-40)
+#### L'orthographe (pp.40-43)
+#### La présentation du texte (pp.43-45)
+#### Une particularité : la langue et les pratiques notariales (pp.45-47)
+
+### L'art de l'écriture, un succès de l'imprimerie ? (pp.48-60)
+
+### L'évolution des écritures (pp.61-72)
+#### L'héritage médiéval (pp.61-62)
+#### XVIe siècle : entre la ronde et l'italique (pp.62-64)
+#### XVIIe siècle : financière et bâtarde (pp.64-68)
+#### XVIIIe siècle : la coulée (pp.69-72)
+
+### Un système d'écritures du XVIe au XVIIIe siècle : permanences et métamorphoses (pp.73-105)
+#### Les abréviations (pp.74-85)
+#### Les permanences orthographiques (pp.86-88)
+#### Métamorphose de l'écriture (pp.88-105)
+
+### Des chiffres et des nombres (pp.106-124)
+#### Les chiffres romains (pp.111-114)
+#### Les chiffres indo-arabes (pp.114-116)
+#### Les dates (pp.116-121)
+#### Les expressions chiffrées (pp.121-124)
+
+### Documents : de la théorie à la pratique (pp.126-285)
+
+### Bibliographie d'orientation (pp.287-289)
+
+### Glossaire (pp.291-292)
+
+### Vocabulaire technique (pp.293-295)
+
 
 
 ## Alphonse Chassant (1972). *Paléographie des chartes et des manuscrits du XIe au XVIIe siècle*. Genève: Slatkine Reprints.
