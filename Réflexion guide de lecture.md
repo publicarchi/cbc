@@ -177,7 +177,7 @@ Utilisation d'une orthographe qui paraît fantaisiste :
 Donne des exemples de mots et abréviations illustrés avec leurs transcription.
 
 #### Métamorphose de l'écriture (pp.88-105)
-
+À cette période il y avait déja de grands écarts et difficultés de lecture de textes.
 
 ### Des chiffres et des nombres (pp.106-124)
 #### Les chiffres romains (pp.111-114)
