@@ -124,21 +124,44 @@ Différence entre le français et les langues faisant office de dialectes ou pat
 Il arrive parfois que les actes notariés comportent des termes issus de dialectes, dont on ne connaît l'équivalent latin ou français, pour des objets du quotidien.
 
 ### Le moyen français (pp.38-47)
+Problèmes de lecture et de compréhension liés à la langue. Le moyen fran^cais est parfois incompréhensible à cause du vocabulaire, de la syntaxe, de l'orthographe, de la présentation et l'ordre du texte.
+
 #### Le vocabulaire (pp.38-39)
+Certains termes ne sont plus employés, sont sortis du vocabulaire français courant, ou certians ont changé de sens, il est odnc conseillé de recourir à des dictionnaires spécialisés.
+
 #### La syntaxe (p.39)
+La construction de la phrase est souvent proche du latin.
+
 #### L'orthographe (pp.40-43)
+L'orthographe des mots est encore empreinte de leur origine étymologique pour ceux qui avaient appris le latin, sinon ils prennent surtout la forme phonétique qui semble la plus logique. Certaines lettres muettes modifient l'orthographe des mots. La séparation entre certains mots est parfois aléatoire. Les prénoms et noms de famille subissent parfois le même sort.
+
 #### La présentation du texte (pp.43-45)
+Absence de ponctuation et d'accentuation dans le manuscrit et l'imprimé.
+
 #### Une particularité : la langue et les pratiques notariales (pp.45-47)
+Les actes notairés regorgent d'écritures rapides et d'abréviations. Il existe plusieurs formes des actes, la minute ou brève qui est un brouillon abrégé et la grosse, qui constitue le document complet et étendu.
+Les notaires doivent respecter ce que leur client leur demande d'écrire, tout en respectant la forme de l'acte.
 
 ### L'art de l'écriture, un succès de l'imprimerie ? (pp.48-60)
+Lien entre le développement de l'imprimerie et celui de l'écriture, qui se répand. On change la taille de la plume selon l'écriture désirée, ce qui modifie le geste de l'écriture, qui devient un réel apprentissage.
 
 ### L'évolution des écritures (pp.61-72)
 #### L'héritage médiéval (pp.61-62)
+Évolution de la minuscule caroline, lisible, fait face à l'apparition de la gothique mais aussi de la gothique cursive, qui est plus rapidement exécutée. On adopte donc une écriture à la morphologie mixte au XIVe siècle. On passe à un type d'écriture liée, rapide et naturelle.
+
 #### XVIe siècle : entre la ronde et l'italique (pp.62-64)
+Le shumanistes développent l'écriture "ronde" en opposiiton à l'écriture cursive gothique, dite italique.
+Plusieurs écritures découlent de celles-ci en fonction de l'usage qui leur est destiné.
+
 #### XVIIe siècle : financière et bâtarde (pp.64-68)
+Demande du Parlement en 1632 de convenir entre maîtres-écrivains de la configuraiton de toutes les lettres majuscules et minuscules pour produire un caractère et formulaire à suivre pour l'enseignement. On vise à épurer les lettres et supprimer traits superflus, lettres inutiles et abréviations.
+
 #### XVIIIe siècle : la coulée (pp.69-72)
+On utilise différentes plumes selon le choix d'écriture, en ronde ou en bâtarde. Une nouvelle forme d'écriture apparaît, la coulée, plus rapide d'usage. Elle est le résultat des écritures cursivess, sans règle ni proportion.
+Chaque écriture se subdivise en plusieurs modèles. Toutefois la tendance générale est au relâchement et à la vulgarisation de l'écriture, on cherche une utilisation rapide et on néglige les effets de calligraphie, au détriment de la lisibilité.
 
 ### Un système d'écritures du XVIe au XVIIIe siècle : permanences et métamorphoses (pp.73-105)
+
 #### Les abréviations (pp.74-85)
 #### Les permanences orthographiques (pp.86-88)
 #### Métamorphose de l'écriture (pp.88-105)
@@ -147,9 +170,9 @@ Il arrive parfois que les actes notariés comportent des termes issus de dialect
 #### Les chiffres romains (pp.111-114)
 #### Les chiffres indo-arabes (pp.114-116)
 #### Les dates (pp.116-121)
-#### Les expressions chiffrées (pp.121-124)
+#### Les expressions chiffrées (pp.121-122)
 
-### Documents : de la théorie à la pratique (pp.126-285)
+### Documents : de la théorie à la pratique (pp.123-285)
 
 ### Bibliographie d'orientation (pp.287-289)
 
@@ -163,9 +186,6 @@ Il arrive parfois que les actes notariés comportent des termes issus de dialect
 
 
 ## Marcel Lafortune (1982). *Initiation à la paléographie franco-canadienne: les écritures des notaires aux XVIIe-XVIIIe siècles*. Montréal: Société de recherche historique Archiv-Histo.
-
-
-## Colette Sirat (1981). *L’examen des écritures: l’œil et la machine : essai de méthodologie*. Paris: Editions du Centre national de la recherche scientifique.
 
 
 ## Nicolas Buat (2016). *Manuel de paléographie française*. Paris: Les Belles Lettres.
