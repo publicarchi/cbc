@@ -161,10 +161,23 @@ On utilise différentes plumes selon le choix d'écriture, en ronde ou en bâtar
 Chaque écriture se subdivise en plusieurs modèles. Toutefois la tendance générale est au relâchement et à la vulgarisation de l'écriture, on cherche une utilisation rapide et on néglige les effets de calligraphie, au détriment de la lisibilité.
 
 ### Un système d'écritures du XVIe au XVIIIe siècle : permanences et métamorphoses (pp.73-105)
+Pistes pour mieux comprendre les signes et principes de l'écriture de cette période.
 
 #### Les abréviations (pp.74-85)
+Abréviations par suspension, par contraction et usage de signes particuliers (notes tironiennes).
+- Abréviations par suspension : La finale du mot est raccourcie, le mot se termine de deux façons possibles. Soit par un trait marquant l'abréviation (tilde). Soit  en poursuivant la graphie par un trait plongeant sous la ligne d'écriture, ou une finale relevée qui se relève au dessus de la ligne d'écriture.
+- Abréviation par contraction : Premières et dernières lettres du mots sont écrites, disparition des syllabes ou lettre du milieu de mot. Marqué par un tilde, ou un trait continu, ou une plongeante ou relevée, ou avec une finale en exposant.
+- Les signes particuliers (notes tironiennes) :  On utilise un signe pour remplacer plusieurs lettres ou un mot. Par exemple "con-", le signe "et", "par", "per", "-pro", "-pre", le signe "que".
+Donne des exemples de mots et abréviations illustrés avec leurs transcription.
+
 #### Les permanences orthographiques (pp.86-88)
+Utilisation d'une orthographe qui paraît fantaisiste :
+- Adjonction de lettres : groupe "-ct", lettre "-b", lettre "-d", groupe "-fv", lettre "-g", etc... 
+- Métamorphose d'une même lettre : utilisation de formes anciennes et utilisation d'une lettre pour une autre.
+Donne des exemples de mots et abréviations illustrés avec leurs transcription.
+
 #### Métamorphose de l'écriture (pp.88-105)
+
 
 ### Des chiffres et des nombres (pp.106-124)
 #### Les chiffres romains (pp.111-114)
