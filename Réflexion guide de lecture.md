@@ -177,10 +177,19 @@ Utilisation d'une orthographe qui paraît fantaisiste :
 Donne des exemples de mots et abréviations illustrés avec leurs transcription.
 
 #### Métamorphose de l'écriture (pp.88-105)
-À cette période il y avait déja de grands écarts et difficultés de lecture de textes.
+Entre le XIVe et le XVIIIe siècle il y avait déja de grands écarts et difficultés de lecture de textes à cause des changements de forme de l'écriture. Montre l'importance du *ductus* ou façon de conduire les lettres, les mots et les phrases, et importance des ligatures, qui relient les lettres ou les mots. De la cursivité de l'écriture dépend la forme des mots et des phrases.
+On signale ici quelques tendances générales :
+- Les lettres à attaque fractionnée (a, c, d, e, s final, t). Formées par plusieurs traits distincts, qu'on finit par ne former que d'un seul geste.
+- Les lettres plongeantes par nature (f, g, j, p, q, s en début ou milieu de mot, y et z). Formée par un trait certical sous la ligne d'écriture.
+- Les lettres plongeantes par déformation (c, h, l, m ou n final, x). La cursivité provoque un développement excessif des boucles sous la ligne d'écriture.
+- Les lettres à jambage (i, m, n, u, v) : un jambage appraît en dessus ou en dessous de la ligne d'écriture.
+- Les lettres à boucle : le cas du "r". Présente deux formes spécifiques pouvant poser des problèmes de lecture.
+- Les majuscules : Il existe des formes de référence des lettres majuscules, que chaque scribe déforme plus ou moins selon la cursivité de sa graphie.
 
 ### Des chiffres et des nombres (pp.106-124)
-#### Les chiffres romains (pp.111-114)
+
+
+#### Les chiffres romains (pp.111-113)
 #### Les chiffres indo-arabes (pp.114-116)
 #### Les dates (pp.116-121)
 #### Les expressions chiffrées (pp.121-122)
