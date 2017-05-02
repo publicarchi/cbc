@@ -3,7 +3,7 @@ Cette méthode pourrait s'inspirer d'ouvrages destinés à apprendre les techniq
 - [ ] Alphonse Chassant (1972). *Paléographie des chartes et des manuscrits du XIe au XVIIe siècle*. Genève: Slatkine Reprints.
 - [X] Béatrice Beaucourt-Vicidomini (2012). *Manuel de paléographie moderne, XVIe-XVIIIe siécles*. Paris: Archives & culture.
 - [ ] Marcel Lafortune (1982). *Initiation à la paléographie franco-canadienne: les écritures des notaires aux XVIIe-XVIIIe siècles*. Montréal: Société de recherche historique Archiv-Histo.
-- [ ] Gabriel Audisio (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
+- [X] Gabriel Audisio (2016). *Lire le français d’hier: manuel de paléographie moderne : XVe-XVIIIe siècle*, cinquième édition revue et augmentée. Paris: Armand Colin.
 - [X] Nicolas Buat (2016). *Manuel de paléographie française*. Paris: Les Belles Lettres.
 - [X] Michel Parisse (2006). *Manuel de paléographie médiévale: manuel pour grands commençants*. Paris: Picard.
 
@@ -185,22 +185,43 @@ On signale ici quelques tendances générales :
 - Les lettres à jambage (i, m, n, u, v) : un jambage appraît en dessus ou en dessous de la ligne d'écriture.
 - Les lettres à boucle : le cas du "r". Présente deux formes spécifiques pouvant poser des problèmes de lecture.
 - Les majuscules : Il existe des formes de référence des lettres majuscules, que chaque scribe déforme plus ou moins selon la cursivité de sa graphie.
+Donne des exemples de mots et lettres illustrés avec leurs transcription.
+
 
 ### Des chiffres et des nombres (pp.106-124)
-
-
 #### Les chiffres romains (pp.111-113)
+La lecture des chiffres romains est difficile puisqu'il s'agit de lettres numérales, elles se confondent parfois avec les lettres des mots, car ne sont pas toujours exprimées en majuscule, sauf le C, L et parfois le V. Il existe donc des risques de les confondre avec des abréviations ou des mots.
+Donne des exemples de chiffres romains de différentes formes, dans un tableau récapitulatif. Donne aussi des exemples avec des chiffres sous format de mots, illustrés et expliqués.
+
 #### Les chiffres indo-arabes (pp.114-116)
+Les chiffres arabes sont d'usage courant vers la fin du Moyen Age chez les spécialistes, et dans les actes seulement à partir de l'Humanisme. Ils ont servis avant cela à l'usagemathématique, calendriers, astrologie, etc. La forme des chiffres, comme celle des lettres, a beaucoup varié. La cursivité de l'écriture peut induire en erreur sur certaines formes.
+Donne des exemples de chiffres de différentes formes, dans un tableau récapitulatif. Donne aussi des exemples avec des chiffres sous format de mots, illustrés et expliqués.
+
 #### Les dates (pp.116-121)
+Explique la réforme en 1582 du calendrier grégorien.
+Explique la façon d'exprimer les dizaines suivant le multiplicateur de 10 ou de 20.
+La forme la plus courante des dates était en chiffres romains ou arabes, jour et année, et le mois en toutes letres ou sous forme d'abréviations de chiffres et de lettres, ou des abrévations. Cependant parfois les genres sont mélangés.
+Donne des exemples de dates illustrées et expliquées.
+
 #### Les expressions chiffrées (pp.121-122)
+Les ligature sentraînent des déformations, on utilise des abréviations d'unités de mesures diverses, et chiffres et alphabet peuvent être utilisés.
+Donne des exemples d'expressions chiffrées illustrées et expliquées.
 
 ### Documents : de la théorie à la pratique (pp.123-285)
+Présente les illustrations de documents en pleine page, accompagnées d'une courte explication de texte et de sa transcription.
 
 ### Bibliographie d'orientation (pp.287-289)
+Références bibliographiques classées par thèmes :
+- Histoire de l'écriture
+- Manuels et recueils de reproductions
+- Chiffres et nombres
 
 ### Glossaire (pp.291-292)
+Glossaire des termes français pouvant présenter des difficultés de compréhension, que l'on retrouve dans les textes illustrant le spropos de l'ouvrage.
 
 ### Vocabulaire technique (pp.293-295)
+Vocabulaire technique sur la pratique de la paléographie et de la transcription, sur l'écriture, etc.
+
 
 
 
