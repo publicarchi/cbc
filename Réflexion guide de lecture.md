@@ -452,6 +452,8 @@ Donne les transcriptions complètes en annexe des illustrations dont les textes 
 
 ## Alphonse Chassant (1972). *Paléographie des chartes et des manuscrits du XIe au XVIIe siècle*. Genève: Slatkine Reprints.
 
+###
+####
 
 
 
