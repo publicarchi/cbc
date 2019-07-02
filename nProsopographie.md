@@ -1,4 +1,16 @@
-# Proposographie
+# Prospographie
+
+Poser la question critique pour les travaux qui nous occupent de la prosopographie : passer d’une approche centrée sur les individus à une approche qui s’intéresse à des agrégés d’individus.
+
+Tour très pratique de ma communication qui réponds au souhait émis par Dominique au début de ce séminaire de profiter de son format pour aborder des questions pratiques et méthodologiques qui sont rarement abordées ailleurs.
+
+Grandes entreprises de dictionnaire biographiques 
+
+- Thieme-Becker, célèbre dictionnaire biographique allemand d’artistes publié par Ulrich Thieme et Felix Becker de 1907 à 1950.
+- Entreprise continuée depuis quelques années avec l’AKL Allgemeines Künstlerlexikon
+- Les Architectes parisiens du XVIIIe siècle. Dictionnaire biographique et critique
+
+Nous verrons plusieurs entreprises en cours qui ne permettent pas de répondre aux questions que l’on se pose sur l’émergence de la profession.
 
 Cf. Claire Lemercier et Emmanuelle Picard, Quelle approche prosopographique? https://halshs.archives-ouvertes.fr/halshs-00521512/document et séminaire prosopographique. cf. son Blog
 
@@ -13,8 +25,6 @@ Bougeard Christian, Prigent François (dir.), "Des fiches aux fichiers, il s’a
 >
 > De ce constat découle une double interrogation : une prosopographie sans dictionnaire est-elle concevable voire intelligible ? La prosopographie se limite-t-elle à ces notices dévoilées en bloc au lecteur ? Comment passer de la précision des fiches individuelles à un portrait global du groupe, en nuances, sans se limiter à une vue médiane de l’ensemble, quadrature du cercle lorsque les entrées biographiques se comptent par milliers.
 
-Tour très pratique de ma communication qui réponds au souhait émis par Dominique au début de ce séminaire de profiter de son format pour aborder des questions pratiques et méthodologiques qui sont rarement abordées ailleurs.
-
 ### Qu’apporte l’approche prosopographique ?
 
 Prosopographie telle qu’elle a été pratiquée en histoire économique et sociale. Dimension quantitative, mais également sociologique. À cet égard, on parle aussi bien de prosopographie, que d’études de carrières, de trajectoires, de cycles de vie, études longitudinales, de biographies collectives, de groupe, de masse, sociographie, d’histoires de vie. (Lemercier 2010)
@@ -25,15 +35,17 @@ Hommes nouveaux ? Courants ? difficiles à dégager. Néanmoins, on relève une
 
 Approche qui m’a permis dans le cadre de l’étude du Conseil des bâtiments civils contredire un certain nombre d’idées reçues.
 
-Assimilation avec l’Académisme. Sans doute nécessaire de chercher plus avant comment se situe à son égard.
-
-Âge moyen, étude de la composition, qui permet d’éclairer la nature du travail, les positions plus ou moins dominantes à l’intérieur de l’institution.
+- Assimilation avec l’Académisme. Sans doute nécessaire de chercher plus avant comment se situe à son égard. Nomination au Conseil qui semble plutôt précéder l’accès à l’Académie.
+- Âge moye
+- Étude de la composition, qui permet d’éclairer la nature du travail, les positions plus ou moins dominantes à l’intérieur de l’institution.
 
 ## Pourquoi mettre en fiche vos biographies ?
 
 Qui dit prosopographie, dit souvent base de données. 
 
 Fiches aux rubriques standardisées destinées à représenter les parcours des individus dans une approche descriptive. Dès lors peut se mettre à classer les renseignements collectés, construire des typologies ou répondre à un certain nombre de questions.
+
+http://publicarchitectura.org/prosopo/cbc.tei.xml
 
 La solution que j’ai retenue pour ce travail est plus proche de l’édition structurée. Celle-ci présentait de mon point de vue plusieurs avantages.
 
@@ -60,10 +72,78 @@ Aurait pu produire un réseau à partir des noms balisés dans le texte. En soi 
 
 Encore loin des comparaisons de groupes que peut légitimement attendre de ce genre d’exercices.
 
+## Nouvelles perspectives.
+
 Travailler ensemble. Dimension collaborative possible.
 
 - collaborer et lier des référentiels existants
 - Distribuer vers Wikidata des données d’autorité
+
+### Archipédie
+
+http://archipedie.citedelarchitecture.fr
+
+Depuis 2015, 3 versions dont une nouvelle récemment en 2018. 133 étudiants Université Paris 1 et Rennes 2.
+
+Conception & coordination du projet : [Enora Prioul](http://mailto%20:%20eprioul@citechaillot.fr/), cheffe de projet et Nolwenn Rannou, coordinatrice des éditions
+
+Modèle du Wiki et dimension collaborative et contributive. Versionning, attribution des contributions.
+
+En partie sous licence libre mais restrictions d’accès :
+
+> Seules les données factuelles, le répertoire d’œuvres et les sources sont consultables par tous. La notice et les repères chronologiques ne sont consultables que par l'auteur, ses enseignants référents et les coordinateurs de l’encyclopédie.
+
+Exports possible d’une partie des données (les informations géolocalisées et les repères chronologiques) sous forme de tableau ou de fichier CSV.
+
+Données structurées qui ont recours à un modèle documentaire très restreint.
+
+### Symogih
+
+http://symogih.org
+
+Francesco Berretta
+
+Présentation d'un projet du pôle d'histoire numérique du LHARA, au départ pôle méthodes. Une équipe de compétences diverses en SIG, encodage XML, bases de données. Ensemble de technologie qu'essaye de mettre au service de l'histoire autour d'un modèle.
+
+Outre ce modèle, propose une plateforme. Système modulaire de gestion de l'information historique. Partis d'un double questionnement, comment amener les historiens à utiliser des outils numériques. Et comment permettre au chercheurs de connecter leurs données avec celles produites par d'autres chercheurs ou les institutions patrimoniales.
+
+### PIAAF (Pilote d’interopérabilité pour les Autorités Archivistiques françaises) : démonstrateur
+
+projet associe les Archives nationales, le Service interministériel des Archives de France et la Bibliothèque nationale de France, ainsi que la société Logilab.
+
+Il s’agit d’élaborer un prototype logiciel open source afin de démontrer qu’il est possible :
+
+- de représenter en RDF, en veillant à la précision, à l’exactitude et à l’utilisabilité des triplets obtenus, des métadonnées archivistiques produites de différentes manières et selon diverses perspectives (celles d’institutions patrimoniales, celles d’un chercheur) ;
+- d’enrichir les triplets obtenus en créant de nouveaux triplets, qu’il s’agisse de procéder à des alignements ou d’établir de nouvelles relations par inférence ;
+- de produire une interface de recherche et d’exploration analytique et graphique qui soit dynamique, ergonomique et signifiante, sans sacrifier la granularité informationnelle ni la lisibilité.
+
+Avantage d’utiliser un format structuré, collaborations possibles
+
+Projet des AN, Florence Clavaud (chef de projet)
+
+Croiser des sources documentaires sur les archives. Objectif du prototype : 
+
+Description des producteurs d’archive en utilisant XML EAC-CPF un format pour la description des collectivités et des personnes promu par le Conseil international des archives.
+
+- non seulement des personnes mais des organisations (corporate body)
+- possibilité de décrire des relations entre des entités, mais aussi avec des agrégats documentaires
+- description des fonctions
+
+### ANR Experts + EAC-CPF
+
+### Prosopographie allemande
+
+### Onoma - HADOC
+
+http://www.culturecommunication.gouv.fr/Divers/Harmonisation-des-donnees-culturelles/Referentiels/Le-referentiel-des-acteurs-historiques/ONOMA
+
+### Wikidata
+
+Distribuer des données d{‘autorité.}
+
+Statut des sources et wikipédia.
+
+Travailler sur des filières déscendantes.
 
 ## Biblio
 
@@ -150,3 +230,21 @@ Identifier la place dans la carrière de la nomination des architectes au Consei
 Diversité du métier et des fonctions effectives. Tenir compte de la carrière administratives et des fonctions.
 
 Place souvent importantes, parfois le fonds de l’activité. Par ailleurs peu de constructions. Dynamiques du mouvement et de la progression de carrière.
+
+
+
+---
+
+https://github.com/publicarchitectura/cbc
+
+http://publicarchitectura.org/prosopo/cbc.tei.xml
+
+http://archipedie.citedelarchitecture.fr
+
+http://symogih.org
+
+http://piaaf.demo.logilab.fr
+
+http://www.culturecommunication.gouv.fr/Divers/Harmonisation-des-donnees-culturelles/Referentiels/Le-referentiel-des-acteurs-historiques/ONOMA
+
+https://www.wikidata.org

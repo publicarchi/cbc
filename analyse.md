@@ -10,3 +10,21 @@ F/21/2540, 17 janvier 1839 - 9 janvier 1840, Pas de pagination, Correspond aux r
 
 F/21/2534, Procès-verbaux du Conseil des bâtiments civils, séance du 17 janvier 1839, n° 380, p. 215.
 
+
+
+
+
+F/21/2534, Procès-verbaux du Conseil des bâtiments civils pour 1839
+
+F/21/2540, 17 janvier 1839 - 9 janvier 1840, Pas de pagination, Correspond aux registres F/21/2534, 2535, 2542/3 et 22542/4
+
+En outre, pour les années 1839 à 1843, les minutes des procès-verbaux peuvent également être croisées avec les notes prises au Conseil conservées sous les cotes F21 2540 (17 janvier 1839 au 9 janvier 1840, non paginé) correspondant au registres F21* 2534, 2535, 25423 et 25424
+
+FRAN/F/21/*/2542/2 de novembre 2016 à ?? Minutes des séance du 7 janvier 1838 à ?
+
+FRAN/F/21/*/2540 Notes prises aux séances du Conseil ds bâtiments civils en 1839
+
+
+
+les minutes des procès-verbaux peuvent également être croisées avec les notes prises au Conseil conservées sous les cotes F21 2540 (17 janvier 1839 au 9 janvier 1840, non paginé) correspondant au registres F21* 2534, 2535, 25423 et 25424
+
