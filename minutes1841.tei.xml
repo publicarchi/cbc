@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription des Procès-verbaux des séances du Conseil des bâtiments civils</title>
+      </titleStmt>
+      <!--<editor>
+        <persName>
+          <forename>Emmanuel</forename>
+          <surname>Château-Dutier</surname>
+        </persName>
+      </editor>-->
+      <publicationStmt>
+        <publisher>none</publisher>
+        <date from="2019-07">de juillet 2019 à </date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales de France</institution>
+            <idno>FRAN/F/21/*/2542/5</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <docTitle>
+                <titlePart>Procès-verbaux des séances du Conseil des bâtiments civils [Minutes] 1841</titlePart>
+              </docTitle>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="fr">
+      <fw>1</fw>
+      <div type="assembly">
+        <head>Conseil des Bâtiments civils</head>
+        <head>Procès-verbal de la séance du 10 janvier 1839</head>
+        <div>
+          <head>Présents, MM.</head>
+          <p>Le Conseiller d’État, Directeur des monuments publics, Président ;</p>
+          <p>Les Inspecteurs généraux Rohault Vice-Président, Caristie, Biet, Blouet, Leclerc, Grillon<lb /> et Gourlier Secrétaire ;</p>
+          <p>Les Membres adjoints</p>
+          <p>Les Auditeurs Duffeu, Garrez, Chargrasse, Leduc,<lb /> et Norry, Adjoint au Secrétaire.</p>
+        </div>
+        <div>
+          <p>La séance est ouverte à midi.</p>
+          <p>Le procès-verbal de la Séance précédente est lu et adopté.</p>
+          <p>Le Conseil s’occupe successivement des différentes affaires ci-après indiquées :</p>
+          <div type="case">
+            <head></head>
+            <p></p>
+          </div>
+        </div>
+      </div>
+      <div type="assembly" />
+    </body>
+  </text>
+</TEI>

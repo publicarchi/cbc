@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/cbc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription des notes du Conseil des bâtiments civils</title>
+      </titleStmt>
+      <!--<editor>
+        <persName>
+          <forename>Emmanuel</forename>
+          <surname>Château-Dutier</surname>
+        </persName>
+      </editor>-->
+      <publicationStmt>
+        <publisher>none</publisher>
+        <date from="2019-07">depuis juillet 2019</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales de France</institution>
+            <idno>FRAN/F/21/*/2542/1</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <docTitle>
+                <titlePart>Notes prises aux séances du Conseil des bâtiments civils, 12 décembre 1842 au 28 mars 1844</titlePart>
+              </docTitle>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <fw type="fol">1</fw>
+      <div type="assembly">
+        <head>Séance du <date when="1842-12-12">12 décembre 1842</date></head>
+        <p>La séance est ouverte à midi</p>
+        <p>Présents : MM. Vatout, Rohault, Caristie, Biet, <expan>Achille</expan> Leclèrc, Grillon, Gourlier, Blouet, Pelechet, Mérimée</p>
+        <div type="unknown"><!-- @todo changer pour lecture du pv -->
+          <head>Lecture du procès-verbal</head>
+          <div>
+            <p>M. Gourlier observe qu’il s’occupe de la charpente de la cathédrale de Chartes et que d’après ses observations, le prix porté dans le devis de la charpente en fer de l’église de <expan>Saint</expan>-<unclear>Denis</unclear> est beaucoup trop bas, il demande donc que l’avis du procès-verbal soit ajourné.</p>
+            <p>M. Biet trouve également que le devis n’est pas assez détaillé et qu’on ne pourra en faire un exact que lorsque les études en grand seront faites.</p>
+            <p>M. Blouet observe que le prix du mètre superficiel de charpente en fer doit différer en raison de la grandeur des fermes.</p>
+            <p>Écrire à M. Debret pour le convoqeuer à une séance prochaine et lui demander un plan général du comble.</p>
+            <p>L’avis sur le comble de l’église de <choice>
+                <abbr>St</abbr>
+                <expan>Saint</expan>
+              </choice>-Denis est ajourné.</p>
+          </div>
+          <div>
+            <p>M. le Président insiste pour que dans l’avis du procès-verbal relatif au Conservatoire des arts et métiers on précise toutes les maisons qui sont à acheter et pas leurs numéros.</p>
+          </div>
+          <div><p>Le procès-verbal est adopté</p></div>
+        </div>
+        <div type="case">
+          <head>Bains d’eau thermale de <sic>Chaudesaigle</sic></head>
+          <label>M. <expan>Achille</expan> Leclerc</label>
+          <p>Ce projet a déjà été présenté l’année dernière et M. Caristie en était le rapporteur.</p>
+          <p>M. Leclèrc explique verbalement la disposition d’ensemble du projet.</p>
+          <p>Les cabinets de bains paraissent trop grands. M. Grillon observe que ces cabinets sont pour des malades et que lorsqu’on les porte au moyen de civières il faut pouvoir se retourner. Plusieurs variantes des bains des indigeants et des militaires sont présentés par des feuilles de retombes.</p>
+          <p>Lecture du rapport</p>
+          <p>M. le Rapporteur ne parle pas dans son rapport des élévations <pb/> on arrive difficilement dans la cour. On serait obligé de passer par le salon pour parvenir dans la cour. Comme cette cour est entièrement de service on devrait y parvenir par les constructions du dessous.</p>
+          <p>La salle de valpeur paraît trop élevée. Il faudrait deux voûtes l’une au-dessus de l’autre.</p>
+          <p>M. Catoire présent à la séance.</p>
+          <p>M. le Président demande à M. l’architecte s’il croit pouvoir arriver à tout terminer moyennant 450 000 fr.</p>
+          <p>M. l’architecte le croit et l’affirme.</p>
+          <p>La destination du <expan>grand</expan> salon est une pièces d’agrément. Il ne sert pas d’entrée.</p>
+          <p>On observe que les salles de bains sont grandes et qu’il faudrait peut-être une séparation pour y faire un cabinet afin de disposer ses vêtements, etc. M. l’architecte observe que les malades sont apportés dans chaque salle de bains sans <unclear>vêtements</unclear>. M. le Président engage M. l’architecte de faire des cloisons.</p>
+          <p>La cour est seulement à la disposition de l’administration.</p>
+          <p>L’intention de M. Catoire est de baisser la salle de vapeur.</p>
+          <p>M. Grillon fait observer que les murs sont bien minces pour la constructoon d’un semblable édifice.</p>
+          <p>M. <expan>Achille</expan> Leclerc combat cette opinion. Les murs étant peu élevés.</p>
+          <p>M. l’architecte croit que les murs sont suffisamment épais. Le programme de l’établissement est rempli en tout.</p>
+          <p>Les eaux ont 82° de chaleur.</p>
+          <p>M. le Président insiste pour qu’on adjoigne un cabinet aux salles de bains.</p>
+          <p>Le plan entièrement <add place="above">semi</add>-circulaire paraît préférable à celui qui reportait les bains souterains en partie sur le torrent.</p> 
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

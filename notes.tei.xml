@@ -6,12 +6,12 @@
       <titleStmt>
         <title>Transcription des notes du Conseil des bâtiments civils</title>
       </titleStmt>
-      <editor>
+      <!--<editor>
         <persName>
           <forename>Emmanuel</forename>
           <surname>Château-Dutier</surname>
         </persName>
-      </editor>
+      </editor>-->
       <publicationStmt>
         <publisher>none</publisher>
         <date from="2016-11">de novembre 2016 à </date>
@@ -43,9 +43,9 @@
         </docTitle>
         <docDate>1839</docDate>
       </titlePage>
-      <pb/>
-      <space extent="1" unit="pages"/>
-      <pb/>
+      <pb />
+      <space extent="1" unit="pages" />
+      <pb />
     </front>
     <body>
       <fw type="fol">1</fw>
@@ -54,31 +54,143 @@
         <div type="case">
           <head>Halle couverte à Metz</head>
           <label><persName>Biet</persName></label>
-          <p>Renvoi au bureau de contrôle</p>
+          <p>Renvoi au <orgName>Bureau de contrôle</orgName></p>
           <p>Remis à la prochaine séance</p>
           <!-- @todo notation marginale -->
         </div>
+        <div>
+          <head>Église de Plaisance</head>
+          <label><persName>A. Leclère</persName></label>
+          <label hand="2">7</label>
+          <p><persName>L’<expan>architecte</expan></persName> a rectifié les plans et devis. <unclear>propose</unclear> ayant fait tout ce qu’il était possible de faire.</p>
+          <p>Le projet est susceptible d’adoption. Renvoi au <orgName>Bureau de contrôle</orgName> (à calquer).</p>
+        </div>
+        <div type="case">
+          <head>Amphithéâtre d’anatomie pittoresque à l’École des Beaux-arts</head>
+          <label><persName>Caristie</persName></label>
+          <label hand="2">8</label>
+          <p><orgName>Le Conseil</orgName> adopte le parti proposé par <persName>M. le rapporteur</persName> puisqu’il n’y a pas d’inconvénient à ce que le devis adressé pour les projets soit maintenu en conséquence le <unclear>renvoie</unclear> au Bureau de contrôle (calquer le projet n° 3).</p>
+        </div>
+        <div type="case">
+          <head>Ministère des Travaux publics</head>
+          <label><persName>Rohault</persName></label>
+          <label hand="2">1</label>
+          <p>Suppression de deux colonnes dans le passage</p>
+          <p>Qu’on <unclear><expan>demande</expan></unclear> s’il est bien nécessaire d’avoir des entresols. <persName>M. Moreau</persName> dit que cela est ainsi pour que le public ne monte pas au-dessus de l’<expan>appartement</expan> du directeur.</p>
+          <p><persName>M. le président</persName> dit que le principe est de <unclear>faire</unclear> bien d’abord pour l’édifice. Il <expan>demande</expan> de mettre les employés <gap /><unclear>de vou</unclear> et de ne laisser dans la partie dont s’agit <unclear>y cela</unclear>
+            <add place="marginLeft">la faire semblable à celle qui existe.</add> salle</p>
+          <gap quantity="2" />
+          <p>attendu qu’il faudrait 2 étages <persName>M. le Président</persName> pense qu’on peut se contenter d’un seul étage. On <unclear>doit</unclear>.</p>
+          <p><persName>L’<expan>architecte</expan></persName> peut <gap quantity="1" unit="words"
+               /> ce parti on depensera davantage, si <unclear>blouet</unclear> remarque que <expan>lorsqu’</expan>on supprimera l’entresol il y aura une compensation dans une certaine proportion</p>
+        </div>
+        <div type="case">
+          <head>M. Dubuisson Choiseul n° 2 jusqu’à 8h</head>
+          <pb/>
+          <p>M. <gap quantity="2" unit="words"/> <unclear>résumé</unclear> que MM. les membres se rendront sur les lieux pour y examiner s’il y a possiblité de construire <gap quantity="1" unit="words"/>, M. Moreau examinera ensuite la dépense.</p>
+          <p>M. le président parle du passage et indique de quelle manière il serait disposé.</p>
+        </div>
+        <div type="case">
+          <head>Ministère de l’intérieur</head>
+          <label>Rohault</label>
+          <p>M. Gisors est présent.</p>
+          <p>M. le président dit qu’il faut renoncer à l’idée d’acquérir la <expan>propriété</expan> voisine en conséquence il faut rester dans le terrain qui appartient au ministère.</p>
+          <p>M. le président dit qu’il faut s’occuper du bureau et savoir ce qu’on veut faire des deux maisons achetées rue de Grenelle.</p>
+          <p>M. le président dit <gap quantity="2" unit="words"/> dans ces maisosn au 1<hi rend="italic">er</hi> étage on placera le Conseil royal, l’architecte dit que les bureaux pourront s’y loger attendu que la surface est suffisante.</p>
+          <p>On propose de mettre les dépôt des livres au-dessus des remises.</p>
+          <p>On <expan>demande</expan> à l’<expan>architecte</expan> de s’occuper de la partie gauche du projet, de mettre des légendes l’indication pour l’intellgience.</p>
+          <p>On <expan>demande</expan> que la partie gauche soit simplifiée et qu’au lieu de trois salles on n’en mette que deux.</p>
+          <p>Le Conseil est d’avis que l’on autorise les constructions sur la rue <gap quantity="1" unit="words"/> et sur les</p>
+        </div>
       </div>
-      <div>
-        <head>Église de Plaisance</head>
-        <label><persName>A. Leclère</persName></label>
-        <p>L’<expan>architecte</expan> a rectifié les plans et devis. <unclear>propose</unclear> ayant fait tout ce qu’il était possible de faire.</p>
-        <p>Le projet est susceptible d’adoption. Renvoi au Bureau de contrôle (à calquer).</p>
+      <div type="assembly">
+        <head>Séance du <date when="1839-01-21">21 janvier</date></head>
+        <div type="case">
+          <head>Ministère des Travaux publics</head>
+          <label>Rohault</label>
+          <label hand="2">2</label>
+          <p>Note à transcrire</p>
+        </div>
+        <div type="case">
+          <head>Évêché de Tulle</head>
+          <label>A. Leclerc</label>
+          <p>Substitution de pierre granitique à plus chère que la pierre calcaire. L’<expan>entrepreneur</expan> <expan>cependant</expan> y consent.</p>
+          <p>Un membre remarque que cela est bien pour le cube mais <expan>demande</expan> s’il n’y a pas une différence pour la taille. Il examine le devis et remarque que tout est compris.</p>
+          <p>On craint que ce granit si bon marché ne soit d’une qualité inférieure.</p>
+          <p>Le Conseil d’après les différentes <expan>observations</expan> présentées et les <expan>renseignements</expan> donnés par l’<expan>architecte</expan> et l’<expan>engagement</expan> pris par l’<expan>entrepreneur</expan>, il y a lieu d’autoriser.</p>
+        </div>
+        <div type="case">
+          <head><expan>Alignement</expan> de Macon</head>
+          <label>Caristie</label>
+          <p>Le Conseil est d’avis d’adopter les propositions du Conseil municipale et sur l’avantage d’<unclear>agrandir</unclear> la maison.</p>
+        </div>
+        <div type="case">
+          <head>Église de <unclear>Massevaux</unclear></head>
+          <label>Biet</label>
+          <p>Adopté le rapport et les dessins présentés par le rapporteur.</p>
+          <p>Renvoi au <expan>Bureau</expan> de contrôle (à calquer avec les mondifications).</p>
+        </div>
+        <div type="case">
+          <head>Ville de Thorigny mairie<lb/> <expan>agrandissement</expan> et restauration du Château</head>
+          <label>Grillon</label>
+          <p>Adopté. Le Conseil témoigne sa satisfation à l’<expan>architecte</expan> et au bon emploi de l’édifice <unclear>soigneusement</unclear> et convenablement appropié.</p>
+          <p>(à calquer) L’étude qu’il a faite a le double avantage de conserver <pb/><fw>5</fw> un monument intéressant sous le rapport de l’art et de l’approprier à un service utile.</p>
+          <p><expan>Bureau</expan> de contrôle</p>
+        </div>
+        <div type="case">
+          <head><expan>Maison</expan> centrale de Limoges</head>
+          <p>adopté</p>
+        </div>
+        <div type="case">
+          <head>Palais des arts à Lyon</head>
+          <p>adopté</p>
+        </div>
+        <div type="case">
+          <head>Hôtel de ville de Morlaix</head>
+          <p>conférence et ajout à une prochaine séance pour être examiné en préseance de M. le président.</p>
+          <p>Le Conseil appuie les <expan>observations</expan> du <gap reason="illegible"></gap> ainsi que l’envoi d’un exemplaire à MM. les contrôleurs.</p>
+        </div>
+        <div type="case">
+          <head>Palais de l’institut</head>
+          <p>Projet de construction d’un pavillon adossé au mur mitoyen de la cour principale.</p>
+          <p>M. Lebas donne sous les yeux du Conseil son projet, l’explique.</p>
+          <p>Ensuite il propose de restaurer les pavillons et de <sic>relargir</sic> le quai.</p>
+          <p>M. Caristie est invité à faire un rapport sur ce projet, il déclare qu’en principe il adoptera le projet et présentera les <expan>modificiations</expan> pour les détails.</p>
+          <p>Un membre cirtique la disposition de la <expan>grande</expan> salle à cause des <unclear>jours</unclear> qui ne lui paraissent pas <expan>convenablement</expan> disposés.</p>
+        </div>
+        <div type="case">
+          <head>Maison de Fontevrault</head>
+          <label>Blouet</label>
+          <p><unclear><expan>Rapport</expan> vu</unclear> propose le renvoi au <expan>Bureau</expan> de contrôle. Adopté.</p>
+        </div>
       </div>
-      <div type="case">
-        <head>Amphithéâtre d’anatomie pittoresque à l’École des Beaux-arts</head>
-        <label><persName>Caristie</persName></label>
-        <p>Le Conseil adopte le parti proposé par M. le rapporteur puisqu’il n’y a pas d’inconvénient à ce que le devis adressé pour les projets soit maintenu en conséquence le <unclear>recevoir</unclear> au Bureau de contrôle (calquer le projet n° 3).</p>
+      <div type="assembly">
+        <head>Séance du <date when="1839-01-24">24 janvier</date></head>
+        <div type="case">
+          <!-- @todo plusieurs affaires, comment les traiter ? -->
+          <head>Renvois au Bureau de contrôle</head>
+          <list>
+            <item><expan>Maison Centrale</expan> Limoges, réparations à la morgue<lb/>id. aux toitures.</item>
+            <item><expan>Maison Centrale</expan> <unclear>Ensisheim</unclear> démolition du mur du séchoir</item>
+            <item><supplied>Maison Centrale</supplied> Claivaux devis pour cheminées en fonte.</item>
+            <!-- en marge pour chaque item au crayon, « 2, 3, 4, 6 » -->
+            <pb/>
+            <item><expan>Maison Centrale</expan> Limoges horloge</item><!-- en marge 4 au crayon -->
+          </list>
+        </div>
+        <div type="case">
+          <head><unclear>Commission</unclear> des Travaux communaux envoyée par M. Grillois <expan>architecte</expan></head>
+          <label>Gourlier</label><!-- nota au crayon suivi de 1er -->
+          <p>Le Conseil demande qu’un exemplaire soit déposé aux archives <add place="above">du conseil</add> et l’autre au <expan>Bureau</expan> de contrôle.</p>
+        </div>
+        <div type="case">
+          <head>Église de Talence</head>
+          <label>A. Leclerc</label>
+          <p>Rapport.</p>
+          <p>On <expan>demande</expan> qu’on fasse un examen sommaire du devis.</p>
+          <p>Avis M. Caristie, a</p>
+        </div>
       </div>
-      <div type="case">
-        <head>Ministère des Travaux publics</head>
-        <label><persName>Rohault</persName></label>
-        <p>Suppression de 2 colonnes dans le passage</p>
-        <p>Qu’on <expan>demande</expan> s’il est bien nécessaire d’avoir des entresols. M. Moreau dit que cela est ainsi pour que le public ne monte pas au-dessus de l’appartement du directeur.</p>
-        <p>M. le président dit que le principe est de <unclear>faire</unclear> bien d’abord pour l’édifice. Il <expan>demande</expan> les employés en </p>
-      </div>
-
-
     </body>
   </text>
 </TEI>

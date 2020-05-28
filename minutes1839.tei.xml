@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schemas/transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription des Procès-verbaux des séances du Conseil des bâtiments civils</title>
+      </titleStmt>
+      <!--<editor>
+        <persName>
+          <forename>Emmanuel</forename>
+          <surname>Château-Dutier</surname>
+        </persName>
+      </editor>-->
+      <publicationStmt>
+        <publisher>none</publisher>
+        <date from="2019-07">de juillet 2019 à </date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales de France</institution>
+            <idno>FRAN/F/21/*/2542/3</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <docTitle>
+                <titlePart>Procès-verbaux des séances du Conseil des bâtiments civils [Minutes] 1839</titlePart>
+              </docTitle>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="fr">
+      <gap/>
+      <fw>1</fw>
+      <div type="assembly">
+        <head>Conseil des Bâtiments civils</head>
+        <head>Procès-verbal de la séance du 10 janvier 1839</head>
+        <div>
+          <head>Présents</head>
+          <p>Monsieur le Conseiller d’État Vatout, Président ;</p>
+          <p>MM. les Membres titulaires, Inspecteurs généraux, Rohault, Caristie, Biet, Mérimée, Blouet, A. Leclère, Grillon, Gourlier.</p>
+          <p>MM. les Membres honoraires, Blatard</p>
+        </div>
+        <div>
+          <p>La Séance est ouverte à midi.</p>
+          <p>Le procès-verbal de la Séance précédente est lu et adopté.</p>
+          <p>Le Conseil entend successivement les divers rapports ci-après indiqués, sur lesquels, après examen des pièces qui font l’objet de ces rapports et discussion, il émet les avis suivants ;</p>
+          <p>Savoir :</p>
+          <div type="case">
+            <head><label>1°</label> Rapport sur un plan d’alignement de la rue <expan>Saint</expan>-Vincent à Montmartre</head>
+            <label>M. Rohault, rapporteur</label>
+            <label>Alignement de Montmartre</label>
+            <label>Rapport verbal</label>
+            <label>Expédiée</label>
+            <p>Sur le rapport verbal de M. Rohault, après avoir entendu la lecture du rapport fait à la commission des alignements par M. Guenepin, le Conseil est d’avis que l’alignement de la rue <expan>Saint</expan>-Vicent peut être adopté.</p>
+          </div>
+          <pb/>
+          <div type="case">
+            <head><label>2°</label> Rapport sur le projet de formation du quai de la Bucherie</head>
+            <label>quai de la Bucherie</label>
+            <label>Rapport verbal</label>
+            <label>Expédiée</label>
+            <div type="advice">
+              <p>Sur le rapport verbal de M. Rohault qui donne lecture d’une lettre de Monsieur le Préfet de la Seine, le Conseil considérant combien il est important d’établir la communication entre le quai devant l’entrepôt des vins et celui de la Bucherie qui va être ouvert par suite de la démolition d’une partie de l’Hôtel-Dieu, propose d’approuver la délibération du Conseil municiapl relative à l’acquisition, par mesure d’utilité publique des maisons sises entre le quai de la rue ds grands degrés et portant les n° 2, 4, 6, 8, 10, 12 et 14.</p>
+            </div>
+          </div>
+          <div type="case">
+            <head><label>3°</label> Rapport sur un projet d’agrandissement du ministère des travaux publics et du commerce</head>
+            <label>Ministère des travaux publics et du commerce</label>
+            <label>ajournée</label>
+            <p>M. le rapporteur expose au Conseil qeu, ce projet ayant été l’objet de quelques observations de la part de M. le <expan>Directeur général</expan> des Ponts et chaussées, M. Moreau a été chargé de rédiger un nouveau projet qu’il dépose sur le bureau.</p>
+            <p>Plusieurs membres pensent qu’il est convenable d’entendre M. Moreau dans une prochaine séance ; ils désirent savoir s’il y a nécessité d’avoir un entre-sol et, dans le cas où il serait indispensable, ils pensent qu’en conservant ce parti l’élévation pourrait être plus convenablement étudiée.</p>
+            <div type="advice">
+              <p>Le Conseil ajourne son avis jusqu’à ce qu’il ait entendu M. Moreau qui sera invité à se présenter à la prochaine séance, afin de donner les explications qui lui seront demandées sur son projet.</p>
+            </div>
+          </div>
+          <div type="case">
+            <head><label>1° </label>Rapport sur un projetd e construction d’une nouvelle église à Oyonnax (Ain). Dépense évaluée à 150 000</head>
+            <label>M. Caristie</label>
+            <label>Église à Oyonnax</label>
+            <label>ajournée</label>
+            <p>Monsieur le rapporteur expose au Conseil que déjà un projet pour la construction de cette église lui a été soumis et que d’après son avis l’autorité municipale a confiée à M. Chenavard la rédaction d’un nouveau projet dont M. le Rapporteur dépose sur le bureau les dessins, devis et cahiers des charges qui le composent.</p>
+            <p>Plusieurs membres blamment les diverses parties de l’édifice qui sont couvertes en terrasse ; un membre pense que le parti d’une voûte dans la nef est incompatible avec le système de colonnes supportant les arcades des bas-côtés. Plusieurs membres proposent des voûtes d’arrêtes pour les bas-côtés, afin de maintenir la poussée de la voûte de la neuf. On critique les perrons, dont on demande la réduction.</p>
+            <div type="advice">
+              <p>Le Conseil ajourne son avis jusqu’à ce que M. le rapporteur lui ait présenté un tracé exécuté dans le sens des observations résultant de la discussion de ce jour.</p>
+            </div>
+          </div>
+          <div type="case">
+            <head><label>2° </label>Rapport sur un projetd de percement d’une rue nouevelle à Chalons-sur-Saône (Saône-et-Loire)</head>
+            <label>Percement d’une rue à Chalons</label>
+            <label>Expédiée</label>
+            <div type="advice">
+              <p>Le Conseil, après avoir examiné le plan, adopte les observations contenues au rapport  et pense que le projet est susceptible d’être soumis à l’approbation de M. le ministre.</p>
+            </div>
+          </div>
+          <div type="case">
+            <head><label>3° </label> Rapport sur un projet d’élargissement du quai d’Orléans<pb/><fw>2</fw> à Lyon (Rhône)</head>
+            <label>Élargissement du quai d’Orléans à Lyon</label>
+            <label>Rapport verbal</label>
+            <label>Expédiée</label>
+            <div type="advice"><p>Ayant entendu les explications verbales données par M. le Rapporteur, et après avoir examiné le plan, le Conseil pense que l’élargissement de ce quai doit produire un résultat avantageux ; en conséquence, il est d’avis que ce projet peut être soumis à l’approbation de M. le Ministre.</p></div>
+          </div>
+          <div type="case">
+            <head><label>1° </label>Rapport verbal sur un projet de construction d’un bâtiment destiné à servir de halles de mairie et de justice de paix dans la ville de Périers (Manche) 68 360fr. 43c.</head>
+            <label>Grillon</label>
+            <label>Construction de halles d’une mairie et justice de paix à Périers</label>
+            <label>rapport verbal</label>
+            <label>Expédiée</label>
+            <p>M. le rapporteur dépose sur le bureau les dessins, devis et chahier des charges composant ce projet ; il expose au Conseil que 3 emplacmeents ayant été désignés pour la construction des édifices, il avait été reconnu que ceux B et C et étaient insuffisans ; en conséquence, on choisit le terrain A comme étant le plus convenable.</p>
+            <div type="advice"><p>Ayant entendu les explications verbales données par M. le rapporteur, et après avoir examiné les plans, le Conseil remarquant qu’on ne peut arriver aux halles que par un passage assez étroit reconnaît que cet accès unique est insuffisant qu’il serait souvent encombré par l’apport et l’enlèvement des marchandises et qu’en conséquence il y aurait dangers pour la circulation dans ce passage commun servant à la fois de comunciation aux halles, à la mairie et à la justice de paix, pense qu’il y a dans cette disposition un inconvénient granve, suffisant pour faire rejetter le projet.</p>
+            <p>Le Conseil remarque également qu’on ne peut toléger les porte-à-faux des cloisons et murs de l’étage supérieur, vices de construction dont l’architecte lui-même a reconnu l’existence, et qui résultent du système nécessité par le parti général du projet : En conséquence le Conseil insiste sur la nécessité de dégager les halles afin de les isoler entièrement ainsi que cela doit être fait pour tous les édifices de cette nature.</p>
+            <p>Il pense également qu’il serait possible de maintenir la mairie et la justice de paix dans le local qu’elles occupent aujourd‘hui dans le cas car la reconstruction de ces édifices ne coûterait pas plus chef que sur l’emplacement A. La proposition du Conseil ne tend pas à augmenter les sacrifices que s’impose la ville puisqu’il est démontré par le tracé au crayon exécuté sur le plan que le projet proposé sur l’emplacement A n’est exécutable que pour les halles sur <gap quantity="1" unit="words"/>il restera donc toujours à déterminer dans quel local il conviendra de placer la mairie et la justice de paix.</p>
+            <p>Le Conseil est exprime le regret d’être forcé de rejetter un travail consciencieux pour lequel l’architecte mérite des éloges, la critique ne portant que sur des points indépendants de sa volonté et en dehors de ses combinaisons qui ont été étudiées avec sagesse et intelligence.</p></div>
+          </div>
+          <div type="case">
+            <head><label>2° </label>Rapport sur un projet de construction d’une église à Saint-Mathurin (<space/> dépense)</head>
+            <label>Église à Saint-Mathurin</label>
+            <label>Expédiée</label>
+            <p>M. le rapporteur met sous les yeux du Conseil les dessins, devis et cahier des charges composant le projet, il y joint un tracé au crayon dans le sens des observations contenues dans son rapport, et déjà indiquées dans un précédent avis du Conseil qui prescrivait à l’architecte des modifications<pb/> suivant lesquelles il n’a pas su complétement rectifier son projet.</p>
+            <div type="advice">
+              <p>Le Conseil adoptant les observations contenues au présent rapport pense que l’esquisse modificative qui y est jointe peut être communiquée à l’architecte mais en l’engageant à examiner si, en raison de la faible population de la commune (1 700 habitans environs) et de la dépense considérable qu’exigerait la construction de l’église même réduite ainsi que l’indique l’esquisse il ne serait pas nécessaire d’y apporter encore un certain nombre de réductions.</p>
+              <p>Ainsi, au lieu d’augmenter les colonnes du perystile ne faudrait-il pas le réduire à un <add place="above">petit</add> porche de deux colonnes ou même le supprimer entièrement, soit en adoptant une simple porte ornée, soit en ouvrant le dessous du clocher au moyen d’un grand axe qui le ferait servir de porche ?</p>
+              <p>Deux étages de cloches sont-ils nécessaires ? n’a-t-il pas lieu de le réduire à un seul, on n’aurait plus alors qu’un seul étage d’ouies au lieu de deux qui sont indiqués et qui sont à peu près inusités, en enfin ne serait-il pas possible endiminuant la dimension des cloches de réduiré galement la largeur du clocher.</p>
+            </div>
+          </div>
+          <div type="case">
+            <head><label>1° </label> Rapport sur un décompte pour travaux à la maison de correction de Vesoul (Haute-Saône)</head>
+            <label>Gourlier</label>
+            <label>Maison de correction de Vesoul</label>
+            <label>Expédiée</label>
+            <p>M. l’inspecteur <expan>général</expan> de la <expan>comptabilité</expan> signale au conseil la clarté, l’exactitude avec lesquelles a été dressé le tableau comparatif de ce décompte, et approuve les observations faites par le <expan>Bureau</expan> de contrôle.</p>
+            <div type="advice">
+              <p>Le Conseil approuvant les observations présentées par M. l’Inspecteur <expan>général</expan> de la <expan>Comptabilité</expan> adopte le présent rapport.</p>
+            </div>
+          </div>
+          <div type="case">
+            <head><label>2° </label>Rapport sur le devis rectifié pour l’église de Walbach (Haut-Rhin)</head>
+            <label>Devis rectifié pour l’église de Wallbach</label>
+            <label>Expédiée</label>
+            <p><del>M. l’inspecteur général rapporte que le métrage n‘a pas été révisé dans le 1er devis ainsi que dans le second. Il isite pour que cet examen soit fait avec d’autant plus de promptitude que cette affaire est demandée d’urgence.</del></p>
+            <div type="advice"><p>Le Conseil conformémment à la proposition faite par M. l’inspecteur général de la comptablité, adopte le présent rapport.</p></div>
+          </div>
+          <div type="case">
+            <head><label><sic>4°</sic> </label>Conférence sur un devis relatif à la prison de Chalons-sur-Saône</head>
+            <p>Le Conseil adopte le rapport et approuve les <expan>observations</expan> de M. l’inspecteur <expan>général</expan> de la <expan>comptabilité</expan>.</p>
+          </div>
+          <div type="signatures">
+            <p>La séance est levée à 3 heures</p>
+            <signed>Le Président [signé Vatout]</signed>
+            <signed>Le Secrétaire [signé Adémard]</signed>
+          </div>
+        </div>
+        <div type="assembly"></div>
+      </div>
+    </body>
+  </text>
+</TEI>
