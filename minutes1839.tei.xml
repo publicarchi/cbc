@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schemas/transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="schemas/cbc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -34,9 +34,15 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
+  <facsimile>
+    <surface xml:id="f-21-2543-001">
+      <graphic url="doi/iiif"/>
+    </surface>
+  </facsimile>
   <text>
     <body xml:lang="fr">
       <gap/>
+      <pb facs="#f-21-2543-001"/>
       <fw>1</fw>
       <div type="assembly">
         <head>Conseil des Bâtiments civils</head>
@@ -150,7 +156,7 @@
             <head><label><sic>4°</sic> </label>Conférence sur un devis relatif à la prison de Chalons-sur-Saône</head>
             <p>Le Conseil adopte le rapport et approuve les <expan>observations</expan> de M. l’inspecteur <expan>général</expan> de la <expan>comptabilité</expan>.</p>
           </div>
-          <div type="signatures">
+          <div type="signing">
             <p>La séance est levée à 3 heures</p>
             <signed>Le Président [signé Vatout]</signed>
             <signed>Le Secrétaire [signé Adémard]</signed>

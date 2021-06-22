@@ -86,7 +86,8 @@
                 <valItem ident="assembly"/>
                 <valItem ident="additional"/>
                 <valItem ident="case"/>
-                <valItem ident="toc"/>
+                <valItem ident="advice"/>
+                <valItem ident="signing"/>
                 <valItem ident="unknown"/>
               </valList>
             </attDef>
