@@ -157,39 +157,39 @@ test
   "metas": [
     {
       "value": "Donnee test - title",
-      "lang": "fr",
+      "lang": null,
       "typeUri": "http://www.w3.org/2001/XMLSchema#string",
       "propertyUri": "http://nakala.fr/terms#title"
     },
     {
-      "value": "Donnee test - auteur",
-      "lang": "fr",
-      "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+      "value": "http://purl.org/coar/resource_type/c_c513",
+      "lang": null,
+      "typeUri": "http://www.w3.org/2001/XMLSchema#anyURI",
       "propertyUri": "http://nakala.fr/terms#type"
     },
     {
-      "value": "Donnee test - auteur",
-      "lang": "fr",
-      "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+      "value": null,
+      "lang": null,
+      "typeUri": null,
       "propertyUri": "http://nakala.fr/terms#creator"
     },
     {
-      "value": "Donnee test - date",
-      "lang": "fr",
+      "value": "2021",
+      "lang": null,
       "typeUri": "http://www.w3.org/2001/XMLSchema#string",
       "propertyUri": "http://nakala.fr/terms#created"
     },
     {
-      "value": "Donnee test - licence",
-      "lang": "fr",
+      "value": "CC0-1.0",
+      "lang": null,
       "typeUri": "http://www.w3.org/2001/XMLSchema#string",
-      "propertyUri": "http://nakala.fr/terms#licence"
+      "propertyUri": "http://nakala.fr/terms#license"
     }
   ],
   "files": [
     {
-  		"sha1": "1ca2f03a4bffbeab502954ee8635491ba8270db1",
-        "description": "Cat-and-computer.jpg",
+        "sha1": "1ca2f03a4bffbeab502954ee8635491ba8270db1",
+        "description": "Cat-and-computer.jpg"
     }
   ],
   "collectionsIds": [
