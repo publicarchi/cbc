@@ -1,0 +1,46 @@
+{
+  "status": "published",
+  "metas": [
+    {
+      "value": "Donnee test - title",
+      "lang": "fr",
+      "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+      "propertyUri": "http://nakala.fr/terms#title"
+    },
+    {
+      "value": "Donnee test - auteur",
+      "lang": "fr",
+      "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+      "propertyUri": "http://nakala.fr/terms#type"
+    },
+    {
+      "value": "Donnee test - auteur",
+      "lang": "fr",
+      "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+      "propertyUri": "http://nakala.fr/terms#creator"
+    },
+    {
+      "value": "Donnee test - date",
+      "lang": "fr",
+      "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+      "propertyUri": "http://nakala.fr/terms#created"
+    },
+    {
+      "value": "Donnee test - licence",
+      "lang": "fr",
+      "typeUri": "http://www.w3.org/2001/XMLSchema#string",
+      "propertyUri": "http://nakala.fr/terms#licence"
+    }
+  ],
+  "files": [
+    {
+  		"sha1": "1ca2f03a4bffbeab502954ee8635491ba8270db1",
+        "description": "Cat-and-computer.jpg",
+    }
+  ],
+  "collectionsIds": [
+    "10.34847/nkl.f4ec5ip9"
+  ],
+  "rights": []
+}
+

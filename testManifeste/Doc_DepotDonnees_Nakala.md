@@ -129,12 +129,7 @@ Exemple:
   "collectionsIds": [
     "string"
   ],
-  "rights": [
-    {
-      "id": "b55e770c-849b-11ea-87ea-0242ac1b0003",
-      "role": "ROLE_READER"
-    }
-  ]
+  "rights": []
 }
 ```
 
