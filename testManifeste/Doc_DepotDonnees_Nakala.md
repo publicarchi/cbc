@@ -11,14 +11,14 @@ Les informations suivantes sont à transmettre
    collection publique ne peut contenir que des données publiées. 
 - Métadonnées descriptives de la collection :
   - lang : la liste des valeurs acceptées est disponible via GET
-     /vocabularies/languages 
-  - typeUri : la liste des valeurs acceptées est disponible via GET /vocabularies/metadatatypes 
-  - propertyUri : la liste des valeurs acceptées est disponible via GET /vocabularies/properties 
+     /vocabularies/languages (cf. fichier nakala-languages.json)
+  - typeUri : la liste des valeurs acceptées est disponible via GET /vocabularies/metadatatypes (cf. fichier nakala-metadatatypes.json)
+  - propertyUri : la liste des valeurs acceptées est disponible via GET /vocabularies/properties (cf. fichier nakala-properties.json)
   - La  métadonnée http://nakala.fr/terms#title est obligatoire. Partage de droits sur cette collection
 
 Forme générale: 
 
-```
+```json
 {  
 	"status": "public",  
 	"metas": [
@@ -29,12 +29,8 @@ Forme générale:
             "propertyUri": "string"
             }
         ],
-    "datas": ["string"],
-    "rights": [
-    	{	//pour chaque utilisateur
-    		"id": "b55e770c-849b-11ea-87ea-0242ac1b0003",
-    		"role": "ROLE_READER"    }
-    ]
+    "datas": [],
+    "rights": []
 }
 ```
 
@@ -50,7 +46,7 @@ Exemple de titre en métadonnée
 "value": "Titre de Collection",    
 "lang": "fr",    
 "typeUri": "http://www.w3.org/2001/XMLSchema#string", 
-"propertyUri": "http://purl.org/dc/elements/1.1/title"
+"propertyUri": "http://nakala.fr/terms#title"
 ```
 
 
@@ -94,7 +90,7 @@ Paramètres:
   - value : les valeurs de certaines métadonnées sont validées.
     Par exemple http://nakala.fr/terms#license doit valider les codes retournés par GET /vocabularies/licenses et http://nakala.fr/terms#type ceux retournés par GET /vocabularies/datatypes
   - Cinq métadonnées sont obligatoires pour décrire une donnée :
-    - **Titre** (nakala:title, multivaluée) http://nakala.fr/terms#title
+    - **Titre** (nakala:title, multivaluée) 
     - **Type** (nakala:type, unique) http://nakala.fr/terms#type
     - **Auteur** (nakala:creator, multivaluée)  
       - renseignez un auteur sous la forme d'un objet {givenname, surname, orcid}. Indiquez null si l'auteur est anonyme
