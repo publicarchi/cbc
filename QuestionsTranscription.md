@@ -3,8 +3,10 @@
 ### Format TEI
 
 - pb et fw: clarifier l'usage
-
-
+- qund il y a un seul paragraphe contenant un avis, mais pas un intituté "avis", est-ce qu'on ajoute la balise advice? 
+- si lecture avec une interpréatation pas très logique, est-ce qu'on l'écrit en unclear ou vaut mieux mettre un gap ?
+- Prefet = persName? case 680 last line
+- abbréviations: travx (680) et const°(681), écrire complètement ou noter les abbréviations, et si oui comment? 
 
 
 
