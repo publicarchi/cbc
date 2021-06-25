@@ -7,8 +7,7 @@
 - si lecture avec une interpréatation pas très logique, est-ce qu'on l'écrit en unclear ou vaut mieux mettre un gap ?
 - Prefet = persName? case 680 last line
 - abbréviations: travx (680) et const°(681), écrire complètement ou noter les abbréviations, et si oui comment? 
-
-
+- lb dans les marges? 
 
 ### Lecture
 
