@@ -96,8 +96,8 @@
                     <label>Église de plaisance</label>
                     <label>386</label>
                     <div type="report">
-                    <head><persName><abbr>M.</abbr> Leclere</persName></head>
-                        <p>Je dépose sur le bureau le projet de l'Église de Plaisance, ce projet qui a été <lb/>présenté au conseil dans sa séance du 27 <abbr>sept.</abbr> 1838 est renvoyé avec les changements qui <lb/>avaient été demandés à l'architecte et qui consistaient dans <abbr>1re</abbr> l'augmentation <lb/>des ouvertures des jours éclairant la voûte de la nef. <abbr>2o</abbr> Dans la saillie plus <lb/>considérable à donner aux colonnes du portique, ainsi que dans l'étude des proportions <lb/>de cet ordre. <abbr>3o</abbr> Dans l'étude de l'escalier montant au clocher. <abbr>4o</abbr> Dans le <gap extent="1" unit="words"/> de <lb/>la charpente qui placé dans le comble doit porter les cloches, on observera à ce sujet <lb/>qu'elle semble un peu faible et <sic>ne pas présenter ce qui peut présenter</sic> la solidité <lb/>nécessaire, qu'ensuite il est nécessaire de réserver dans les planchers inférieurs les passages du clocher.</p>
+                        <head><persName><abbr>M.</abbr> Leclère</persName></head>
+                        <p>Je dépose sur le bureau le projet de l'Église de Plaisance, ce projet qui a été <lb/>présenté au conseil dans sa séance du 27 <abbr>sept.</abbr> 1838 est renvoyé avec les changements qui <lb/>avaient été demandés à l'architecte et qui consistaient dans <abbr>1re</abbr> l'augmentation <lb/>des ouvertures des jours éclairant la voûte de la nef. <abbr>2o</abbr> Dans la saillie plus <lb/>considérable à donner aux colonnes du portique, ainsi que dans l'étude des proportions <lb/>de cet ordre. <abbr>3o</abbr> Dans l'étude de l'escalier montant au clocher. <abbr>4o</abbr> Dans le <gap extent="1" unit="words"/> de <lb/>la charpente qui placé dans le comble doit porter les cloches, on observera à ce sujet <lb/>qu'elle semble un peu faible et <sic>ne pas présenter ce qui peut présenter</sic> la solidité <lb/>nécessaire, qu'ensuite il est nécessaire de réserver dans les planchers inférieurs les passages <lb/>du clocher.</p>
                     <p>Enfin le devis qui dans le premier devis se montait à 50.000 <abbr>frs</abbr> présente <lb/>une augmentation de 4.000 <abbr>f.</abbr> il a été régularisé depuis les demandes du Conseil et <lb/>présente un métré détaillé avec les sous-détails nécessaires pour juger du prix, d'après <lb/>un cahier des charges.</p>
                     <p>L'ensemble de cette affaire étant régularisée, rien n'empêche maintenant <lb/>après l'examen des pièces par le bureau de contrôle, de présenter ce projet à l'adoption <lb/>de <persName><abbr>M.</abbr> le Ministre</persName>.</p></div>
                     <div type="advice">
@@ -114,11 +114,11 @@
                     <p>J'ai l'honneur de mettre sous les yeux du conseil le projet de construction <lb/>d'un amphithéâtre et le projet de <del><gap extent="1" unit="words"/></del> restauration de l'ancien, accompagnés <lb/>d'un devis estimatif s'élevant à la somme de <unclear cert="low">64, 359.57</unclear>. Je dépose en outre <lb/>un devis estimatif concernant l'éclairage tant intérieur qu'extérieur du Palais, <lb/>et la décoration des salons pour l'exposition des dessins, montant à 20 000 <abbr>fr</abbr>.</p>
                         <p><persName><abbr>M.</abbr> Duban</persName> présente deux partis pour la disposition à donner au <lb/>bâtiment de l'amphithéâtre, le conseil reconnaitra peut-être qu'il y aurait quelques <lb/>avantages à adopter le dernier parti (dessin <abbr>No</abbr> 3) par cette disposition. <lb/>L'amphithéâtre serait convenablement éclairé. La <unclear cert="medium">préfecture</unclear> aurait son <lb/>cabinet touchant à la salle de préparation qui serait aérée et ventilée comme <lb/>il est nécessaire qu'elle le soit et les élèves pourraient arriver sans encombre à <lb/>l'amphithéâtre par deux entrées toutes deux commodes.</p>
                         <p>Le devis m'a paru un peu élevé comparativement à l'étendue des constructions <lb/>à faire: le bureau de contrôle devra donc porter toute son attention sur les évaluations de <lb/>ce devis.</p>
-                        <p>Quant au devis relatif à l'éclairage du Palais et à la décoration du salon, il ne donne lieu de ma part à aucune observation, je pense sauf l'examen de ces deux devis par le Contrôle, ces projets peuvent recevoir l'approbation de <persName><abbr>M.</abbr> le Ministre</persName>.</p>
+                        <p>Quant au devis relatif à l'éclairage du Palais et à la décoration du salon, il ne donne lieu <lb/>de ma part à aucune observation, je pense sauf l'examen de ces deux devis par le Contrôle, ces projets peuvent <lb/>recevoir l'approbation de <persName><abbr>M.</abbr> le Ministre</persName>.</p>
                     </div>
                 </div>
                 <closer>
-                    <g ref="#leclerec"/>
+                    <g ref="#leclere"/>
                     <g ref="#biet"/>
                     <g ref="#caristie"/>
                     <g ref="#blouet"/>
@@ -126,6 +126,50 @@
                     <g ref="#gourlier">Le Secrétaire</g>
                 </closer>
             </div>
+            <div type="assembly">
+                <head>Séance du <date when="1839-01-21">21 janvier 1839</date></head>
+                <div type="case">
+                    <label>Seine</label>
+                    <label>Paris</label>
+                    <label>Ministère du Commerce</label>
+                    <label>388</label>
+                    <div type="report"><p>Les invitations de <persName><abbr>M.</abbr> le Président</persName> <abbr>MM.</abbr> <persName>Caristie</persName>, <lb/><persName>Leclère</persName>, <persName>Blouet</persName> et <persName>Rouhaut</persName>, ayant visité les bâtiments du Ministère du <lb/>Commerce sur la rue de Varennes ont reconnu que les murs des <gap extent="1" unit="words"/> paraissent en <lb/>bon état, que les voûtes sont moins bien construites, qu'au rez-de-chaussée les murs sont <lb/>généralement bien conservés, et que les parties défectueuses peuvent facilement être reconstruites <lb/>par les constructions <unclear cert="medium">obligées</unclear> pour les distributions nouvelles, que les murs de <gap extent="1" unit="words"/> sur la <gap extent="1" unit="words"/> de <lb/>la rue des Varennes sont droits et ne doivent inspirer aucune inquiétude.</p>
+                        <p>Le Conseil après avoir entendu ce rapport verbal est d'avis qu'on peut <unclear cert="low">surélever ces</unclear> <lb/>bâtiments mais avec les précautions nécessaires et en évitant des constructions présentes qui <lb/>peuvent être remplacées par de la brique et des pans de bois.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label><unclear cert="high">Saône-et-Loire</unclear></label>
+                    <label><abbr>aligt.</abbr> de <unclear cert="medium">Mâcon</unclear></label>
+                    <label>389</label>
+                    <div type="report"><head>Rapport par <persName><abbr>M.</abbr> Caristie</persName></head>
+                        <p>J'ai présenté au Conseil la demande du Conseil Municipal de la ville de <unclear cert="medium">Mâcon</unclear> <lb/>tendant à obtenir la rectification de l'<abbr>aligt.</abbr> de la rue du Pont.</p>
+                        <p>Il résulte de l'avis de <persName><abbr>M.</abbr>le Préfet</persName> et de la délibération du <abbr>Cl Ml</abbr> que la proposition <lb/>d'acquérir la construction indiquée <unclear cert="low">.5</unclear> et <unclear cert="low">en jaune</unclear> sur le plan, pour ouvrir une rue en <lb/><unclear cert="low">face le pont</unclear> et facilitera l'entrée de la ville est la conséquence du projet formé depuis <lb/>longtemps par la ville, et qu'elle désire réaliser. Ce projet malgré <unclear cert="low">les avantages</unclear> à <unclear cert="low">soulever</unclear> <lb/>les réclamations de 6 propriétaires sur le quai du <emph>Sud</emph>, lesquelles ont <gap extent="4" unit="char"/>rtées par le Conseil <abbr>Ml</abbr> <lb/>par le motif que la saillie désagréable et nuisible aux autres propriétés formées par la première <lb/>construction élevée sur l'alignement est un inconvénient qui se rencontre tous les jours et <lb/>est indispensable des plans d'alignement.</p>
+                        <p>Il me semble qu'il serait peut-être convenable d'appeler l'attention de <lb/>l'autorité locale sur la possibilité de concilier les difficultés, en au moins d'atténuer la <lb/><unclear cert="low">course</unclear> de ces réclamations, il suffirait de porter l'alignement sur les <unclear cert="medium">vestiges</unclear> du <persName><abbr>M.</abbr> 1</persName> <lb/>(quai du Nord) et sur ceux des <abbr>Mrs</abbr> <persName>4</persName> et <persName>5</persName> (quai du Sud) aussi qu'il est <lb/>tracé au crayon sur le plan. Je conclus à l'approbation.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Haut-Rhin</label>
+                    <label>Massevaux</label>
+                    <label>Église</label>
+                    <label>390</label>
+                    <div type="report"><head>Rapport par <persName><abbr>M.</abbr> Biet</persName></head>
+                        <p>Un projet fut adopté par le Conseil en la séance du 27 mars dernier, <lb/><persName><abbr>M.</abbr> le Préfet</persName> après avoir fait procéder à l'adjudication sur la mise à prix <lb/>de 140 638 montant du devis, voyant qu'aucune adjudication se présentait fait <lb/>réviser ce devis qui donne aujourd'hui 148 442 <abbr>frs</abbr>. En sollicitant l'approbation <lb/>de ce nouveau devis <persName><abbr>M.</abbr> le Préfet</persName> sur le vœu du <abbr>C.M.</abbr> prie le Conseil de vouloir bien <lb/>donner l'indication d'une forme de <gap extent="1" unit="words"/> d'un meilleur <unclear cert="low">goût</unclear> que celle du dessin de l'architecte <lb/>ou de la faire faire par un artiste.</p>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             
             
             
