@@ -329,8 +329,25 @@
                     <label>crops de garde <lb/>du <gap extent="1" unit="words"/> de la <lb/>grève</label>
                     <label>683</label>
                     <div type="report"><p>Après avoir entendu la lecture de la lettre d'<unclear cert="low">ennui</unclear> de <persName><abbr>M.</abbr> le <abbr>D</abbr></persName> <lb/>de <unclear cert="low"><gap extent="1" unit="words"/> <abbr>dep</abbr> et <abbr>Cl</abbr></unclear> ainsi que celle du rapport de <persName><abbr>M.</abbr> l'architecte</persName>, de la <lb/>commission d'archtiecture de la Préfecture et le rapport <gap extent="1" unit="words"/> des Inspecteurs <lb/>généraux <persName>Rohault</persName> et <persName>Gourlier.</persName></p>
-                    <p>Considérant qu'indépendamment des devis primitifs réduits <unclear cert="medium">pour</unclear> <lb/>rabais à <unclear cert="medium">35.38 <abbr>fr</abbr></unclear>, il est établi que <persName><abbr>M.</abbr> l'architecte</persName> avait présenté un devis <lb/>supplémentaire de <unclear cert="medium">3.519</unclear> <unclear cert="low">pour plus</unclear> basses fondations exigées par la <gap extent="1" unit="words"/> du <lb/>terrain, mais qu'il n'aurait pas attendu pour faire exécuter les travaux supplémentaires <lb/>l'autorisation de ces devis sans compromettre d'une manière <gap extent="1" unit="words"/> les <gap extent="1" unit="words"/> <lb/>de la ville de Paris. Considérant, en outre, que le surplus de l'excédent est motivé <lb/>pour divers travaux de <gap extent="1" unit="words"/>, dont les convenances et l'utilité sont également <lb/>reconnues, considérent enfin que les</p></div>
-                </div>                
+                        <p>Considérant qu'indépendamment des devis primitifs réduits <unclear cert="medium">pour</unclear> <lb/>rabais à <unclear cert="medium">35.381<abbr>fr</abbr></unclear>, il est établi que <persName><abbr>M.</abbr> l'architecte</persName> avait présenté un devis <lb/>supplémentaire de <unclear cert="medium">3.519</unclear> <unclear cert="low">pour plus</unclear> basses fondations exigées par la <unclear cert="medium">nature</unclear> du <lb/>terrain, mais qu'il n'aurait pas attendu pour faire exécuter les travaux supplémentaires<lb/> l'autorisation de ces devis sans compromettre d'une manière <gap extent="1" unit="words"/> les <unclear cert="medium">intérêts</unclear><lb/> de la ville de Paris. Considérant, en outre, que le surplus de l'excédent est motivé <lb/>pour divers travaux de détail, dont les convenances et l'utilité sont également <lb/>reconnues. Considérant enfin que les<unclear cert="low">nombres</unclear> ont été réglés et de plus révisés dans les<lb/> formes en usage à la préfecture de la Seine, et qu'en conséquence il deviendrait<lb/> superflu de les faire réviser par le bureau de Contrôle, le Conseil pense que<lb/> l'augmentation sur le montant des travaux est motivé et que la liquidation<lb/> peut être autorisée telle qu'elle est présentée par <persName><abbr>M.</abbr> le Préfet</persName>, il observe en<lb/> outre qu'un certain nombre de journées, <gap extent="1" unit="words"/> avoir été employées à des<lb/> travaux qui auraient pu <gap extent="4" unit="words"/> d'après leur métré et évaluation,<lb/> il <unclear cert="medium">paraît</unclear> que <persName><abbr>M.</abbr> le Préfet</persName> fut invité à recommander à <persName><abbr>M.</abbr> <abbr>M.</abbr> les architectes</persName><lb/> de la Préfecture de <unclear cert="medium">m'</unclear>expliquewr le mode d'<gap extent="1" unit="words"/> à la journée pour les travaux<lb/> qui ne seraient pas susceptibles d'être évalués autrement.</p>
+                    </div>
+                </div>     
+                <div type="case"><!-- case??-->
+                    <label>Exament des<lb/>certificats de<lb/>capacité pour<lb/> adjudication</label>
+                    <label>(684)</label>
+                    <div type="advice">      <!-- advice?-->
+                        <p>Le Conseil, après avopir examiné les certificats des Entrepreneurs qui se<lb/> présentent pour être <unclear cert="low">admis</unclear> à l'adjudication des travaux de <unclear cert="medium">conclure</unclear> <gap extent="2" unit="words"/><lb/> $ exécuter à la maison royale de <unclear cert="medium">Charentine</unclear>, est d'avis qu'il y a lieu d'admettre<lb/> les entrepreneurs sous les noms suivants. <abbr>M.</abbr> <abbr>M.</abbr> <persName>Chibon</persName>, <persName><gap extent="1" unit="words"/></persName> <persName><gap extent="1" unit="words"/></persName>.</p>
+                    </div> 
+                </div>
+                <closer>
+                    <g ref="#leclerec"/>
+                    <g ref="#biet"/>
+                    <g ref="#caristie"/>
+                    <g ref="#blouet"/>
+                    <g ref="#rohault"/>
+                    <g ref="#gourlier"/>
+                    <g ref="#Morey">Le secrétaire</g>
+                </closer>        
             </div>
         </body>
     </text>
