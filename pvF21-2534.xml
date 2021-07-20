@@ -204,7 +204,46 @@
                     <g ref="#gourlier">Le Secrétaire</g>
                 </closer>
             </div>
-            
+            <pb/>
+            <div type="assembly">
+                <head>Séance du <date when="1839-01-24">24 janvier 1839</date></head>
+                <div type="case">
+                    <label>dessin des théâtres antiques d'Arles et d'Orange</label>
+                    <label><gap extent="2" unit="words"/> par <persName><abbr>M.</abbr> Caristie</persName></label>
+                    <label>393</label>
+                    <div type="report">
+                        <p><persName><abbr>M.</abbr> Caristie</persName> a demandé à <persName><abbr>M.</abbr> le Ministre</persName> de vouloir bien faire apprécier le <lb/>dessin composant un <gap extent="1" unit="words"/> de 10 feuilles sur les théâtres antiques d'Arles et d'Orange <lb/>qu'il a faite en 1838 à la suite de sa <unclear cert="low">mission</unclear> dans le <gap extent="1" unit="words"/>, pour accompagner le <unclear cert="low">payer</unclear> <lb/>de loi spéciale qui doit être proposé aux Chambres <abbr>relativt</abbr> à la <abbr>reston</abbr> <gap extent="1" unit="words"/> de ces <gap extent="1" unit="words"/>.</p>
+                    </div>
+                    <div type="advice">
+                        <p>Le Conseil consulté à ce sujet par <persName><abbr>M.</abbr> le Directeur</persName> est d'Avis qu'il serait convenable <lb/>d'allouer à <persName><abbr>M.</abbr> Caristie</persName> une <gap extent="1" unit="words"/> de quatre mille francs <unclear cert="low"><abbr>f</abbr></unclear>.</p>
+                    </div>
+                </div>
+                <div type="case"> 
+                    <label>Gironde</label> 
+                    <label><abbr>reconston</abbr> de l'Église de la <abbr>Come</abbr> de Talence</label>
+                    <label>394</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Leclère</persName></head>
+                        <p>Par la lecture de la lettre du <persName>Préfet</persName> du 29 <unclear cert="low"><abbr>Xe</abbr></unclear> <abbr><gap extent="1" unit="words"/></abbr> le Conseil connaît maintenant le <unclear cert="low">convenance</unclear> <lb/>de cette affaire et l'<unclear cert="low">opinion</unclear> de <persName><abbr>M.</abbr> le Préfet</persName> sur l'irrégularité d'en avoir qu'un Entrepreneur <lb/>pour construire et faire les plans, ce qui ne peut être adouci puisqu'on se prive de ce <gap extent="1" unit="words"/> <lb/>de cette <unclear cert="high">surveillance</unclear> qui ne peut être exercée que par un architecte lequel présente toutes les <lb/>garanties nécessaires à une <unclear cert="medium"><abbr>admn</abbr></unclear>.</p>
+                        <p>Passant maintenant à l'exaucer du projet je ferai remarquer au Conseil que ces plans <unclear cert="high">ne sont</unclear> <lb/>pas sur l'échelle demandée par les instructions du <persName>Ministre</persName> et que par <abbr>conséquemt</abbr> on se trouve <lb/>dans l'impossibilité d'apprécier quelques détails.</p>
+                        <p>L'Église semble disposée d'après l'ancienne dont elle conserve la façade que <abbr>probabt</abbr> à cause <lb/>e son mauvais état on est forcé de consolider par deux contreforts décorés en façade par <persName><gap extent="1" unit="words"/></persName>.</p>
+                        <p>Cette Église est éclairée que par un jour circulaire placé au-dessus de la porte et par quatre <lb/>autres petites fenêtres dans un style presque gothique qui se trouvent dans la lanterne placée <lb/>au centre du sanctuaire. Ces jours sont loin d'être <sic>suffisans</sic> et laisseraient l'Église dans une <lb/>obscurité presque complète. La décoration de la nef n'est pas indiquée dans le plan <lb/>et quant à la construction elle est figurée dans plusieurs parties <gap extent="3" unit="words"/> <lb/>et la charpente placée au centre de l'Église ne présente nullement la disposition <lb/>nécessaire pour supporter la lanterne.</p>
+                        <p>D'après ce qui vient d'être dit et <gap extent="1" unit="words"/> il me semble facile de s'en convaincre par <lb/>l'inspection des plans, je propose au Conseil le rejet de l'ensemble de ce projet et je <lb/>demande que les autorités locales soient invitées à confier à un architecte la rédaction<lb/> d'un nouveau projet car il est impossible d'avoir la moindre confiance dans la personne qui a <lb/>projeté celui qui <gap extent="2" unit="words"/>. On y trouve l'absence totale de connaissance de l'architecture <lb/>et de la construction, et comme la Commune de talence tient à la Ville de Bordeaux où il <lb/>existe des architectes habiles il sera facile aux autorités locales de faire choix de celui qui <lb/><gap extent="2" unit="words"/> conserver, lequel fera connaître l'état des anciennes <abbr>constons</abbr> et s'il n'est pas possible <lb/>de les conserver, dans le cas contraire il disposera un nouveau projet pour les beoins de la <lb/>localité en se renfermant pour les dépenses dans la <gap extent="1" unit="words"/> disponible présentant l'ensemble <lb/>des ressources que l'on <unclear cert="low">réuni</unclear> enfin dont les plans <unclear cert="medium">seront</unclear> figurés <gap extent="1" unit="words"/> les <abbr>instons</abbr> Ministérielles <lb/>et accompagnés des devis descriptif et estimatif avec les sous-détails et le Cahier des charges <lb/><unclear cert="low">sont</unclear> étant fixé de cette manière la <abbr>Come</abbr> alors pourra établir régulièrement une <gap extent="1" unit="words"/> <lb/>des <abbr>travx</abbr> et rentrer dans les <gap extent="2" unit="words"/> de l'<abbr>admn</abbr></p>
+                    </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Le Conseil</p>
+                    </div>
+                </div>
+                <closer>
+                    <!--<g ref="#blouet"/>
+                    <g ref="#biet"/>
+                    <g ref="#caristie"/>
+                    <g ref="#leclere"/>
+                    <g ref="#rohault"/>
+                    <g ref="#gourlier">Le Secrétaire</g>-->
+                </closer>
+            </div>
             
             
             
