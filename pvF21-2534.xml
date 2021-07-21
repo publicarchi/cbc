@@ -409,7 +409,7 @@
                     <label>(686)</label>
                     <div type="report">
                         <head>Rapport de <persName><abbr>M.</abbr> Blouet</persName></head>
-                        <p><persName><abbr>M.</abbr> le Préfet</persName> annonce à <persName><abbr>M.</abbr> le Ministre</persName> que <persName><abbr>M.</abbr> <unclear cert="medium">Peire</unclear></persName> <lb/>donne le terrain pour percer une nouvelle rue en prlongement d'une <lb/>ancienne qui poprte le nom de rue <unclear cert="medium">bon</unclear> guillaume, et l'ouverture d'une <lb/>impoasse suzr la nouvelle rue projetée.</p>
+                        <p><persName><abbr>M.</abbr> le Préfet</persName> annonce à <persName><abbr>M.</abbr> le Ministre</persName> que <persName><abbr>M.</abbr> <unclear cert="medium">Peire</unclear></persName> <lb/>donne le terrain pour percer une nouvelle rue en prolongement d'une <lb/>ancienne qui porte le nom de rue <unclear cert="medium">bon</unclear> guillaume, et l'ouverture d'une <lb/>impoasse sur la nouvelle rue projetée.</p>
                         <p>La rue aboutira à la rivière du Puiseaux où l'on établirait un <lb/>abreuvoir public. La rue aura 8 <abbr>m.</abbr> de large, le pavé sur <unclear cert="medium">5</unclear> <abbr>m.</abbr> de largeur <lb/>sera fait aux frais de la ville, et l'impasse aura 6 <abbr>m.</abbr> <gap extent="1" unit="words"/> de largeur.</p>
                         <p>Le Conseil municipal se réserve d'établir par la suite une <gap extent="1" unit="words"/> sur <lb/>la rivière de Puiseaux à la place de l'abreuvoir <gap extent="2" unit="words"/>. Je <lb/>pense que l'alignement de la rue tel que le propose <persName><abbr>M.</abbr> le Préfet</persName> du<lb/> Loiret est susceptible d'être approuvé. Quant à l'impasse projetée de <lb/>6 <abbr>m.</abbr> <gap extent="1" unit="words"/> de largeur, il doit avoir pour érsultat très avantageux<lb/> d'être ouverte en une rue qui établira une grande communication entre <lb/> le quartier de la nouvelle rue et celui de la Lanterne dont elle<lb/>fera le prolongement. Je propose donc d'autoriser le percemement de<lb/> l'impasse à la charge toutefois d'enfermer l'entrée par une grille en<lb/> <unclear cert="low">laissant</unclear> ses frais d'entretien à la charge du propriétaire jusqu'au<lb/> moment où ce percement serait convertie en rue.</p>
                     </div>
@@ -446,8 +446,7 @@
                    <label>Église</label>
                    <label>688</label>
                    <div type="advice">
-                       <p>Sur rapport verbal de <persName><abbr>M.</abbr> <lb/> Biet</persName> et après avoir examiné <lb/>les plans, le Conseil est d'avis qu'il y a lieu d'approuver le projet <lb/>d'agrandissement de l'Église de Magny-les-Jussy tel qu'il <lb/>est présenté.</p>
-                   </div>
+                       <p>Sur rapport verbal de <persName><abbr>M.</abbr> <lb/> Biet</persName> et après avoir examiné <lb/>les plans, le Conseil est d'avis qu'il y a lieu d'approuver le projet <lb/>d'agrandissement de l'Église de Magny-les-Jussy tel qu'il <lb/>est présenté.</p>                   </div>
                </div>
                <closer>
                     <g ref="#leclere"/>
@@ -461,7 +460,7 @@
             </div>
             
             <div type="assembly">
-                <head>Séance du <date when="1939-07-22">22 Juillet 1839</date></head>
+                <head>Séance du <date when="1839-07-22">22 Juillet 1839</date></head>
                 <div type="case">
                     <label>Lozère</label>
                     <label>Mende</label>
@@ -469,7 +468,7 @@
                     <label>689</label>
                     <div type="report">
                         <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
-                        <p><persName><abbr>M.</abbr> Mallay</persName> architecte, répond aux <abbr>observion</abbr> de mon rapport et de l'avis du Conseil du 16 <lb/>mai dernier que le <unclear cert="medium">pignon</unclear> tracé sur le dessin <unclear cert="medium"><abbr>N°</abbr> 9</unclear> n'existe pas; que toutefois il pense que <lb/> l'inclinaison de 61° qu'il proposer de donner au comble mettrait le <unclear cert="medium">pignon</unclear> de la nef <lb/>en harmonie avec le style d'architecture<unclear cert="medium">dont l'ajout</unclear> n'apporterait qu'une <abbr>augmn</abbr> de 5000 <abbr>f.</abbr> <lb/> à la dépense. J'avais pensé qu'on pouvait réduire à 50° l'inclinaison de ces <unclear cert="medium">combles</unclear> <lb/>qui doivent être <unclear cert="low">couvertes en zinc</unclear> afin de moins charger les murs d'un Édifice déjà fort ancien et <lb/> dont les constructions ont été ébranlées par suite de mauvais état de ces murs. Je laisse au <lb/> Conseil à prononcer <unclear cert="medium"><abbr>définitet</abbr></unclear> sur ce projet.</p>
+                        <p><persName><abbr>M.</abbr> Mallay</persName> architecte, répond aux <abbr>observion</abbr> de mon rapport et de l'avis du Conseil du <date when="1839-05-16">16 <lb/>mai dernier</date> que le <unclear cert="medium">pignon</unclear> tracé sur le dessin <unclear cert="medium"><abbr>N°</abbr> 9</unclear> n'existe pas; que toutefois il pense que <lb/> l'inclinaison de 61° qu'il propose de donner au comble mettrait le <unclear cert="medium">pignon</unclear> de la nef <lb/>en harmonie avec le style d'architecture<unclear cert="medium">dont l'ajout</unclear> n'apporterait qu'une <abbr>augmn</abbr> de 5000 <abbr>f.</abbr> <lb/> à la dépense. J'avais pensé qu'on pouvait réduire à 50° l'inclinaison de ces <unclear cert="medium">combles</unclear> <lb/>qui doivent être <unclear cert="low">couvertes en zinc</unclear> afin de moins charger les murs d'un Édifice déjà fort ancien et <lb/> dont les constructions ont été ébranlées par suite de mauvais état de ces murs. Je laisse au <lb/> Conseil à prononcer <unclear cert="medium"><abbr>définitnt</abbr></unclear> sur ce projet.</p>
                         <p>La surélévation des murs latéraux de la nef avait donné lieu de ma part à une remarque <lb/>une erreur commise par le dessinateur de <persName><abbr>M.</abbr> Mallay</persName> en était cause. Ces murs latéraux <lb/> servent de <gap extent="1" unit="words"/> sur une hauteur de 1<abbr>m</abbr>, <unclear cert="medium">puis</unclear> reconstruite sur cette même hauteur.</p>
                         <p>Le système de la charpente du comble a été modifié par <persName><abbr>M.</abbr> Mallay</persName> dans les deux <lb/>hypothèses <abbr>c.a.d.</abbr> avec <unclear cert="medium">du</unclear> inclinaison de 61° et de 50°. Ces systèmes me semblent <abbr>égalem</abbr><lb/> bien combinés et je les crois l'un et l'autre susceptible d'adoption <sic>à</sic>
                         <pb/>
@@ -491,7 +490,7 @@
                     <label>(690)</label>
                     <div type="report">
                         <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
-                        <p>Dans sa séance du 18 février <abbr>der</abbr>, le Conseil ayant émis l'avis qu'il n'y avait pas lieu d'accorder <lb/> à <persName><abbr>M.</abbr> Mobelui</persName> <abbr>arche</abbr>, des frais de séjour pour <gap extent="1" unit="words"/> du projet général, mais qu'on <unclear cert="medium">devait</unclear> <lb/>seulement lui accorder une <abbr>indté</abbr> proportionnée au travail auqel il s'était <unclear cert="low">tiré</unclear>.</p>
+                        <p>Dans sa séance du <date when="1839-02-18">18 février <abbr>der</abbr></date>, le Conseil ayant émis l'avis qu'il n'y avait pas lieu d'accorder <lb/> à <persName><abbr>M.</abbr> Mobelui</persName> <abbr>arche</abbr>, des frais de séjour pour <gap extent="1" unit="words"/> du projet général, mais qu'on <unclear cert="medium">devait</unclear> <lb/>seulement lui accorder une <abbr>indté</abbr> proportionnée au travail auqel il s'était <unclear cert="low">tiré</unclear>.</p>
                         <p>J'avais omis d'appeler l'attention du <abbr>Ceil</abbr> sur ce point, parce qu'on ne trouvait pas dans le <lb/>dossier les dessins du projet <abbr>ge</abbr> j'avais pensé que ce travail n'était pas complet, <lb/>n'était pas consulté à ce sujet.</p>
                         <p>Mais il en était autrement. Le <abbr>Cl</abbr> étant appellé aujourd'hui à arbitrer le travail fait par <lb/><persName><abbr>M.</abbr> Mobelui</persName>; travail qui se compose: <abbr>1°</abbr> d'un devisestimatif des <abbr>répon</abbr> $ faire, s'élevant à <lb/>242,027<abbr>fr.</abbr>.39; <abbr>2°</abbr> d'un Cahier des charges; <abbr>3°</abbr> d'un bordereau de sous-détail de prix.</p>
                         <p>Laissant au Conseil à arbitrer l'allocation due à <persName><abbr>M.</abbr> Mobelui</persName>, je ferai remarquer que <lb/>pour ce travail, l'<abbr>arche</abbr> avait réclamé des frais de séjour à Autran, à raison de 20<abbr>f</abbr> par <lb/>jour et pour 20 journées de séjour, <abbr>c.a.d.</abbr> une somme de 400<abbr>f</abbr>.</p>
@@ -507,10 +506,81 @@
                     <label>691</label>
                     <div type="report">
                         <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
-                        <p>
-                            
-                        </p>
+                        <p><persName><abbr>M.</abbr> <unclear cert="medium">Prefet</unclear></persName> fait connaître que les <abbr>travx</abbr> de cet Édifice étaient terminé au moment où lui <lb/>est parvenu l'avis du Conseil en date du <date when="1838-09-01"><abbr>1er</abbr> <abbr>septe</abbr> <abbr>de</abbr></date> en sorte qu'il n'était plus temps de se <lb/>conformer aux <abbr>observn</abbr> qui y sont communiquées et il est à regretter qu'elle n'aient pas été <gap extent="1" unit="words"/> <lb/>car on aurait pu obtenir, dit-il, à moins de frais une Église plus sodile et bien <gap extent="1" unit="words"/> <lb/>sous le rapport de l'art.</p>
+                        <p>Dans ces circonstances, le projet me paraissant présenté devant le Conseil pour en obtenir <lb/>la régularisation du montant de la dépense, il est nécessaire de le demander à l'autorité <lb/>avec le métré général, le procès-verbal de l'<abbr>adjudon</abbr> et la réception des travaux, afin que
+                        <pb/>
+                        <fw>397</fw>
+                        ces pièces soient examinées par le Conseil et le bureau de contrôle.</p>
                     </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Après avoir pris connaissance des pièces du dossier et entendu la lecture du rapport, le Conseil <lb/>pense qu'il y a lieu d'inviter l'autorité locale à faire l'envoi des diverses pièces demandées par le <lb/>rapporteur afin qu'il puisse donner un avis sur le montant des dépenses qu'on été faites pour <lb/>la <abbr>conston</abbr> de l'Église de la Greste.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Tarn</label>
+                    <label><abbr>Conston</abbr> d'une Maison d'arrêt <lb/>à Lavaur</label>
+                    <label>692</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Blouet</persName></head>
+                        <p>Dans l'étude du projet préàsenté, l'architecte s'est confirmé aux intentions de l'<abbr>admon</abbr> et en <unclear cert="medium">exprimant</unclear> <lb/>les <abbr>modifon</abbr> demandées par le Conseil dans son avis du <date when="1838-08-14">14 août 1838</date>, l'a <unclear cert="medium">rendu</unclear> susceptible d'être <lb/>approuvé. Les seuls <gap extent="1" unit="words"/> sur lequels je <gap extent="1" unit="words"/> devra appeler l'attention de l'<abbr>arche</abbr> lorsqu'il en sera à <lb/><gap extent="1" unit="words"/> les dessins d'exécutions sont <abbr>1ement</abbr> de basser les murs latéraux des cellules et tout le comble <lb/>du bâtiment dont la surélévation du du <abbr>1er</abbr> étage me semble inutile et par ce moyen <lb/>réduire la dépense des <abbr>conston</abbr>; <abbr>2e</abbr> de <gap extent="1" unit="words"/> à 3<abbr>m</abbr> la largeur du Chemin de ronde en l'élargissant <lb/>sur les côtés aux dépens des deux préaux et au <unclear cert="medium">fond</unclear> aux dépens du terrain restant; <abbr>3e</abbr> de <lb/>combiner la conduite des <gap extent="1" unit="words"/> d'aisance, de chauffage et de ventiliation de manière à ce qu'ils <lb/>ne puisse pas servir de moyen de conversation entre les détenus, ce qui ne manquerait <lb/>pas d'arriver si ces canaux communiquaient d'une cellule à l'autre; <abbr>4e</abbr> sur la <abbr>conston</abbr> des <lb/>portes des cellules qui <unclear cert="medium"><abbr>doivt</abbr></unclear> être combinées de manière à ce que lorsque le guichet de l'une <lb/>sera ouvert le détenu d'un côté ne puisse voir celui qui serait vis à vis de lui; <abbr>5e</abbr> enfin <lb/>d'affecter une des pièces du <unclear cert="medium"><abbr>bat</abbr></unclear> du Concièrge au <gap extent="1" unit="words"/> d'une <unclear cert="medium">garderie <abbr>pr</abbr> le service des femmes</unclear>.</p>
+                        <p>Ces <abbr>obseron</abbr> qui ne nécessitent aucun <abbr>change</abbr> notable au projet, ne portant que sur des <lb/><gap extent="1" unit="words"/> d'étude relatifs à l'<gap extent="1" unit="words"/> et ne devrait pas d'ailleurs avoir pour résultat de faire <lb/>augmenter le chiffre du devis, je pense que le projet ne doit pas être redemandé et que <lb/>tel qu'il en est, il peut être approvué <abbr>définitve</abbr> par le Conseil.</p>
+                        <p>Je propose le renvoi du devis au Contrôle pour qu'il soit examiné d'urgence.</p>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Après avoir examiné les plans et entendu la elcture du rapport qu'il a adopté, le Conseil <lb/>est d'avis qu'il y a lieu d'approuver ce projet qui a été modifé dans le sens des deux <lb/>précédents avis du Conseil, en invitant toutefois l'architecte à avoir égard aux <lb/>diverses observations présentées par le rapporteur.</p>
+                        </div>
+                    </div>
+                    <div type="case">
+                        <label>Ardèche</label>
+                        <label><abbr>Constron</abbr> d'un Palais de justice <lb/>et Prison à l'Argentière</label>
+                        <label>693</label>
+                        <div type="report">
+                            <head>Rapport de <persName><abbr>M.</abbr> Blouet</persName></head>
+                            <p>En rappelant sommairement les améliorations demandées et obtenues par suite de l'avis <lb/>du Conseil du <date when="1839-04-04">4 avril dernier</date>, je crois <abbr>cepend</abbr> devoir indiquer que le système de chauffage <lb/>a été omis et en outre quelques léger détails qui peuvent être modifiés, je le pense dans <lb/> l'exécution et qui par leur peu d'împortance ne sauraient retarder l'<abbr>approbon</abbr> immédiate <lb/>de ce projet, après examen du devis que je demanderai d'urgence au Contrôle.</p>
+                            <p>Ainsi, je pense que dans l'<unclear cert="medium">exécution</unclear> l'architecte pourra facilement supprimer deux de ses <lb/>fenêtre ou celle du milieu seulement dans le corps de bâtiment en retraite de sa façade <lb/><abbr>pple</abbr> ou bien encore <unclear cert="medium">disposer</unclear> au rez de chaussée, au milieu de <gap extent="2" unit="words"/> une niche ornée d'<gap extent="1" unit="words"/> et <lb/>surmonté d'un simple <unclear cert="medium">couronnement</unclear> dans le style de son Édifice et ne plus traiter <unclear cert="medium">alors les</unclear> <lb/>fenêtres que comme de simples ouvertures, cette <gap extent="1" unit="words"/> aurait aussi l'avantage de faire <lb/>disparaître ces crossettes qui entourent toutes ces fenêtres et qui ne les rendent lourdes <lb/>ne sont pas dans le caractère d'architecture auquel le porche appartient.</p>
+                            <p>C'est ainsi que je pense que l'<abbr>arche</abbr> pourra modifier à l'exécution la décoration de son <lb/>perron et voir s'il ne serait pas préférable d'avoir du <gap extent="2" unit="words"/> peu inclinée qu'ils soient <lb/>à la place de ces terrases dont l'entretien est toujours dispendieux.</p>
+                            <p>Les <abbr>observon</abbr> qui précèdent n'était, je le répète, données que comme un simple avis <gap extent="1" unit="words"/> <lb/>de ma part, ne sauraient donc en rien retarder l'<abbr>exon</abbr> de ce projet, après son <abbr>approbon</abbr> <lb/>par <persName><abbr>M.</abbr> le Ministre</persName>.</p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Aorpès avoir examiné les plans et entendu la lecture du rapport qu'il approuve, le <lb/>Conseil reconnaissant que les plans ont été modifiés dans le sens des indications <lb/>précédemment donnnées, est d'avis qu'il y a lieu de présenter ce projet à l'adoption <lb/>
+                                <pb/>
+                                de <persName><abbr>M.</abbr> le Ministre</persName> en engageant toutefois l'architecte à prendre en considération l'observation de <lb/><persName><abbr>M.</abbr> le Rapporteur</persName> <abbr>relative</abbr> à la substitution des combles au lieu des terrasses et en invitant le <lb/> bureau de contrôle à s'assurer si les moyens de chauffage ont été prévus dans le devis <lb/>attendu qu'ils paraissent avoir été omis dans la rédaction des plans.</p>
+                        </div>
+                    </div>
+                    <div type="case">
+                        <label>Charente-inférieure</label>
+                        <label><abbr>Constron</abbr> d'un Collège à Larochelle</label>
+                        <label>694</label>
+                        <div type="report">
+                            <head>Rapport de <persName><abbr>M.</abbr> Leclerc</persName></head>
+                            <p>J'ai reconnu que toutes les <abbr>observon</abbr> faites par le Conseil le <date when="1838-11-05">5 <abbr>novre</abbr> 1838</date> avient été suivies et que <lb/>les plans présentaites toutes les améliorations demandées à l'architecte lors de son séjour à Paris. <lb/>Ce projet est aussi accompagné du <abbr>procès-vl</abbr> d'<abbr>adjdon</abbr> qui fait connaître que le rabais obtenu pour <lb/>l'<abbr>adjudn</abbr> est de 8<unclear cert="medium">p%</unclear>.</p>
+                            <p>Tout l'ensemble de cette affaire ne motivant de ma part aucune observation, mon opinion <lb/>est qu'il peut être présenté à l'adoption de <persName><abbr>M.</abbr> le Ministre</persName>après la révision du Contrôle qui <lb/>constatera si les changements dans le devis ont été opérés.</p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Le Conseil reconnaissant que les plans ont été modifiés dans le sens des rectifications <lb/>précédemment indiquées, est d'avis q<abbr>confe</abbr> à la <abbr>propn</abbr> de <persName><abbr>M.</abbr> le Rapporteur</persName>, de présenter ce projet à l'adoption de <persName><abbr>M.</abbr> le Ministre</persName>.</p>
+                        </div>
+                    </div>
+                    <div type="case">
+                        <label>Lot et garonne</label>
+                        <label><abbr>Recontstn</abbr> du clocher de la <lb/>Cathédrale d'Agen</label>
+                        <label>695</label>
+                        <div type="report">
+                            <head>Rapport de <persName><abbr>M.</abbr> Leclerc</persName></head>
+                            <p>Je rapplerai au Conseil qu'en 1837, une restauration de tout l'ensemble de la Cathédrale d'Agen <lb/>fut adopté et que le devis a <unclear cert="medium">taxé</unclear> la dépense à 300,000<abbr>f</abbr>. Depuis, divers projets <unclear cert="low">partiels furent</unclear> <lb/>présentés et en dernier lieu on a demandé l'<abbr>autn</abbr> de faire la fondation du clocher qui <lb/>vous est présenté aujourd'hui.</p>
+                            <p>Ce clocher est construit en pierre et est situé sur le côté de la Cathédrale, il offre 3 hauteur d'étage <lb/>s'accordant avec les disposition des lignes de ce Monument et présentant un style 
+                                
+                            </p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p></p>
+                        </div>
+                    </div>
+                    
+                    
                 </div>
             </div>
         </body>
