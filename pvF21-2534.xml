@@ -783,8 +783,24 @@
                         <label>Mont-Luçon</label>
                         <label>Maison d'arrêt</label>
                         <label>706</label>
+                        <div type="report"><!-- Advice parce que //?-->
+                            <p>Après avoir examiné les plans et entendu les explications verbales <lb/>de <persName><abbr>M.</abbr> le Rapporteur</persName>,  Le Conseil reconnaissant que les plans ont été <lb/>modifiés ainsi qu'il avait ét précédemment demandé, est d'avis qu'il y a <lb/>lieu de proposer le projet à l'adoption de <persName><abbr>M.</abbr> le Ministre</persName> en invitant <lb/>toutefois l'architecte à exécuter les rectifications qui suivent. <abbr>1e.</abbr> placer <lb/> à l'extérieur des latrines du concierge. <abbr>2.</abbr> d'approuver la fenêtre double <lb/>qui <unclear cert="medium"><sic>eclaire</sic></unclear> les latrines du fonds, la remplacer par une fenêtre <gap extent="1" unit="words"/> <lb/>chacun des cabinets. <abbr>3.</abbr> supprimer les renforcements dans les murs de <lb/>séparation des cellules pour y placer les sièges d'aisances et adopter la<pb/>
+                            <!--disposition-->
+                            
+<!-- page 402 manquante-->
+                            </p>
+                        </div>
+                    </div>
+<!-- manque case fin 706 à début 709 -->   
+                    <div type="case">
+                        <label></label>
+                        <label></label>
+                        <label></label>
+                        <label></label>
                         <div type="report">
-                            <head>Rapport de <persName><abbr>M.</abbr> </persName></head>
+                            
+<!-- fin page 402 manquante-->
+                    <fw>403</fw>
                             <p></p>
                         </div>
                         <div type="advice">
@@ -797,22 +813,7 @@
                         <label></label>
                         <label></label>
                         <label></label>
-                        <label></label>
-                        <div type="report">
-                            <head>Rapport de <persName><abbr>M.</abbr> </persName></head>
-                            <p></p>
-                        </div>
-                        <div type="advice">
-                            <head>Avis</head>
-                            <p></p>
-                        </div>
-                    </div>
-                    
-                    <div type="case">
-                        <label></label>
-                        <label></label>
-                        <label></label>
-                        <label></label>
+                        <label>710</label>
                         <div type="report">
                             <head>Rapport de <persName><abbr>M.</abbr> </persName></head>
                             <p></p>
