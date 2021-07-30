@@ -119,7 +119,7 @@
                     <div type="report">
                         <head>Rapport par <persName><abbr>M.</abbr> <unclear cert="low">Correstier</unclear></persName></head>
                     <p>J'ai l'honneur de mettre sous les yeux du conseil le projet de construction <lb/>d'un amphithéâtre et le projet de <del><gap extent="1" unit="words"/></del> restauration de l'ancien, accompagnés <lb/>d'un devis estimatif s'élevant à la somme de <unclear cert="low">64, 359.57</unclear>. Je dépose en outre <lb/>un devis estimatif concernant l'éclairage tant intérieur qu'extérieur du Palais, <lb/>et la décoration des salons pour l'exposition des dessins, montant à 20 000 <abbr>fr</abbr>.</p>
-                        <p><persName><abbr>M.</abbr> Duban</persName> présente deux partis pour la disposition à donner au <lb/>bâtiment de l'amphithéâtre, le conseil reconnaitra peut-être qu'il y aurait quelques <lb/>avantages à adopter le dernier parti (dessin <abbr>No</abbr> 3) par cette disposition. <lb/>L'amphithéâtre serait convenablement éclairé. La <unclear cert="medium">préfecture</unclear> aurait son <lb/>cabinet touchant à la salle de préparation qui serait aérée et ventilée comme <lb/>il est nécessaire qu'elle le soit et les élèves pourraient arriver sans encombre à <lb/>l'amphithéâtre par deux entrées toutes deux commodes.</p>
+                        <p><persName><abbr>M.</abbr> Duban</persName> présente deux partis pour la disposition à donner au <lb/>bâtiment de l'amphithéâtre, le conseil reconnaitra peut-être qu'il y aurait quelques <lb/>avantages à adopter le dernier parti (dessin <abbr>N°</abbr> 3) par cette disposition. <lb/>L'amphithéâtre serait convenablement éclairé. La <unclear cert="medium">préfecture</unclear> aurait son <lb/>cabinet touchant à la salle de préparation qui serait aérée et ventilée comme <lb/>il est nécessaire qu'elle le soit et les élèves pourraient arriver sans encombre à <lb/>l'amphithéâtre par deux entrées toutes deux commodes.</p>
                         <p>Le devis m'a paru un peu élevé comparativement à l'étendue des constructions <lb/>à faire: le bureau de contrôle devra donc porter toute son attention sur les évaluations de <lb/>ce devis.</p>
                         <p>Quant au devis relatif à l'éclairage du Palais et à la décoration du salon, il ne donne lieu <lb/>de ma part à aucune observation, je pense sauf l'examen de ces deux devis par le Contrôle, ces projets peuvent <lb/>recevoir l'approbation de <persName><abbr>M.</abbr> le Ministre</persName>.</p>
                     </div>
@@ -703,6 +703,88 @@
                         <label>700</label>
                         <div type="report">
                             <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                            <p>J'ai déjà eu l'honneur d'entretenir <!-- comment signaler un astérix + référence à la date ou à la séance?--><add place="above">dans la <date when="1839-07-22">séance précédente</date></add> le Conseil ce projet sur lequel <lb/>je fis plusieurs observations, et je concluais à son adoption, que le Conseil approuva, <lb/>en faisant remarquer à l'architecte que, sur la feuille <abbr>N°7</abbr>, on a tracé un pignon <lb/>qui, s'il existait autrefois, indique la pente <sic>qui</sic> doit avoir la charpente du <lb/>comble à construire dans le cas contraire, et si l'on exécute la couverture en <lb/>métal, il n'est toutefois pas nécessaire de donner une pente aussi importante que <lb/>celle tracée sur le dessin.</p>
+                            <p>Je mets sous les yeux du Conseil ce projet modifié.</p>
+                            <p><persName><abbr>M.</abbr> Mallay</persName> a modifié son projet, la nouvelle forme, <gap extent="1" unit="words"/> la pente du toit actuel, me paraissant <abbr>convenablt.</abbr> établi, la couverture devant être en zinc, j'en propose l'adoption.</p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Le Conseil est d'avis qu'il y a lieu de proposer le projet à l'<abbr>approbn.</abbr> du <persName>Ministre</persName>.</p>
+                        </div>
+                    </div>                    
+                    <div type="case">
+                        <label>Seine-inférieure</label>
+                        <label>ouverture d'une rue à Elbeuf</label>
+                        <label>701</label>
+                        <div type="report"> <!--ou advice?-->
+                            <p>Sur le rapport verbal de <persName><abbr>M.</abbr> Achault</persName>, le Conseil est d'avis que le projet de <lb/>percement de rue à Elbeuf tel qu'il est présenté ne donne lieu à aucune observation <lb/>mais le plan du quartier et surtout de rue aboutissant n'étant pas joint à celui <lb/>sur lequel la rue doit être percée, il est nécessaire de le demander pour pouvoir donner <lb/>une approbation. Il faut aussi que le plan de la rue soit renvoyé en double <unclear cert="medium">expédition</unclear>.</p>
+                        </div>
+                    </div>                    
+                    <div type="case">
+                        <label>Gironde</label>
+                        <label><abbr>Constn.</abbr> de Prison à <lb/>Bordeaux</label>
+                        <label>702</label>
+                        <div type="report">
+                            <head>Rapport de <persName><abbr>M.</abbr> Blouet</persName></head>
+                            <p>Sur un rapport dont copie est au Carton de la Gironde, <persName><abbr>M.</abbr> Blouet</persName> rend compte <lb/>de l'examen qu'il a fait du projet de construction de Prison de la Ville de Bordeaux.</p>
+                            <p>La disposition générale lui parait bien entendue et fait honneur au talent de <lb/>l'architecte. Il indique <unclear cert="high">diverses modifications</unclear> de détail sur la grande <unclear cert="medium">conduite</unclear> du <lb/>l'<abbr><unclear cert="low">admn</unclear></abbr>, sur la salle du gardien, sur le <abbr>bât</abbr> d'<abbr>admn</abbr> pour y affecter des <gap extent="1" unit="words"/>. <lb/>Il croit le projet susceptible d'adoption.</p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Après avoir examiné le plan en détail et entendu la lecture du rapport <lb/>le Conseil pense que <unclear cert="medium">s'en s'arrêter</unclear> aux indications du papier de <unclear cert="high">retombe</unclear>, <lb/>il est convenable d'adopter le premier projet de façade en la <unclear cert="low">simplifiant</unclear> <lb/>par l'étude. Tout en approuvant l'observation de <persName><abbr>M.</abbr> Blouet</persName> relative à la<pb/>
+                                <fw>401</fw>
+                                suppression de la pierre et reconnaissant qu'elle a été conçue dans des vues d'économies qu'il est <lb/>utile d'indiquer à toutes les <abbr>administns.</abbr> , il croit néanmoins que l'architecte devra s'y <lb/>conformer que dans le cas où les matériaux de moindre valeur que fournirait la <lb/>localité, n'auraient pas d'inconvénient pour la solidité.</p>
+                            <p>En résumé, le Conseil est d'avis qu'il y a lieu de présenter ce projet à l'adoption de <persName><abbr>M.</abbr> le <lb/>Ministre</persName> à la condition qu'il sera satisfait par l'architecte aux diverses rectifications <lb/>indiquées par <persName><abbr>M.</abbr> le Rapporteur</persName> et que les plans modifiés soient renvoyés avec le <abbr>procès-vl.</abbr> <lb/>d'adjudication.</p>
+                        </div>
+                    </div>                    
+                    <div type="case">
+                        <label>Nord</label>
+                        <label><abbr>agrandt.</abbr> de l'hospice de <lb/>Dunkerque</label>
+                        <label>703</label>
+                        <div type="report">
+                            <p>Dans sa séance du <unclear cert="low"><date>31 X. <add place="above">ce</add> <abbr>de</abbr></date></unclear>, le Conseil a <gap extent="1" unit="words"/> donné son adoption définitive <abbr>relativt</abbr> à <lb/>un projet d'<abbr>agrandt.</abbr> de l'hospice de Dunkerque, à quelques <abbr> modifns.</abbr> de détail dans la distribution <lb/>du bâtiment additionnel que l'on projette. Les <abbr>observns</abbr> consistaient à élargir les trumeaux <lb/>de la façade, disposer les poutres d'appui de manière à éviter quelques porte-à-faux, a <lb/>demander que les cheminées ne soient <unclear cert="medium">point</unclear>  pratiquées dans l'épaisseur des murs, mais <lb/>appuyées dessus pour ne pas les affaiblir.</p>
+                            <p>Par un rapport verbal de <persName><abbr>M.</abbr> Biet</persName> annonce que les plans ont été renvoyés à <persName><abbr>M.</abbr> le Ministre</persName>. <lb/>Il les dépose sur le bureau et fait remarquer que les <abbr>modifns.</abbr> demandées y ont été effectuées. <lb/>En <abbr>conséqce.</abbr> il propose l'<abbr>approbn.</abbr> définitive du projet <unclear cert="medium">sauf</unclear> l'examen du devis montant à <lb/>la <abbr>soe</abbr> de 36994<abbr>f</abbr> par le bureau de Contrôle.</p>
+                        </div>
+                        <div type="advice">
+                            <p>Le Conseil adopte la proposition de <persName><abbr>M.</abbr> le Rapporteur</persName>.</p>
+                        </div>
+                    </div>                    
+                    <div type="case">
+                        <label>Ministère de l'<abbr>Instn.</abbr> publique</label>
+                        <label>honoraires de <persName><abbr>M.</abbr> Valcourt</persName> <lb/>Architecte</label>
+                        <label>(704)</label>
+                        <div type="report">
+                            <p>Le Conseil entend la lecture d'un rapport fait par <persName><abbr>M.</abbr> Gourlier</persName> dans la séance <lb/>du <date when="1837-08-03">3. <unclear cert="medium">août 1837</unclear></date> sur une réclamation d'<abbr>indté.</abbr> faite par <persName><abbr>M.</abbr> Valcourt</persName>, architecte, pour <lb/>projet d'installation du Ministère de l'<abbr>instn</abbr> publique dans l'hôtel de <unclear cert="low">Chretitie<!--Hôtel de Rochechouard?--></unclear>. Le <lb/>Conseil maintient l'avis qu'il a donné à la suite de ce rapport.</p>
+                        </div><!-- la dernière phrase contient l'avis-->
+                    </div>
+                    <closer>
+                        <g ref="#blouet"/>
+                        <g ref="#biet"/>
+                        <g ref="#caristie"/>
+                        <g ref="#leclere"/>
+                        <g ref="#rohault"/>
+                        <g ref="#gourlier"/>
+                        <g ref="#morey">Le secrétaire</g>
+                    </closer>
+                </div>
+                <div type="assembly">
+                    <head>Séance du <date when="1839-08-01"><abbr>1er</abbr> janvier août 1839</date></head>
+                    <div type="case">
+                        <label><sic>Ile</sic> et vilaine</label>
+                        <label>Rennes</label>
+                        <label>Projet d'honoraires</label>
+                        <label>(705)</label>
+                        <div type="report"><!-- Advice parce que //?-->
+                            <p>Après avoir examiné les pièces contenues au dossier et entendu <lb/>la lecture du rapport de <persName><abbr>M.</abbr> Blouet</persName> dont copie est au carton du <abbr>dept.</abbr> <lb/>le Conseil est d'avis qu'il y a lieu, ainsi que le propose le rapporteur, <lb/>d'accorder à <persName><abbr>M.</abbr> l'architecte</persName> la somme de 3.600<abbr>f</abbr> qu'il réclame <unclear cert="medium">sauf si</unclear> <lb/>la retenir sur ses honoraires dans les cas <sic>ou</sic> les travaux seraient mis <lb/>à exécution.</p>
+                        </div>
+                    </div>
+                    <div type="case">
+                        <label>Allier</label>
+                        <label>Mont-Luçon</label>
+                        <label>Maison d'arrêt</label>
+                        <label>706</label>
+                        <div type="report">
+                            <head>Rapport de <persName><abbr>M.</abbr> </persName></head>
                             <p></p>
                         </div>
                         <div type="advice">
@@ -712,6 +794,7 @@
                     </div>
                     
                     <div type="case">
+                        <label></label>
                         <label></label>
                         <label></label>
                         <label></label>
@@ -729,6 +812,7 @@
                         <label></label>
                         <label></label>
                         <label></label>
+                        <label></label>
                         <div type="report">
                             <head>Rapport de <persName><abbr>M.</abbr> </persName></head>
                             <p></p>
@@ -740,6 +824,7 @@
                     </div>
                     
                     <div type="case">
+                        <label></label>
                         <label></label>
                         <label></label>
                         <label></label>
@@ -753,7 +838,6 @@
                         </div>
                     </div>
                 </div>
-                
             </div>
             
         </body>
