@@ -809,7 +809,6 @@
                             <p>Le Conseil est d'avis qu'il y a lieu de présenter ce <lb/>présenter à l'approbation immédiate de <persName><abbr>M.</abbr> le Ministre</persName> en demandant <lb/>que les propositions faites par <persName><abbr>M.</abbr> le Rapporteur</persName> soient soumises aux <lb/>autorités locales en les invitant à les prendre en considération.</p>
                         </div>
                     </div>
-                    
                     <div type="case">
                         <label>Bouches-du-Rhône</label>
                         <label>Arles</label>
@@ -833,10 +832,57 @@
                             <p>Le Conseil est d'avis qu'il y a lieu de présenter le projet <lb/>à l'approbation de <persName><abbr>M.</abbr> le Ministre</persName>, en demandant qu'il soit modifié <lb/>dans le sens des proposition de <persName><abbr>M.</abbr> le Rapporteur</persName> et <abbr><gap extent="1" unit="words"/></abbr> au crayon
                             <!--sur-->
                             <pb/>
-                            
-                            </p>
+                            <fw>405</fw>
+                            crayon annexé aux plans, insistant sur l'observation relative <lb/>à la disposition des latrines et demandant en <unclear cert="high">outre</unclear> que le projet <lb/>rectifié ainsi qu'il vient d'être dit soit renvoyé avec le procès-verbal <lb/>d'adjudication.</p>
                         </div>
                     </div>
+                    
+                    <div type="case">
+                        <label>Ain</label>
+                        <label>Gex</label>
+                        <label>Plan <abbr>gl.</abbr> <lb/>d'alignement</label>
+                        <label>(711)</label>
+                        <div type="report">
+                            <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                            <p>Le Conseil est consulté sur le plan général d'<abbr>aligt.</abbr> <lb/>de la ville de Gex, dept. de l'Ain.</p>
+                            <p>L'examen que j'ai fait de ce projet ne donne lieu de <lb/>ma part à aucune observation. Les trois feuilles de l'<unclear cert="medium">atlas</unclear> indiquant <lb/>l'alignement des routes royales et départementales qui traversent la <lb/>ville et qui font partie de la grande voirie ont déjà reçu la <unclear cert="medium">sanction</unclear> <lb/>royale.</p>
+                            <p>Le Conseil reconnaîtra, je pense, ensuite de l'examen qu'il <lb/>va faire des feuilles <abbr>N°</abbr> 4, 5 et 6, que le plan est étudié de manière <lb/>à faciliter les communications et a assurer la salubrité de la ville de <lb/>Gex.</p>
+                            <p>Quant à moi, je pense, que tel qu'il est présenté, <del>p</del>le plan <abbr>génél.</abbr> <lb/>d'alignement de la ville de Gex est susceptible de recevoir l'approbation <lb/>de <persName><abbr>M.</abbr> le Ministre</persName> et la <unclear cert="medium">sanction</unclear> royale.</p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Le Conseil est d'avis qu'il y a lieu de proposer à <lb/>l'approbation de <persName><abbr>M.</abbr> le Ministre</persName>, ce projet d'alignement qui n'a donné <lb/>lieu à aucune observation.</p>
+                        </div>
+                    </div>
+                    <div type="case">
+                        <label>Aveyron</label>
+                        <label>Rodez</label>
+                        <label>Plan <abbr>gl.</abbr> d'<abbr>aligt.</abbr></label>
+                        <label>(712)</label>
+                        <div type="report">
+                            <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                            <p>Le Conseil est consulté sur un projet de modification à <lb/>apporter au plan <abbr>gl.</abbr> d'alignement de la ville de Rodez <abbr>dept.</abbr> de <lb/>l'aveyron, approuvé par ordonnance royale du <date when="1818-05-10">10 mai 1818</date>. Je dépose <lb/>sur le bureau le plan de la rue de l'olmet dont on propose de modifier <lb/>le tracé.</p>
+                            <p>L'alignement indiqué par les lignes rouges E. F. G. H., représente <lb/>celui <unclear cert="medium">ordonnancé</unclear>, et l'alignement indiqué par la ligne à l'encore bleue B. F. <lb/>I H celuzi qu'on propose de lui substituer. Ce dernier alignement qui commence <lb/>à la rue de l'olmet sur largeur de 8<abbr>m</abbr>50 fixée par le <abbr>1er</abbr> tracé présente l'avantage <lb/>de pouvoir s'exécuter de suite au moyen d'un d'arrangement avec le propriétaire <lb/>du <abbr>N°</abbr>12. Le tracé aujourd'hui proposé me semble d'ailleurs une amélioration <lb/>apportée au <abbr>1er</abbr> tracé en ce sens que la circulation entre la rue de l'olmet et <lb/>celle du balle est moins <unclear cert="medium">coudée</unclear> et par conséquent plus directe, et que la maison <lb/><abbr>N°</abbr>15 qui aurait été selon le <abbr>1er</abbr> tracé sur deux alignements ne se trouve <lb/>selon le tracé à l'encre <sic>bleu</sic> que sur un seul <abbr>aligt</abbr>.</p>
+                            <p>Par suite de ces diverses considérations, je pense que le tracé de la rue de <lb/>l'olmet a son débouché sur la rue du <sic>bal</sic> et indiqué à l'encre bleue par les <lb/>lettres B. F. I. H. est susceptible de recevoir l'approbation de <persName><abbr>M.</abbr> le Ministre</persName> <lb/>et la <unclear cert="medium">sanction</unclear> royale.</p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Le Conseil est d'avis qu'il y a lieu de présenter à <persName><abbr>M.</abbr> le <lb/>Ministre</persName> le projet de modification à apporter au plan général d'<abbr>aligt.</abbr> de <lb/>la ville de Rodez.</p>
+                        </div>
+                    </div>
+                    <closer>
+                        <g ref="#blouet"/>
+                        <g ref="#biet"/>
+                        <g ref="#caristie"/>
+                        <g ref="#leclere"/>
+                        <g ref="#rohault"/>
+                        <g ref="#gourlier"/>
+                        <g ref="#morey">Le secrétaire</g>
+                    </closer>
+                </div>
+                <pb/>
+                <div type="assembly">
+                   <head></head> 
                     
                     <div type="case">
                         <label></label>
@@ -852,6 +898,7 @@
                             <p></p>
                         </div>
                     </div>
+                    
                 </div>
             </div>
             
