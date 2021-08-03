@@ -882,16 +882,29 @@
                 </div>
                 <pb/>
                 <div type="assembly">
-                   <head></head> 
-                    
+                   <head>Séance du <date when="1839-08-05">cinq août 1839</date></head> 
                     <div type="case">
-                        <label></label>
-                        <label></label>
-                        <label></label>
-                        <label></label>
+                        <label>Allier</label>
+                        <label>Vichy</label>
+                        <label><abbr>Etablist.</abbr> thermal</label>
+                        <label>Maison du médecin</label>
+                        <label>713</label>
                         <div type="report">
-                            <head>Rapport de <persName><abbr>M.</abbr> </persName></head>
-                            <p></p>
+                            <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                            <p><persName><abbr>M.</abbr> le <lb/>Ministre de l'Agriculture et du Commerce</persName> présente à l'examen du Conseil <lb/>le projet de substitution de voûtes en briques aux planchers en charpente, avec terrasse <lb/>en bitume pour la couverture de la maison destinée au médecin Inspecteur de <lb/>l'établissement thermal de Vichy, <abbr>dept.</abbr> de l'Allier.</p>
+                            <p>Je dépose sur le bureau le projet, composé d'une feuille de dessin et d'un devis estima-<!--?--><lb/>tif, s'élevant, compris les honoraires de l'architecte à <unclear cert="medium">1345</unclear><abbr>f</abbr>39. </p>
+                            <p>Cet architecte fait observer que d'après le devis approuvé, la maison de <persName><abbr>M.</abbr> le Médecin</persName><lb/>devait être couverte par une terrasse en bitume, mais que ce mode de couverture qui <lb/>exige des précautions d'exécution qu'il serait difficile d'obtenir à Vichy, ne lui semble <lb/>pas, par cette raison, offrir des garanties suffisantes contre l'infiltration des eaux, <lb/>et ce, en raison de la flexibilité des planchers en bois, et qu'en conséquence <lb/>il propose de substituer au mode primitivement adopté, l'établissement de <lb/>voûtes en brique au lieu de planchers en bois, et une chappe en ciment pour couverture <lb/>au lieu de mastic en bitume.</p>
+                            <p>Je ferai remarquer d'abord, que la proportion faite primitivement <lb/>par l'architecte de couvrir en bitume la maison destinée au logement du médecin <lb/>avait été adoptée, parce qu'on devait supposer que ce mode de couverture pourrait <lb/>être établi de manière à offrir toute garantie; mais aujourd'hui que l'architecte <lb/>doute de la bonne exécution de ce mode de couverture, il y a lieu de <gap extent="1" unit="words"/><lb/>son établissement.</p>
+                            <p>L'examen que j'ai fait du projet aujourd'hui présenté m'a donné lieu de <lb/>remarquer qu'on ne pouvait neutraliser la poussée des voûtes en briques qu'au <lb/>moyen de chaînes et de tirans en fer et qu'ainsi la stabilité de la maison du <lb/>médecin dépendrait de l'état de ces tirans, lesquels ne devraient avoir pour objet que <lb/>de relier les construction, mais non de résister à l'effort des voûtes en briques. Ce projet <lb/>ne me semble donc pas, tel qu'il est présenté, offrir toute la solidité désirable, il <lb/>faudrait augmenter l'épaisseur des murs latéraux, afin qu'ils puissent résister <lb/>par eux même à la poussée de ces voûtes, où bien pour atteindre plus efficacement <lb/>toute la solidité désirable et sans augmenter l'épaisseur des murs latéraux de la <lb/>maison, il faudrait établir les planchers au moyen de fermes en fer et potence. <lb/>Cette nouvelle combinaison augmenterait sans doute la dépense supplémentaire <lb/>proposée, mais ainsi on aurait des planchers solides qui pourraient recevoir une <lb/>couverture en bitume.</p>
+                            <p>Toutefois, si l'on devait <unclear cert="medium">le renfermer en</unclear> à peu près dans le chiffre de la <lb/>dépense déjà autorisée, peut-être conviendrait-il alors, si l'accord qui dois régner <lb/>dans les divers bâtiments de l'édifice n'est pas un obstacle, de construction l'habita-<lb/>tion du médecin comme on construit toute autre maison, <abbr>c-a-d.</abbr> les planchers et la <lb/>charpente du comble en bois et d'établir la couverture soit en tuile soit en <lb/>ardoise.</p>
+                            <p>En résumé, l'architecte doutant de la bonne exécution de la couverture en bitume <lb/>sur planchers en bois, il y a lieu de renoncer à ce mode de couverture.</p>
+                            <p>Le système présenté par l'architecte ne me semble pas offrir toutes les chances de <lb/>stabilité désirable, à moins d'augmenter l'épaisseur des murs latéraux.</p>
+                            <p>Le mieux, selon moi, serait d'établir les planchers en fer et en potence, et <lb/>la couverture en bitume et non en ciment romain, si l'on ne peut surélever d'un <lb/>comble le bâtiment.</p>
+                            <p>Si au contraire, on peut couvrir d'un comble la maison du médecin, il <lb/>faut construire cette maison comme toute autre, <abbr>c-a-d.</abbr> avec planchers et comble
+                            <pb/>
+                            <fw>407</fw>
+                            en bois, et couverture en tuiles ou ardoises.    
+                            </p>
                         </div>
                         <div type="advice">
                             <head>Avis</head>
