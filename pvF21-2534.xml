@@ -723,7 +723,7 @@
                             <head>Avis</head>
                             <p><persName><abbr>M.</abbr> le Rapporteur</persName> demande verbalement l'approbation <lb/>immédiate sauf renvoi du devis au Contrôle du Ministère des cultes.</p>
                         </div>
-                        <!--fin de révisions-->
+<!--fin de révisions-->
                     </div>
                     <div type="case">
                         <label>Lozère</label>
@@ -798,7 +798,7 @@
                     </closer>
                 </div>
                 <div type="assembly">
-                    <head>Séance du <date when="1839-08-01"><abbr>1er</abbr> janvier août 1839</date></head>
+                    <head>Séance du <date when="1839-08-01"><abbr>1er</abbr> août 1839</date></head>
                     <div type="case">
                         <label><sic>Ile</sic> et vilaine</label>
                         <label>Rennes</label>
@@ -831,43 +831,117 @@
                             
 <!-- fin page 402 manquante-->
                     <fw>403</fw>
-                            <p>Le Conseil est consulté sur un projet</p>
+                            <p>Le Conseil est consulté sur le projet d'ouverture d'une promenade <lb/>publique dite cours du Puget. Ce projet me parait très bien conçu. <lb/>La première partie du cours qui aurait environ 1.500<abbr>m</abbr> de longueur sur une <lb/>largeur de 60<abbr>m</abbr>, est établie sur le prolongement de l'axe des rues et du <lb/>chemin de Rome, et se termine à un rond point de plus de 100<abbr>m</abbr> de diamètre. <lb/>Elle se dirige par conséquent sur <unclear cert="high">la montagne</unclear> de <abbr>St.</abbr> Cyr et <unclear cert="low">Lumieux</unclear>, dont <lb/>l'air rafraîchi circuleront sur le cours.</p>
+                            <p>Le profil de cette promenade partie du cours fait connaître qu'entre <lb/>les propriétés en bordure et le <abbr>1er</abbr> rang d'arbres, il existe une voie de 7<abbr>m</abbr> <lb/>de largeur, sur laquelle peuvent déboucher facilement les chemins et <lb/>voies publiques qui sont traversés par le cours. Toutefois, je pense <lb/>que pour faciliter la circulation dans les rues latérales aux <unclear cert="medium">plantations</unclear><lb/>de la promenade, rues qui peuvent être fréquentées par des voitures <lb/>chargées, il conviendrait de donner à ces rues une largeur de 8 au lieu <lb/>de 7 et de ne donner aux allées latérales à la grande chaussée <lb/>qu'une largeur de 6<abbr>m</abbr>50 au lieu de 7<abbr>m</abbr> en conservant à la chaussée <lb/>principale la largeur de 18<abbr>m</abbr>. La <abbr>2e</abbr> partie du cours se dirige du <lb/>rond point sur le bord de la mer, près de l'embouchure de la petite <lb/>rivière de l'Huveaune. Cette partie du cours n'a que 46<abbr>m</abbr> de largeur, <lb/>mais en ne promettant de bâtir qu'à 12<abbr>m</abbr> de distance, on remédierait <lb/>ainsi que le fait observer <persName><abbr>M.</abbr> le Préfet</persName>, autant que possible à cet <lb/>inconvénient. D'ailleurs, il est à remarquer que, par son élargissement <gap extent="1" unit="words"/> <lb/>cette <abbr>2e</abbr> partie du cours sera beaucoup moins fréquentée que la <abbr>ère</abbr>. Je <lb/>ferai d'abord ici la même observation que j'ai déjà faite sur la <lb/>largeur à donner aux rues latérales aux allées, largeur qui devrait être <lb/>portée à 8<abbr>m</abbr> au lieu de 7., en conservant la chaussée principale à 18<abbr>m</abbr> <lb/>de largeur comme à la première partie du cours. Cette <abbr>2ème</abbr> partie du <lb/>cours ne se termine pas au bord de la mer d'une manière convenable <lb/>à beaucoup près et la promenade se trouve <unclear cert="medium">obstrué</unclear> par la caserne <lb/>des douanes et la <unclear cert="medium">batterie</unclear> d'Orléans, il y a ici nécessité de <unclear cert="medium">pourvoir</unclear> <lb/>au déplacement de la caserne qui, je crois, n'est élevé que d'un rez de <lb/>chaussée, <unclear cert="low">car</unclear> on ne peut admettre qu'une grande et belle avenue qui se <lb/>dirige sur la mer, soit <unclear cert="medium">obstrué</unclear> par un bâtiment qui ne permettrait <lb/>pas aux promeneurs de la découvrir. Ensuite, cette avenue ne s'<unclear cert="medium">étudie</unclear> point <lb/>sur le quai, il convient de ménager un espace plus large, une carte de plan <lb/>à cette extrémité de la <abbr>2</abbr> partie du cours. J'ai indiqué au crayons le <unclear cert="medium">sens</unclear> <lb/>dans lequel cette partie devant être étudiée, c'est là l'extrémité de la <lb/>promenade, il faut l'indiquer. Peut-être serait-il convenable d'établir <lb/>un petit port pour que les promeneurs puissent au moyen de barques, s'ils le <lb/>désirent rentrer par mer à Marseille. Je conclus à l'adoption.</p>
                         </div>
                         <div type="advice">
                             <head>Avis</head>
-                            <p></p>
+                            <p>Le Conseil est d'avis qu'il y a lieu de présenter ce <lb/>présenter à l'approbation immédiate de <persName><abbr>M.</abbr> le Ministre</persName> en demandant <lb/>que les propositions faites par <persName><abbr>M.</abbr> le Rapporteur</persName> soient soumises aux <lb/>autorités locales en les invitant à les prendre en considération.</p>
                         </div>
                     </div>
-                    
                     <div type="case">
-                        <label></label>
-                        <label></label>
-                        <label></label>
+                        <label>Bouches-du-Rhône</label>
+                        <label>Arles</label>
+                        <label>Abattoir</label>
                         <label>710</label>
                         <div type="report">
-                            <head>Rapport de <persName><abbr>M.</abbr> </persName></head>
-                            <p></p>
+                            <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                            <p>Le Conseil est consulté sur un projet de construction d'un <lb/>abattoir public à Arles, <abbr>dept.</abbr> des bouches du Rhône, dont le devis <lb/>s'élève à 86,509. 57. L'examen que j'en ai fait me fait remarquer <lb/><abbr>1.</abbr> L'établissement d'un abattoir a <del>pour</del> principalement pour 
+                            <!-- but -->
+                            <pb/>
+                            but d'obvier à l'inconvénient du parcours des bestiaux dans les villes, <lb/>à raison des accidens qui peuvent en résulter, ici le bétail est amené à <lb/>l'abattoir en sortant des écuries particulières, si les <unclear cert="low">accès</unclear> étaient établis <lb/>dans la ville, le but principal de l'abattoir ne serait pas rempli, si <lb/>au contraire et comme on doit le présumer, les étables des bouchers sont <lb/>en dehors de la ville, il n'y a plus d'inconvénient. Je crois nécessaire <lb/>d'appeler toute l'attention de l'autorité locale sur ce point qui n'est <lb/>pas expliqué dans les pièces du dossier.</p>
+                            <p><abbr>2.</abbr> au bâtiment principal, le passage entre les <gap extent="1" unit="words"/> ne <lb/>seraient pas suffisamment ventilés pour les deux portes. <abbr>3.</abbr> on ne retrouve <lb/>pas au plan le bâtiment destiné aux <gap extent="1" unit="words"/>, a moins que ce ne soit le <lb/>pavillon de l'aile gauche, indiqué sous le mur de triperie et <gap extent="1" unit="words"/>.</p>
+                            <p><abbr>4.</abbr> Il n'y a pas de local indiqué pour le dépôt des fumiers et <lb/>des débris.</p>
+                            <p><abbr>5.</abbr> Les escaliers et les latrines dans les pavillons des bâtimens <lb/>en aile, du côté de l'entrée principale, sont mal étudiés. J'ai indiqué <lb/>au crayon, sur le plan, le sens dans lequel cette partie du projet me <lb/>semblerait devoir être étudiées. Peut-être conviendrait-il d'établir les <lb/>latrines en dehors des bâtimens des pavillons, et de les placer sur le mur de <lb/>clôture, ou sans doute on doit mettre la voirie.</p>
+                            <p><abbr>6.</abbr>La porcherie ne me semble pas assez ventilée, il convient de <lb/>multiplier les croisées du bâtiment affecté à ce service.</p>
+                            <p><abbr>6.</abbr>Enfin, les élévations laissent à désirer, les frontons ornés de <lb/>corniches conviennent peu à un abattoir qui doit, pour <unclear cert="medium">préserver</unclear> de l'humidité <lb/>et surtout garantir de la chaleur, être couvert par des <gap extent="2" unit="words"/>, le <lb/>étage semble un étage d'habitation, et n'annonce nullement l'usage de <lb/>séchoir auquel il est destiné, il convient d'aérer d'avantage ce premier étage. <lb/>J'ai indiqué au crayon sur le dessin des élévations, le sens dans lequel ces élévations <lb/>me paraissent devoir être étudiées. De cette manière, on établirait une <unclear cert="medium">hauteur</unclear> <lb/>qui, au moyen d'une ouverture de la largeur d'une travée, dans le plancher <lb/>bas du <abbr>1er</abbr> étage, permettrait d'aérer le passage du rez-de-chaussée entre <lb/>les <gap extent="1" unit="words"/>. Il conviendrait aussi d'établir des croisées carrées, au lieu de <lb/>croisées <unclear cert="low">contrées</unclear>, au <abbr>1er</abbr> étage des pavillons aux extrémités des ailes latérales.</p>
+                            <p>En résumé, l'attention de l'administration doit être appelé sur les <lb/>inconvéniens graves qui pourraient résulter du parcours des bestiaux par la <lb/>ville, si les étables qui les renferment étaient dans l'intérieur de cette ville, et <lb/>c'est pour obvier à ce genre d'inconvénient que les abattoirs sont établis <lb/>en dehors des villes. Dans ce cas, il y aurait nécessité de construire des <lb/>étables assez étendues pour remplacer celles qui <del>seront</del> sont dans la ville. Si <lb/>au contraire, comme il en est présumable, les étables sont en dehors de la ville, <lb/>je pense, en raison de la nécessité de l'exécution des travaux, que le projet est <lb/>susceptible de recevoir l'approbation de <persName><abbr>M.</abbr> le Ministre</persName>, à la condition que <lb/>l'architecte modifiera ce projet dans le sens des indications contenues au <lb/>présent rapport, et que le projet modifié sera renvoyé avec le procès-verbal <lb/>d'adjudication. Si le Conseil accueillait cette proposition, le devis <lb/>estimatif devra être examiné par le bureau de Contrôle.</p>
                         </div>
                         <div type="advice">
                             <head>Avis</head>
-                            <p></p>
+                            <p>Le Conseil est d'avis qu'il y a lieu de présenter le projet <lb/>à l'approbation de <persName><abbr>M.</abbr> le Ministre</persName>, en demandant qu'il soit modifié <lb/>dans le sens des proposition de <persName><abbr>M.</abbr> le Rapporteur</persName> et <abbr><gap extent="1" unit="words"/></abbr> au crayon
+                            <!--sur-->
+                            <pb/>
+                            <fw>405</fw>
+                            crayon annexé aux plans, insistant sur l'observation relative <lb/>à la disposition des latrines et demandant en <unclear cert="high">outre</unclear> que le projet <lb/>rectifié ainsi qu'il vient d'être dit soit renvoyé avec le procès-verbal <lb/>d'adjudication.</p>
                         </div>
                     </div>
                     
                     <div type="case">
-                        <label></label>
-                        <label></label>
-                        <label></label>
-                        <label></label>
+                        <label>Ain</label>
+                        <label>Gex</label>
+                        <label>Plan <abbr>gl.</abbr> <lb/>d'alignement</label>
+                        <label>(711)</label>
                         <div type="report">
-                            <head>Rapport de <persName><abbr>M.</abbr> </persName></head>
-                            <p></p>
+                            <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                            <p>Le Conseil est consulté sur le plan général d'<abbr>aligt.</abbr> <lb/>de la ville de Gex, dept. de l'Ain.</p>
+                            <p>L'examen que j'ai fait de ce projet ne donne lieu de <lb/>ma part à aucune observation. Les trois feuilles de l'<unclear cert="medium">atlas</unclear> indiquant <lb/>l'alignement des routes royales et départementales qui traversent la <lb/>ville et qui font partie de la grande voirie ont déjà reçu la <unclear cert="medium">sanction</unclear> <lb/>royale.</p>
+                            <p>Le Conseil reconnaîtra, je pense, ensuite de l'examen qu'il <lb/>va faire des feuilles <abbr>N°</abbr> 4, 5 et 6, que le plan est étudié de manière <lb/>à faciliter les communications et a assurer la salubrité de la ville de <lb/>Gex.</p>
+                            <p>Quant à moi, je pense, que tel qu'il est présenté, <del>p</del>le plan <abbr>génél.</abbr> <lb/>d'alignement de la ville de Gex est susceptible de recevoir l'approbation <lb/>de <persName><abbr>M.</abbr> le Ministre</persName> et la <unclear cert="medium">sanction</unclear> royale.</p>
                         </div>
                         <div type="advice">
                             <head>Avis</head>
-                            <p></p>
+                            <p>Le Conseil est d'avis qu'il y a lieu de proposer à <lb/>l'approbation de <persName><abbr>M.</abbr> le Ministre</persName>, ce projet d'alignement qui n'a donné <lb/>lieu à aucune observation.</p>
                         </div>
                     </div>
+                    <div type="case">
+                        <label>Aveyron</label>
+                        <label>Rodez</label>
+                        <label>Plan <abbr>gl.</abbr> d'<abbr>aligt.</abbr></label>
+                        <label>(712)</label>
+                        <div type="report">
+                            <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                            <p>Le Conseil est consulté sur un projet de modification à <lb/>apporter au plan <abbr>gl.</abbr> d'alignement de la ville de Rodez <abbr>dept.</abbr> de <lb/>l'aveyron, approuvé par ordonnance royale du <date when="1818-05-10">10 mai 1818</date>. Je dépose <lb/>sur le bureau le plan de la rue de l'olmet dont on propose de modifier <lb/>le tracé.</p>
+                            <p>L'alignement indiqué par les lignes rouges E. F. G. H., représente <lb/>celui <unclear cert="medium">ordonnancé</unclear>, et l'alignement indiqué par la ligne à l'encre bleue B. F. <lb/>I H celui qu'on propose de lui substituer. Ce dernier alignement qui commence <lb/>à la rue de l'olmet sur largeur de 8<abbr>m</abbr>50 fixée par le <abbr>1er</abbr> tracé présente l'avantage <lb/>de pouvoir s'exécuter de suite au moyen d'un d'arrangement avec le propriétaire <lb/>du <abbr>N°</abbr>12. Le tracé aujourd'hui proposé me semble d'ailleurs une amélioration <lb/>apportée au <abbr>1er</abbr> tracé en ce sens que la circulation entre la rue de l'olmet et <lb/>celle du balle est moins <unclear cert="medium">coudée</unclear> et par conséquent plus directe, et que la maison <lb/><abbr>N°</abbr>15 qui aurait été selon le <abbr>1er</abbr> tracé sur deux alignements ne se trouve <lb/>selon le tracé à l'encre <sic>bleu</sic> que sur un seul <abbr>aligt</abbr>.</p>
+                            <p>Par suite de ces diverses considérations, je pense que le tracé de la rue de <lb/>l'olmet a son débouché sur la rue du <sic>bal</sic> et indiqué à l'encre bleue par les <lb/>lettres B. F. I. H. est susceptible de recevoir l'approbation de <persName><abbr>M.</abbr> le Ministre</persName> <lb/>et la <unclear cert="medium">sanction</unclear> royale.</p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Le Conseil est d'avis qu'il y a lieu de présenter à <persName><abbr>M.</abbr> le <lb/>Ministre</persName> le projet de modification à apporter au plan général d'<abbr>aligt.</abbr> de <lb/>la ville de Rodez.</p>
+                        </div>
+                    </div>
+                    <closer>
+                        <g ref="#blouet"/>
+                        <g ref="#biet"/>
+                        <g ref="#caristie"/>
+                        <g ref="#leclere"/>
+                        <g ref="#rohault"/>
+                        <g ref="#gourlier"/>
+                        <g ref="#morey">Le secrétaire</g>
+                    </closer>
+                </div>
+                <pb/>
+                <div type="assembly">
+                   <head>Séance du <date when="1839-08-05">cinq août 1839</date></head> 
+                    <div type="case">
+                        <label>Allier</label>
+                        <label>Vichy</label>
+                        <label><abbr>Etablist.</abbr> thermal</label>
+                        <label>Maison du médecin</label>
+                        <label>713</label>
+                        <div type="report">
+                            <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                            <p><persName><abbr>M.</abbr> le <lb/>Ministre de l'Agriculture et du Commerce</persName> présente à l'examen du Conseil <lb/>le projet de substitution de voûtes en briques aux planchers en charpente, avec terrasse <lb/>en bitume pour la couverture de la maison destinée au médecin Inspecteur de <lb/>l'établissement thermal de Vichy, <abbr>dept.</abbr> de l'Allier.</p>
+                            <p>Je dépose sur le bureau le projet, composé d'une feuille de dessin et d'un devis estima-<!--?--><lb/>tif, s'élevant, compris les honoraires de l'architecte à <unclear cert="medium">1345</unclear><abbr>f</abbr>39. </p>
+                            <p>Cet architecte fait observer que d'après le devis approuvé, la maison de <persName><abbr>M.</abbr> le Médecin</persName><lb/>devait être couverte par une terrasse en bitume, mais que ce mode de couverture qui <lb/>exige des précautions d'exécution qu'il serait difficile d'obtenir à Vichy, ne lui semble <lb/>pas, par cette raison, offrir des garanties suffisantes contre l'infiltration des eaux, <lb/>et ce, en raison de la flexibilité des planchers en bois, et qu'en conséquence <lb/>il propose de substituer au mode primitivement adopté, l'établissement de <lb/>voûtes en brique au lieu de planchers en bois, et une chappe en ciment pour couverture <lb/>au lieu de mastic en bitume.</p>
+                            <p>Je ferai remarquer d'abord, que la proportion faite primitivement <lb/>par l'architecte de couvrir en bitume la maison destinée au logement du médecin <lb/>avait été adoptée, parce qu'on devait supposer que ce mode de couverture pourrait <lb/>être établi de manière à offrir toute garantie; mais aujourd'hui que l'architecte <lb/>doute de la bonne exécution de ce mode de couverture, il y a lieu de <gap extent="1" unit="words"/><lb/>son établissement.</p>
+                            <p>L'examen que j'ai fait du projet aujourd'hui présenté m'a donné lieu de <lb/>remarquer qu'on ne pouvait neutraliser la poussée des voûtes en briques qu'au <lb/>moyen de chaînes et de tirans en fer et qu'ainsi la stabilité de la maison du <lb/>médecin dépendrait de l'état de ces tirans, lesquels ne devraient avoir pour objet que <lb/>de relier les construction, mais non de résister à l'effort des voûtes en briques. Ce projet <lb/>ne me semble donc pas, tel qu'il est présenté, offrir toute la solidité désirable, il <lb/>faudrait augmenter l'épaisseur des murs latéraux, afin qu'ils puissent résister <lb/>par eux même à la poussée de ces voûtes, où bien pour atteindre plus efficacement <lb/>toute la solidité désirable et sans augmenter l'épaisseur des murs latéraux de la <lb/>maison, il faudrait établir les planchers au moyen de fermes en fer et potence. <lb/>Cette nouvelle combinaison augmenterait sans doute la dépense supplémentaire <lb/>proposée, mais ainsi on aurait des planchers solides qui pourraient recevoir une <lb/>couverture en bitume.</p>
+                            <p>Toutefois, si l'on devait <unclear cert="medium">le renfermer en</unclear> à peu près dans le chiffre de la <lb/>dépense déjà autorisée, peut-être conviendrait-il alors, si l'accord qui dois régner <lb/>dans les divers bâtiments de l'édifice n'est pas un obstacle, de construction l'habita-<lb/>tion du médecin comme on construit toute autre maison, <abbr>c-a-d.</abbr> les planchers et la <lb/>charpente du comble en bois et d'établir la couverture soit en tuile soit en <lb/>ardoise.</p>
+                            <p>En résumé, l'architecte doutant de la bonne exécution de la couverture en bitume <lb/>sur planchers en bois, il y a lieu de renoncer à ce mode de couverture.</p>
+                            <p>Le système présenté par l'architecte ne me semble pas offrir toutes les chances de <lb/>stabilité désirable, à moins d'augmenter l'épaisseur des murs latéraux.</p>
+                            <p>Le mieux, selon moi, serait d'établir les planchers en fer et en potence, et <lb/>la couverture en bitume et non en ciment romain, si l'on ne peut surélever d'un <lb/>comble le bâtiment.</p>
+                            <p>Si au contraire, on peut couvrir d'un comble la maison du médecin, il <lb/>faut construire cette maison comme toute autre, <abbr>c-a-d.</abbr> avec planchers et comble
+                            <pb/>
+                            <fw>407</fw>
+                            en bois, et couverture en tuiles ou ardoises.    
+                            </p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Le Conseil est d'avis qu'il y a lieu de renvoyer ce projet afin qu'il soit <lb/>modifié dans le sens de l'observation de <persName><abbr>M.</abbr> le Rapporteur</persName>, pensant également qu'il sera <lb/>plus convenable de construire un comble en charpente couvert en adroises ou en tuiles, au <lb/>lieu d'une terrasse, ce système offrant plus de garantie sous tous les rapports. Le <lb/>Conseil demande en outre que le nouveau devis supplémentaire, qui devra être <lb/>présenté, soit dressé d'après le mesurage des travaux, et non d'après la quantité des <lb/>matériaux qui devra être employée, il <unclear cert="medium">rappele</unclear> enfin qu'il sera nécessaire de <lb/>reproduire le devis primitif.</p>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
             
