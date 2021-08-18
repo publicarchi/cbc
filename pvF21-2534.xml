@@ -1230,21 +1230,38 @@
                             <p>En résumé comme le projet actuellement présenté renferme la plupart des <lb/>modifications demandées par le Conseil dans sa séance du <date when="1839-04-04">4 avril dernier</date> <lb/>et que celles qu'il laisse encore à désirer ne peuvent apporter de changement <lb/>sensible au chiffre de la dépense, que de plus, le devis parait rédigé <unclear cert="medium">avec</unclear> <lb/>développements convenables, nous avons l'honneur de proposer au Conseil <lb/>d'émettre l'avis qu'il y a lieu d'approuver le projet, sauf à recommander <unclear cert="low">à</unclear> <lb/>l'architecte d'en faire avant l'adjudication une rédaction définitive <lb/>entièrement à l'échelle voulue, et dans laquelle il aurait à prendre en <lb/>considération les observations qui précèdent et celle que le Conseil <unclear cert="medium">croit bon</unclear> <lb/>y substituer où y ajouter, <abbr>2°</abbr> et de charger le bureau de Contrôle de <gap extent="1" unit="words"/>
                                 <pb/>
                                 <fw>415</fw>
-                            </p>
+                                le devis d'après le projet tel qu'il a été présenté, et sauf les changements analogues <lb/>à ceux à faire sur le projet que l'architecte fera subir également à ce devis <lb/>avant l'adjudication.</p>
+                            <p>Si le Conseil le croit nécessaire, on pourrait en outre demander que ces projets et devis <lb/>ainsi modifiés soient représentés avec le procès-verbal d'ajudication afin d'être examinés <lb/>de nouveau si <persName><abbr>M.</abbr> le Ministre</persName> le désire.</p>
                         </div>
                         <div type="advice">
                             <head>Avis</head>
-                            <p></p>
+                            <p>Le Conseil est d'avis qu'il y a lieu de présenter ce projet à l'approbation de <persName><abbr>M.</abbr> le Ministre</persName>, en demandant que la hauteur des cellules soit augmentée, que des courants d'air <lb/>soient établis au dessous du sol des cellules, et en invitant l'architecte à avoir égard <lb/>aux diverses observations de <persName><abbr>M.</abbr> le Rapporteur</persName>, et enfin en demandant que les plans <lb/>modifiés soient renvoyés avec le procès-verbal d'adjudication.</p>
                         </div>
                     </div>
-                    
+                    <closer>
+                        <g ref="#blouet"/> <!--pourquoi Blouet est noté comme absent alors? cf delib 726-->
+                        <g ref="#biet"/>
+                        <g ref="#caristie"/>
+                        <g ref="#leclere"/>
+                        <g ref="#rohault"/>
+                        <g ref="#gourlier"/>
+                        <g ref="#morey">Le secrétaire</g>
+                    </closer>
+                </div>
+                <div type="assembly">
+                    <head>Séance du <date when="1839-08-12">12 août 1839</date></head>
                     <div type="case">
-                        <label></label>
-                        <label></label>
-                        <label></label>
+                        <label>Paris</label>
+                        <label>fontaine de la rue <abbr>St-victor</abbr></label>
+                        <label>727</label>
                         <div type="report">
-                            <head>Rapport de <persName><abbr>M.</abbr> </persName></head>
-                            <p></p>
+                            <head>Rapport de <persName><abbr>M.</abbr> Rohault</persName></head>
+                            <p>Lors de la vente des terrains situés au midi de l'entrepôt des vins, entre la <lb/>rue de Seine, aujourd'hui rue Cuvier, et la rue <abbr>St-Victor</abbr>, on réserva à l'<unclear cert="medium">encoignure</unclear> <lb/>de ces deux voies publiques, un terrain carré de 7<abbr>m</abbr>,00 de côté avec condition pour <lb/>l'acquéreur de <unclear cert="low">ne</unclear> pouvoir porter de jours sur cette réserve, destinée à l'édification d'une <lb/>fontaine à moins de 3<abbr>m</abbr>,50 du sol.</p>
+                            <p>Cette condition, gênante pour l'acquéreur n'était pas favorable à la ville <lb/>puisqu'elle obligeait de construire la fontaine dans un angle rentrant, qui aurait <lb/>produit un très mauvais effet au dessus d'un petit monument de 3<abbr>m</abbr>50 de <lb/>hauteur.</p>
+                            <p><persName><abbr>M.</abbr> Emery</persName>, directeur du service des eaux à Paris est l'<abbr><unclear cert="low">edéc.</unclear></abbr> de traiter avec le <lb/><abbr>Sr</abbr> Lemaire acquéreur du terrain, de lui faire une concession d'une surface de <lb/> 7<abbr>m</abbr> sur 2,90 depuis le sol, et de toute la surface au <unclear cert="medium">dessous</unclear> de la fontaine qui au lieu <lb/>de 3,50 aurait à peu près 11<abbr>m</abbr>, de sorte qu'elle serait comme la fontaine Gaillon <lb/>enclavée dans une maison.</p>
+                            <p><persName><abbr>M.</abbr> Emery</persName> a fait faire par <persName><abbr>M.</abbr> Vigoureux</persName>, architecte inspecteur des eaux <lb/>d'Arcueil, le projet que je dépose sur le bureau, et qui est soumis à l'examen <lb/>du Conseil, avec le devis montant à 37,122<abbr>f</abbr>; de cette somme il faut déduire <lb/>pour les matériaux de la fontaine actuelle qui doit être démolie, et qui <lb/>seraient abandonnés à l'acquéreur du terrain, et pour le terrain qui lui <lb/>serait cédé celle de 3,917<abbr>f</abbr>, de sorte que la fontaine coûterait 33205<abbr>f</abbr>. <lb/>Le <abbr>Sr</abbr> Lemaire se charge à forfait moyennant 16,000francs de tous les travaux <lb/>sauf ceux de plomberie et de sculpture.</p>
+                            <p>Ce projet de fontaine me parait sagement conçu et sevrait produire <lb/>un très bon effet, le voisinage de Muséum d'histoire naturelle a donné l'idée <lb/>des motifs <gap/> et de la dédier à <persName>Cuvier</persName>; je propose l'adoption <unclear cert="medium">pur</unclear> et <lb/>simple.</p>
+                            <p>La partie inférieure est en roche de <gap/> la partie supérieure en Conflans, <lb/>la figure pose sur une demie sphère, laquelle est portée par une voute en <lb/></p>
                         </div>
                         <div type="advice">
                             <head>Avis</head>
