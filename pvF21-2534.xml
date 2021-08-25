@@ -429,8 +429,79 @@
                             <p>Le Conseil après avoir examiné les plans et ayant entendu la lecture du rapport, adopte les <abbr>obserns</abbr> <lb/>qui y sont contenues, est d'avis que le projet doit être renvoyé pour être rectifié dans le sens des <lb/>modifications présentées par <persName><abbr>M.</abbr> le rapporteur.</persName></p>
                         </div>
                     </div>
+                    <!--fin de révisions-->
+                    <div type="case">
+                        <label>Allier</label>
+                        <label><abbr>Constons</abbr> d'un Château d'eau à l'<abbr>Établt</abbr> thermal de Vichy</label>
+                        <label>405</label>
+                        <div type="report">
+                            <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                            <p>Ce projet est de nouveau soumis au Conseil avec une partie seulement des modifications qu'il a <lb/>demandées dans la séance du <date when="1838-11-26">26 <abbr>nove</abbr> <abbr>der</abbr></date> et avec un devis de 3 968 <abbr>f</abbr> au lieu de 3 636 <abbr>f</abbr>.</p>
+                            <p>L'architecte a satisfait à la nécessité de donner plus d'épaisseur aux murs mais il est à <gap extent="1" unit="words"/> <lb/>que les matériaux qu'il emploie sont <unclear cert="low">unis</unclear> en <unclear cert="low">liaison</unclear> de manière à faire un seul corps.</p>
+                            <p>La voûte bien que préférable aux barres de fer qu'elle remplace pour supporter le bassin <lb/>serait disposée plus efficacement pour porter et éviter la poussée, si elle était en forme d'ogive. <lb/> Je persiste à regarder comme inutile le point d'appui qui est placé au centre du Château <lb/>d'eau ; il conviendrait au moins d'une par l'évider pour y encastrer le tuyau d’ascension <lb/>ce qui éviterait une dépense inutile et faciliterait les <unclear cert="high"><abbr>répons</abbr></unclear>.</p>
+                            <p>Je ferai remarquer à l'architecte que la prise d'eau sur le tuyau d'ascension pour alimenter <lb/>le bassin extérieur diminuerait la force ascensionnelle et pourrait l'anéantir dans la sécheresse <lb/>où les sources diminuent de volume.</p>
+                            <p>Je proposerai de supprimer les vasques, dont l'effet serait <unclear cert="low">perche</unclear> et dont l'eau s'échappant par <lb/>la violence du vent viendrait couler le long des murs et hâteraient la ruine, je suis même surpris <lb/>qui disposant de cette hauteur, l'<abbr>arche</abbr> ne l'ait pas conservée pour la répartition de l'eau selon <lb/>les besoins de la ville, peut-être par les différences des <unclear cert="medium"><abbr>vol</abbr></unclear>. Cette hauteur est plus que suffisante. <lb/>J'engagerai aussi l'<abbr>arche</abbr> à couvrir par un petit toit le bassin supérieur pour atténuer <lb/>l'effet de la gelée et empêcher l'introduction de corps étranges que le vent ou autres causes <lb/>peuvent y amener.</p>
+                            <p>Je pense aussi que le bassin circulaire pourrait être supprimé en partie, et qu'une ou deux <lb/>vasques suffiraient au besoin des voyageurs, la <unclear cert="medium">porte</unclear> qui est pratiquée dans le <lb/>soubassement serait plus facile à aborder.</p>
+                            <p>Je laisse à l'architecte le soin de supprimer l'escalier intérieur par motif d'économie <lb/>l’échelle dont il propose l'emploi pour l'extérieur, peut servir à l'intérieur.</p>
+                            <p>Il serait aussi convenable d'écarter les bornes de manière suffisante pour circuler <lb/>au tour du bassin ou vasques et d’accompagner le mouvement d'un trottoir ou d'une marche plus large.</p>
+                            <!-- Celles -->
+                            <pb/>
+                            <p>Celles sont les observations que j'ai l'honneur de soumettre au Conseil m'en référant à la <lb/>décision qu'il voudra bien prendre.</p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Le Conseil adopte les observations du rapport, il insiste sur les observations qui y sont contenues <lb/>et est d'avis que le projet soit de nouveau renvoyé afin qu'il soit modifié conformément aux indications de <persName><abbr>M.</abbr> le rapporteur</persName>.</p>
+                        </div>
+                    </div>
+                    <div type="case">
+                        <label>Hautes-Alpes</label>
+                        <label><abbr>conston</abbr> d'un hôpital à Gap.</label>
+                        <label>406</label>
+                        <div type="advice">
+                            <p>Après avoir entendu les explications verbales de <persName><abbr>M.</abbr> le rapporteur</persName>, le Conseil est d'avis qu'il est convenable d'adopter le projet de l'hôpital de Gap modifié ainsi qu'il avait été indiqué <lb/>dans un rapport et un avis en date du <date when="1838-02-03">3 février <abbr>der</abbr></date> ; le Conseil n'a aucune observation à <lb/>faire à la demande de <persName><abbr>M.</abbr> le Préfet</persName> relative au choix d'un <unclear cert="high">péquin</unclear> désigné pour surveiller <lb/>les travaux <unclear cert="medium"><abbr>pendt</abbr></unclear> l'absence de l'architecte <orig>appellé</orig> ailleurs par la fonction de conducteur <lb/>des ponts et chaussées.</p>
+                        </div>
+                    </div>
+                    <div type="case">
+                        <label>Sarthe</label>
+                        <label><abbr>Modifns</abbr> de l'<abbr>alignt</abbr> de la rue godart à Sillé-le-Guillaume</label>
+                        <label>(407)</label>
+                        <div type="advice">
+                            <p>D'après le rapport verbal de <persName><abbr>M.</abbr> Grillon</persName> sur la demande de réduction de la largeur de la rue <lb/>godart à Sillé-le-Guillaume et ayant examiné le plan, le Conseil est d'avis qu'il n'y a <lb/>aucun inconvénient d'autoriser la réduction de largeur de la rue <sic>godard</sic>.</p>
+                        </div>
+                    </div>
+                    <div type="case">
+                        <label>Aisne</label>
+                        <label>Laon</label>
+                        <label>réparation à la cathédrale</label>
+                        <label>408</label>
+                        <div type="report">
+                            <head>Rapport par <persName><abbr>M.</abbr> Biet</persName></head>
+                            <p>Le devis de <persName><abbr>M.</abbr> <sic>Vancleempute</sic></persName> pour ces réparations s’élève à la somme <lb/>de 203 318 <abbr>f</abbr> 97, il signale principalement comme d'une extrême urgence, le <abbr>retabt</abbr> <lb/>de la grande rose du chevet de l'Église et de celle du grand portail. La consolidation des <lb/>grandes tours, dont il <unclear cert="low">ferait</unclear> de cercler en fer les couronnements pour arrêter l'écartement des <lb/>voûtes sous les plateformes et réparer les balustrades dont l'approche est très dangereuse pour <lb/>les visiteurs.</p>
+                            <p>La réparation du porche du grand parvis dont l'appareil des voûtes est endommagé par <lb/>suite des germinations qui ont ouvert les joints et donne passage aux filtrations des relancis <lb/>assez nombreux dans des parties de voûtes et de murs où des lézardes assez profondes <unclear cert="low">commencent</unclear> <lb/>des <gap extent="1" unit="words"/>.</p>
+                            <p>Des travaux de réparation à la charpente des combles aux toitures et aux tuyaux de <lb/>conduite des eaux. La suppression d'un beffroi, ouvrage grossier construit postérieurement <lb/>entre les deux tours du portail et qui déposé <unclear cert="low">en dernier</unclear>, puis ensuite la réinstallation <lb/>des cloches dans les tours.</p>
+                            <!--à propos de l'usage ou non du métal dans les réparations-->
+                            <p>L'architecte indique des moyens d'exécution, et explique qu'il remplacera en <lb/>fonte, mais sur les mêmes dessins et dimensions certaines parties <gap extent="2" unit="words"/> de balustrades. <lb/>En plusieurs occasions, je me suis montré opposé à la substitution du métal à la pierre <lb/>dans les restaurations gothiques, parce que je regardais ce <unclear cert="high">changement</unclear> comme une altération <lb/>du type primitif qui à mon avis ne consiste pas seulement dans la forme, mais aussi <lb/>dans l’emploi des matériaux et dans le mode exécution ; je rappellerai entre autres exemples, <lb/>le <sic>beffroy</sic> d'arras dont on avait démoli deux étages et qu'on voulait restituer en <lb/>fonte, là, il y avait assurément altération du caractère primitif ; cependant l’emploi <lb/>du métal, dans les parties où il a intention de le placer lui donnera les moyens d’éviter <lb/>les démolitions au des <orig>arrachemens</orig> dans de vieilles maçonneries adjacentes qui se comportent <lb/>encore bien, mais des <orig>ébranlemens</orig> pourraient compromettre. En général les explications <lb/>de <persName><abbr>M.</abbr> Vancleemputte</persName> dénotent une étude approfondie, en général le projet <lb/>peut être soumis à l'approbation de <persName><abbr>M.</abbr> le ministre</persName>, après des vérifications par <lb/>le bureau de contrôle.</p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Le conseil après avoir entendu la lecture du rapport et <unclear cert="medium">examiné</unclear> <lb/>les dessins, pense qu'il est convenable d’exécuter en pierre la balustrade supérieure à cause <lb/>de sa position, afin d'éviter l'<gap extent="1" unit="words"/> et pour <unclear cert="low">remettre</unclear> en rapport avec l'ensemble, le <lb/>Conseil désirerait qu'il en <unclear cert="low">fut</unclear> de même pour le <unclear cert="low">roseau</unclear>, à moins qu'il ne le présentait <lb/>de trop grands difficultés, dans l’exécution alors on pourra recourir à l'emploi de la <lb/>fonte, l'architecte dans cette circonstance sera juge du choix qu'il <gap extent="2" unit="words"/> <fw>229</fw><pb/>de faire. En conséquence il est d'avis que ce projet peut-être adapté et exécute <lb/>conformément aux indications qui viennent d'être données.</p>
+                        </div>
+                    </div>
+                    <div type="case">
+                        <label>Aisne</label>
+                        <label>Église de <abbr>St.</abbr> Rémy</label>
+                        <label><unclear cert="low">parte</unclear> à Laon</label>
+                        <label>409</label>
+                        <div type="report">
+                            <head>Rapport de <persName><abbr>M.</abbr> Biet</persName></head>
+                            <p>L'autorité locale que cet édifice fut démolie proposa de la <unclear cert="low">conserver</unclear> à un <lb/>édifice public. À cet effet <persName><abbr>M.</abbr> Vancleemputte</persName> dressa un devis s'élevant à la <lb/>somme de 7 000 <abbr>f</abbr>. <gap extent="1" unit="words"/> en applaudissant au rôle de l'autorité locale, je ne puis cacher <lb/>ma répugnance à lui voir donner une destination qui me semble entièrement opposée à <lb/>son caractère. J'aurais un extrême regret que mon observation retardait le <gap extent="1" unit="words"/> <lb/>de l'administration, mais j’émets le vœu que l'on apporte moins de précipitations à <lb/>se fixer sur l'emploi de l’Édifice, afin de lui en affecter un <unclear cert="low">plus</unclear> digne, je conclue en conséquence <lb/>à l'approbation.</p>
+                        </div>
+                        <div type="advice">
+                            <head>Avis</head>
+                            <p>Le conseil approuve les observations présentées par le rapporteur et est d'avis qu'en <lb/>adaptant le devis, il regarde néanmoins comme convenable d’examiner si cet édifice ne doit pas être affecté à <gap extent="1" unit="words"/> plus digne et plus en rapport avec la destination première.</p>
+                        </div>
+                    </div>
                 </div>
-                <!--fin de révisions-->
                 <closer>
                    <!-- <g ref="#blouet"/>
                     <g ref="#biet"/>
@@ -1249,7 +1320,6 @@
                             <head>Rapport de <persName><abbr>M.</abbr> Biet</persName></head>
                             <p>Il y a quelques temps que <persName><abbr>M.</abbr> Griois</persName>, architecte du département du <lb/><abbr>Ht</abbr> Rhin, avait dressé un devis montant à la somme de 37715<abbr>f</abbr>52, pour
                             <pb/>
-                                <!--fin de révisions-->
                             <fw>413</fw>
                             réparations à faire à l'Église paroissiale de Colmar, édifice qui, bien qu'il ne soit pas <lb/>classé parmi les monuments historiques, ne doit pas moins être considéré à juste titre <lb/>comme l'un des plus remarquables sous le rapport de l'art.</p>
                             <p>En raison de l'utilité de ces travaux, j'avais en mon rapport du <gap/><!-- espace... --> sollicité l'adoption <lb/>immédiate du Conseil mais sur les observations du bureau de Contrôle qui avait jugé que <lb/>les évaluation de prix et de mesures n'étaient pas établies avec assez de certitude, le <lb/>devis fut renvoyé pour être refait avec plus de détails.</p>
@@ -1340,6 +1410,7 @@
                             <p>Le <abbr>Ceil</abbr> est d'avis qu'il y a lieu de proposer ce devis à l'approbation de <persName><abbr>M.</abbr> le Ministre de la justice et des cultes</persName>.</p>
                         </div>
                     </div>
+                    <!--fin de révisions-->
                     <div type="case">
                         <label>Haute Vienne</label>
                         <label>Limoges</label>
