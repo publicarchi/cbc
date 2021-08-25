@@ -501,18 +501,50 @@
                         </div>
                     </div>
                 </div>
-                
                 <!--fin de révisions-->
+                <div type="case">
+                    <label>Drôme</label>
+                    <label>Église de <unclear cert="low">Caleme</unclear></label>
+                    <label>410</label>
+                    <div type="report">
+                        <p><persName><abbr>M.</abbr> l'Inspecteur</persName> général présente diverses observations sur certaines clauses <lb/>du cahier des charges et pense qu'il serait convenable de les annexer à l'avis du conseil qui <lb/>propose le rejet du projet, mais qui pourrait ainsi éclairer l'autorité locale pour la rédaction <lb/>d'un nouveau cahier des charges. Le conseil présente en outre les observations suivantes sur le cahier des charges.</p>
+                        <p>Une commission composée du <persName><unclear cert="low">Maire du curé</unclear></persName> de membres du conseil municipal et <lb/>de fabrique, auraient au moins <gap extent="1" unit="words"/> pour recevoir les matériaux, surveiller l'exécution. Les <lb/>contestations ne doivent pas être renvoyées à des experts et en cas de non record au juge de prix comme <lb/>devant prononcer en dernier ressort et sans appel, mais au Conseil de Préfecture, en cas de non <lb/>enlèvement des matériaux, ils ne peuvent aucunement être confisqués au projet du bureau de <lb/>charité mais seulement enlevés aux frais de l’Entrepreneur.</p>
+                    </div>
+                </div>
                 <closer>
-                   <!-- <g ref="#blouet"/>
+                    <g ref="#leclere"/>
+                    <g ref="#biet"/>
+                    <g ref="#caristie"/>
+                    <g ref="#blouet"/>
+                    <g ref="#rohault"/>
+                    <g ref="#gourlier">Le Secrétaire</g>
+                </closer>
+            </div>
+            <div type="assembly">
+                <head>Séance du <date when="1839-01-31">31 janvier</date></head>
+                <div type="case">
+                    <label>Seine intérieure</label>
+                    <label><orig>asyle</orig> d'aliénés</label>
+                    <label>411</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M</abbr> Rohault</persName></head>
+                        <p>La population de l'<orig>asyle</orig> des aliénés à Rouen étant augmentée depuis la construction <lb/>de l'asyle le <abbr>Cl Mal</abbr> a voté l'exécution de travaux destinées à loger cet accroissement <lb/>de population et <persName><abbr>M.</abbr> Grégoire</persName> <abbr>archte</abbr> a été chargé d'en faire le projet.</p>
+                        <p>Il résulte de l'exposé qui précède le devis qu'il ne s'agit que d'appliquer à 4 quartiers <lb/>la <unclear cert="high">disposition</unclear> adoptée pour un des quartiers des <gap extent="1" unit="words"/> ; de placer quelques baignoires <lb/>de plus dans le Cabinet des bains, de prolonger un des <abbr>bât</abbr> pour y loger les tours à <gap extent="1" unit="words"/> <lb/>d'agrandir celui des dames pensionnaires et de faire une forge avec un atelier de <lb/>menuiserie. L'<abbr>agrandt</abbr> des 4 quartiers me parait sans <gap extent="1" unit="words"/> puisqu'on ne <lb/>fait que remplacer un mur de clôture pour un <abbr>bât</abbr> d'un simple rez-de-chaussée <lb/> ce qui rétablira l'harmonie entre ces quartiers et celui de <abbr>Ste</abbr> Claire déjà modifié ainsi. L'<abbr>établt</abbr> des baignoires n'exige que quelques <abbr>travx</abbr> intérieurs ; le <abbr>prolongt</abbr> du bâtiment</p>
+                    </div>
+                    <div type="advice">
+                        <head></head>
+                        <p></p>
+                    </div>
+                </div>
+                <closer>
+                    <g ref="#blouet"/>
                     <g ref="#biet"/>
                     <g ref="#caristie"/>
                     <g ref="#leclere"/>
                     <g ref="#rohault"/>
-                    <g ref="#gourlier">Le Secrétaire</g>-->
+                    <g ref="#gourlier">Le Secrétaire</g>
                 </closer>
             </div>
-            
             
             
             
