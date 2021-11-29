@@ -521,7 +521,7 @@
                 </closer>
             </div>
             <div type="assembly">
-                <head>Séance du <date when="1839-01-31">31 janvier</date></head>
+                <head>Séance du <date when="1839-01-31">31 janvier <!--pas d'année--></date></head>
                 <div type="case">
                     <label>Seine inférieure</label>
                     <label><orig>asyle</orig> d'aliénés</label>
@@ -843,14 +843,14 @@
                     <div type="report">
                         <head>Rapport de <persName><abbr>M.</abbr> Rohault</persName></head>
                         <p>Depuis <orig>longtems</orig> l'<abbr>admon</abbr> a le projet de fermer la rue des deux anges à <unclear cert="medium">Paris</unclear>. Cette rue qui forme <lb/>un angle droit est étroite, peu fréquentée et <unclear cert="low">sont</unclear> en même <orig>tems</orig> de retraite aux <unclear cert="low">malveillance</unclear> et <lb/>dépôt d'ordure.</p>
-                        <p>Les propriétaires et l'<abbr>admon</abbr> étant tombée d'accord, le Préfet de la Seine a présenté l'affaire au Conseil <lb/><abbr>Mal</abbr> qui par <abbr>délibon</abbr> des <date when="1838-04-24">24 avril</date> et <date when="1838-04-30">30 <abbr>nov.</abbr></date> de l'année dernière a adopté le projet de suppression et <lb/>réglé les intérêts des propriétaires.</p>
+                        <p>Les propriétaires et l'<abbr>admon</abbr> étant tombée d'accord, le <persName>Préfet de la Seine</persName> a présenté l'affaire au Conseil <lb/><abbr>Mal</abbr> qui par <abbr>délibon</abbr> des <date when="1838-04-24">24 avril</date> et <date when="1838-04-30">30 <abbr>nov.</abbr></date> de l'année dernière a adopté le projet de suppression et <lb/>réglé les intérêts des propriétaires.</p>
                         <p>Mais à attendre l'opposition de l'<unclear cert="low">un deux</unclear> <persName><abbr>M.</abbr> Dulong</persName> et les réserves 1º de <abbr>l'admon</abbr> des hospices qui <lb/>réclame un passage pour arriver à ses <gap extent="1" unit="words"/> publics 2º de <persName><abbr>M.</abbr> Fauconnier</persName> qui met pour condition <lb/>qu'il aura aussi un droit de passage pour desservir sa maison, le <abbr>Cel</abbr> <abbr>Mal</abbr> a délibéré de conserver <lb/>comme impasse fermée par une grille à l'<abbr>aligt</abbr> de la rue <abbr>St</abbr> Benoît, la partie de la rue de cet <lb/><abbr>aligt</abbr> jusqu'à la jambe <unclear cert="low">arrière</unclear> gauche de <persName><abbr>M.</abbr> Dulong</persName>.</p>
                         <p>Je pense que cette suppression est dans l'intérêt bien des propriétaires et du public. Je ferai <lb/>seulement observer que la partie de la rue réservée à <persName><abbr>M.</abbr> Fauconnier</persName> doit être arrêtée au droit du <lb/>mur mitoyen en ce propriétaire et <persName><abbr>M.</abbr> Pelletier</persName> qui serait gêné si son voisin s'étendait au-delà <lb/>de cette limite et qu'il n'y a pas de motifs pour que le mur de séparation entre eux s’étende <lb/>jusqu'au delà de la porte du <gap extent="1" unit="words"/> de l'hôpital.</p>
                         <p>Je propose d'approuver la proposition de <persName><abbr>M.</abbr> le Préfet</persName> de la source avec la modification à faire <lb/>au plan annexé à la lettre de ce <persName>Magistral</persName>.</p>
                     </div>
                     <div type="advice">
                         <head>Avis</head>
-                        <p>Le Conseil est d'avis d'approuver la suppression de la rue des deux anges avec la condition <lb/>présentée par <persName><abbr>M.</abbr> le Préfet</persName> de la Seine, mais en y <unclear cert="low">joutant</unclear> que contrairement au plan joint <lb/>à la <abbr>délibon</abbr> du Conseil <abbr>Mal</abbr> la séparation de la partie cédée à <persName><abbr>M.</abbr> Pelletier</persName> et de celle cédée à <lb/> <persName><abbr>M.</abbr> Fauconnier</persName> sera établie dans la prolongation du mur mitoyen en ces deux propriétaires <lb/>comme le rapporteur l'a proposé.</p>
+                        <p>Le Conseil est d'avis d'approuver la suppression de la rue des deux anges avec la condition <lb/>présentée par <persName><abbr>M.</abbr> le Préfet de la Seine</persName>, mais en y <unclear cert="low">joutant</unclear> que contrairement au plan joint <lb/>à la <abbr>délibon</abbr> du Conseil <abbr>Mal</abbr> la séparation de la partie cédée à <persName><abbr>M.</abbr> Pelletier</persName> et de celle cédée à <lb/> <persName><abbr>M.</abbr> Fauconnier</persName> sera établie dans la prolongation du mur mitoyen en ces deux propriétaires <lb/>comme le rapporteur l'a proposé.</p>
                     </div>
                 </div>
                 <div type="case">
@@ -1105,22 +1105,100 @@
                     </div>
                     <div type="advice">
                         <head>Avis</head>
-                        <p>Le conseil après avoir examiné les plans, ayant pris connaissance <lb/>des <abbr>documens</abbr> contenus au dossier adopte les observations présentées dans le rapport dont il <lb/>vient d’entendre la lecture, il insiste principalement, relativement <unclear cert="high">aux boulevards</unclear> des tanneries <pb/></p>
+                        <p>Le conseil après avoir examiné les plans, ayant pris connaissance <lb/>des <abbr>documens</abbr> contenus au dossier adopte les observations présentées dans le rapport dont il <lb/>vient d’entendre la lecture, il insiste principalement, relativement <unclear cert="high">aux boulevards</unclear> des tanneries <pb/><fw>247</fw> <gap extent="1" unit="words"/> que cet alignement a été primitivement adapté par le conseil municipal, il <lb/>est convenable d'en maintenir le tracé 2º sur le prolongement de la rue du collège <lb/>jusqu'à la façade de l'Église, attendu que les maisons qu'il s'agit de supprimer étant <lb/>neuves et solides, les propriétaires ne seront soumis à l'alignement que dans un avenir <lb/>éloigné 3º Le conseil insiste sur ses précédentes observations relativement à la rue des <lb/>Moulins et à la place de croix granger, 4º le conseil n'insiste pas pour le <lb/> débouchement de la rue soussages en raison du percement projété de la rue du <lb/>Marais.</p>
+                        <p>En résumé le conseil remarquant que plusieurs modifications approuvées par <lb/>le Conseil municipal ne sont pas tracés sur les plans, est d'avis qu'ils seront envoyés <lb/>afin d'être rectifiés conformément aux modifications demandées, ainsi que les procès-verbaux <lb/>qu'il est nécessaire de mettre en harmonie avec le projet.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Morbihan</label>
+                    <label>hennebont</label>
+                    <label>alignement.</label>
+                    <label>(449)</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Grillon</persName></head>
+                        <p>J'ai l'honneur de déposer sur le bureau les plans d'<orig>alignemens</orig> de la ville <lb/>d'hennebont. Ces plans présentent des projets d'<orig>élargissemens</orig> et de redressements bien <orig>conus</orig> <lb/>et qui procureront à la ville d'hennebont tous les avantages qu'un peut attendre <unclear cert="low">sans</unclear> <lb/>le double rapport de la circulation et de la salubrité.</p>
+                        <p>Tout en donnant à ce projet les justes éloges qu'il mérite, je crois entrer dans les rues <lb/>de l'auteur en indiquant quelques <orig>changemens</orig> qui <unclear cert="medium"><sic>complélteront</sic></unclear> je pense les améliorations que <lb/>réclame la ville d'hennebont.</p>
+                        <p>Je pense qu'il serait convenable de redresser la place de l'Église du côté de la rue <lb/>neuve, en supprimant le <unclear cert="low">ridau</unclear> qui existe de ce côté. Il faut aussi faire des pans <lb/>coupé à tous les angles aigus. J'ai indiqué au crayon ces diverses propositions que j'ai <lb/>l'honneur de soumettre à l'examen du Conseil.</p>
+                    </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Les conseil approuve les observations de <persName><abbr>M.</abbr> le rapporteur</persName>, en conséquence il est d'avis que ce projet peut être présenté à l'adoption de <persName><abbr>M.</abbr> le Ministre</persName> <lb/>sauf l'execution sur les plans des modifications indiquées dans le rapport.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Moselle</label>
+                    <label>Metz</label>
+                    <label>marché couvert</label>
+                    <label>450</label>
+                    <div type="report">
+                        <head>Rapport par <persName><abbr>M.</abbr> Biet</persName></head>
+                        <p>Une lettre de <persName><abbr>M.</abbr></persName> le Maire de Metz, adressée de <date when="1838-09-12">12 <abbr>7 bre</abbr> 1838</date>, à <lb/><persName><abbr>M.</abbr> le Préfet</persName>, expose que le prix des divers travaux de construction du marché <lb/>couvert de cette ville a été portée à la somme de <unclear cert="medium">333,134 <abbr>Cr</abbr>. 56</unclear> <lb/>après une adjudication qui s’élevait à <unclear cert="medium">290,486. 60</unclear> <lb/> différence en augmentation : 42,647. 95 <!--tous les chiffres ont été mis à droite de la page--> <lb/>qu'ayant soumis cette affaire au Conseil <abbr>Mal</abbr>, celui-ci l'a envoyé à une <lb/>commission dont les conclusions favorables ont motivé l'approbation des dépenses: on c'est <lb/>en raison de cet avis que le Conseil municipal a <unclear cert="low">sallienté</unclear> l'approbation ministérielle.</p>
+                        <p>Cependant en se reportant au devis général primitif qu'est inclus au dossier, <lb/>on trouve que l'ensemble des travaux du marché couvert a été entrepris sur une <lb/>dépense totale évaluée à 357,617. 89 <lb/>composée, savoir: construction 298,998. 14 <lb/>1/10 <unclear cert="medium"><abbr>bénéfce</abbr></unclear> de l'<abbr>Entrepr</abbr> 29,899. 81 <lb/>Somme à valoir 13,770. 04 <lb/>1/20 pour honoraires de l'architecte 14,949. 90 <lb/>Total Égal 357,657. 89. <!--tous les chiffres ont été mis à droite de la page--></p>
+                        <p>En admettant qu'à l'adjudication on eut écarté la somme à valoir et <lb/>qui on ne se soit basé que sur la <unclear cert="low">1ere</unclear> somme 298,998. 14 <lb/>qui aurait donné après rabais 290,486. 00 <lb/>Il resterait encore à y ajouter 1/10 pour bénéfice d'<abbr>Entrepr</abbr> 297,048. 60 <lb/>plus les honoraires de l'<abbr>archte</abbr> du 1/20 14,524. 90. <lb/>La totalité relative aux travaux adjugés, serait 334,058. 90 <!--tous les chiffres ont été mis à droite de la page--> <!--chiffre--><pb/>chiffre qui ne s'accorde point avec la dépense <del/> accusée, ou qui ne se <gap extent="1" unit="words"/> <lb/>avec elle, qu'autant qu'un mettant à part les honoraires de l'architecte, l'Entrepreneur <lb/>aurait fait environ 13 <abbr>p %</abbr> de rabais sur l'évaluation brute du devis primitif, bénéfice <lb/>compris, ce qui n'a pas été expliqué, <unclear cert="low">au</unclear> ce qui du <unclear cert="low">vibins</unclear> reste indécis d'après les pièces <lb/>produites.</p>
+                        <p>D'autre part, le de devis particulier qui détaille les travaux supplémentaires, s'élève non à la forme de <unclear cert="low">42,647. 940</unclear> mentionnée par <persName><abbr>Mr.</abbr> le Préfet</persName> et <persName><abbr>Mr.</abbr> le <lb/>Maire</persName>, mais bien à celle de <unclear cert="low">54,858. 08</unclear>, sans honoraires d'architecte et sans qu'on ait <lb/>expliqué si cette somme comprend le 1/10 de bénéfice à l'Entrepreneur.</p>
+                        <p>De ces deux observations il résulte donc qui la dépense qu'il s'agit de régulariser <lb/>n'est pas précisément énoncée, et qu'il y a des <orig>éclaircissemens</orig> à demander sur son <lb/>quantum exact.</p>
+                        <p>En troisième lieu, si l'on consulte le rapport qui a été fait par la commission <lb/>municipal on y voit que cette commission n'est s'est attaché qu'à l'ensemble des travaux <lb/>elle a constaté que l'exécution a été convenable sur tous les points, sauf quelques détails <lb/>de menuiserie que sur ces indications l'Entrepreneur doit rectifier ; que tous les travaux sont <lb/>conformes aux prescription du conseil municipal, et d'ailleurs d'une utilité incontestable <lb/>pour la destination de l'Édifice ; elle déclare que tous ces travaux sont dans les cas d'être <lb/>reçus et soldés par l'administration.</p>
+                        <p>Mais en donnant à son rapport, la formes d'un certificat de réception, cette <lb/>commision a omis la formalité la plus essentielle comme mesure administrative, <gap extent="1" unit="words"/> <lb/>celle d'un métrage de réception, constatant que les ouvrages exécutés sont conformes à ceux prévus par le devis descriptif, <unclear cert="low">et annonçant</unclear> la qualité et la nature de ceux qui ont été faits <lb/>en augmentation.</p>
+                        <p><unclear cert="low">Cet fin</unclear>, si l'on examine le détail estimatif produit des travaux supplémentaires, on <lb/>y remarquer que ces travaux ont été motivés savoir :</p>
+                        <p>Par la construction d'un attique devenu nécessaire par suite du changement de <lb/>système par la charpente ouvrage  qui a nécessité un emploi assez considérable depuis <lb/><gap extent="1" unit="words"/> taille, et une addition assez forte à la charpente. 2º l'addition d'une certaine quantité <lb/>de fontes pour tuyaux de descente à raison de l'établissement de l'attique. 3º addition <lb/>de persiennes à l'attique comprenant les articles nécessaire de menuiserie, serrurerie, et <lb/>peintures. 4º construction diverses autorisées pendant le ours des travaux, consistant <lb/>en dallages, pavages, bassin de fontaine dans la cour, et par après <gap extent="1" unit="words"/> un <gap extent="1" unit="words"/> <lb/>canal dans le marché aux poissons <gap extent="1" unit="words"/>, à cet artiste sont aussi annexés quelques <lb/><orig>redressemens</orig> d'erreurs de chiffre qui s'étaient glissés dans les premières évaluations.</p>
+                        <p>De l'examen qui précède, il résulte donc que les pièces incluses au présent <lb/>dossier ne satisfont pas administrativement parlant aux conditions d'une parfaite <lb/>régularisation, qui en conséquence il y a lui de demander de nouveaux documents. Je <lb/>conclue en outre au <unclear cert="medium">remise</unclear> du contrôle.</p>
+                        <p><persName><abbr>M.</abbr> Gourlier Inspecteur général de la Comptabilité</persName> remarque 1<abbr>re</abbr> que <lb/>les dépouillements du dossier lui a fait reconnaître que les pièces qu'il <unclear cert="medium">renferme</unclear> ne s'accordent <lb/>pas parfaitement avec l'énoncé donnée par <persName><abbr>M.</abbr> le Préfet</persName>. 2º que les dépenses faites n'ont pas en rapport avec celle énoncée au devis à laquelle elle est inférieure, il est d'avis en <lb/>conséquence qu'on face un métrage qui constate si les travaux on été exécutés <abbr>conft</abbr> <lb/>aux exigences du devis. Passent ensuite à l'examen des détails estimatifs des travaux <lb/>supplémentaires, il signe <unclear cert="low">dernier</unclear> point que l'on ne peut justement apprécier qu'avec des <lb/>dessins qui ne sont point au dossier, <persName><abbr>M.</abbr> l'Inspecteur général de la comptabilité</persName> <lb/>ayant été consulté sur l'affaire dont s'agit approuve les observations de <persName><abbr>M.</abbr> le <lb/>rapporteur</persName>, et pense que le renvoi à l'examen du bureau de contrôle, serait sans <pb/><fw>249</fw>objet pour le moment, mais il demande la production du compte détaillé des <lb/>travaux accompagnés du projet approuvé en 1re lieu avec modifications. 2 du devis <lb/>primitif et cahier des chars. 3º procès verbal d'adjudication ; 4 celui de réception, 5 et <lb/>enfin d'indication, surtout les <orig>changemens</orig> survenus dans les travaux.</p>
+                    </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Le conseil approuve l'avis de <persName><abbr>Mr.</abbr> l'Inspecteur général de la Comptabilité</persName>.</p>
+                    </div>
+                </div>
+                <closer>
+                    <g ref="#leclere"/>
+                    <g ref="#biet"/>
+                    <g ref="#blouet"/>
+                    <g ref="#rohault"/>
+                    <g ref="#caristie">Le Secrétaire</g>
+                    <g ref="#gourlier"/>
+                </closer>
+            </div>
+            <div type="assembly">
+                <head>Séance du <date when="1839-02-14">14 février 1839</date></head>
+                <div type="case">
+                    <label>Haute-Marne</label>
+                    <label>alignement de Bourbonne les Bains</label>
+                    <label>(451)</label>
+                    <div type="report">
+                        <p>Le Conseil après avoir entendu le rapport verbal de <persName><abbr>M.</abbr> Biet</persName> qui <lb/>rappele les motifs en raison desquels le plan d'alignement de la ville de Bourbonne <lb/>les bains n'a pas été adopté immédiatement dans la séance du <date when="1838-08-07">7 août 1838</date> au <persName><abbr>M.</abbr> <lb/>biet</persName> en a fait le 1<abbr>re</abbr> Examen.</p>
+                        <p>Il fait observer qu'à l'égard de la rue porte gaulon, il est impossible d'admettre <lb/>que l'alignement indiqué par le plan ne soit pas obligatoire dans l'avenir pour tous les <lb/><gap extent="1" unit="words"/>, il pense au contraire que si <unclear cert="medium">les'</unclear> alignements aujourd'hui proposés devant être <lb/>consacré, toute discussion entre les <unclear cert="high"><abbr>Srs</abbr></unclear> <persName>Leblond</persName> et <persName>Bastien</persName> devrait ultérieurement y être <lb/>subordonnée et rejetée judicieusement. Ainsi le conseil pense qu'avant régler définitivement <lb/>cet alignement ; il est convenable que le conseil municipal se prononce sur le point de <lb/>savoir s'il le considère comme incommutables et dans le cas de doute, d'y substituer un <lb/>autre tracé sur lequel il n'y aurait point à revenir, comme pourrait être celui au crayon <lb/>sur le plan qui ne présenterait aucun inconvénient d'exécuter mais qui exigerait plus de <lb/>grande voirie, le conseil renonce à ses observations.</p>
+                        <p>Mais il persiste à penser au sujet de toute les ruelles que leur élargissement est <lb/>nécessaire non seulement pour les besoins de la circulation, mais encore pour les considérations <lb/>de salubrité qui ne sont pas moins impérieuses. Il insisté d'autant plus que l'autorité <lb/>locale a l'intention d'en prolonger plusieurs et que dans ce cas les inconvénients de <lb/>l'<gap extent="1" unit="words"/> de leur largeur, seraient aggravés. Il ajoute particulièrement pour la <lb/>ruelle de la vierge que celle-ci pourrait être fermée attendu que le percement <lb/>projeté à côté la rendra inutile et qu'il parait par le plan qu'elle n'est bordée que <lb/>par des propriétés qui peuvent prendre issue ailleurs.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Ardennes</label>
+                    <label>alignement d'attigny</label>
+                    <label>(452)</label>
+                    <div type="report">
+                        <p>Le conseil après avoir entendu le rapport verbal de <persName><abbr>M.</abbr> Biet</persName> qui <lb/>explique que l'autorité locale persiste à ne point vouloir faire subir aux ruelles <lb/>l'élargissement qu'il a demandé, émet l'avis qu'il ne peut que persévérer dans l'opinion, <lb/>que tant pour faciliter la circulation, que pour assainir des voies insalubres, il considère <lb/>l'élargissement des dites ruelles comme nécessaires. Toutefois à raison de l'observation <lb/>faite par <persName><abbr>M.</abbr> le Préfet</persName> que la commune d'attigny n'est pas dans l'obligation <lb/>précise de s'imposer un plan d'alignement, il pense que c'est à <persName><abbr>M.</abbr> le Ministre</persName> <lb/>qu'il appartient de statuer sur ce motif.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Ile et Vilaine</label>
+                    <label>Rennes</label>
+                    <label>Compte des travaux du Palais de Justice</label>
+                    <label>(453)</label>
+                    <div type="advice">
+                        <p>Le conseil après avoir entendu <persName><abbr>M.</abbr> l'Inspecteur</persName> général de la <lb/>comptabilité, pense qu'il y a irrégularité dans la manière dont les travaux <lb/>ont été conduits par l'architecte, que dans plusieurs articles il a dépassé les <lb/>autorisations, et que cet excédent monte environ à la somme de 10,000, mais <lb/>considérant que ces travaux étaient utiles, et que l'autorisation aurait été donnée <pb/><gap extent="1" unit="words"/> l'architecte l'aurait demandée, puisqu'il s'agissait de rendre au palais des <lb/>états, son ancien éclat en restaurant des lambris et diverses parties de sculptures, que <lb/>même il aurait été fâcheux qu'on eut suivi à la lettre les devis qui ne faisaient <lb/>mention que de peinture, de <unclear cert="low">leurs</unclear> émis qui auraient faits disparaître des peintures <lb/>susceptibles de restauration ainsi que le résultat <unclear cert="low">la' procuré</unclear>. Par ces motifs le conseil <lb/>est d'avis qu'il y a lieu d’opérer la liquidation ainsi que le proposer <persName><abbr>M.</abbr> l'Inspecteur <lb/>général de la <abbr>compt</abbr></persName> sauf à <persName><abbr>M.</abbr> le Préfet</persName> à faire fournir les renseignements que <lb/>plusieurs mémoires laissent à désirer.</p>
                     </div>
                 </div>
                 <closer>
                     <g ref="#blouet"/>
                     <g ref="#biet"/>
-                    <g ref="#caristie"/>
                     <g ref="#leclere"/>
                     <g ref="#rohault"/>
-                    <g ref="#gourlier">Le Secrétaire</g>
+                    <g ref="#caristie">Le Secrétaire</g>
+                    <g ref="#gourlier"/>
                 </closer>
             </div>
             
             
-            
-            <!--partie révisée été 2021-->
+            <!--partie Lena été 2021-->
             <fw>391</fw>
             <div type="assembly">
                 <head>Séance du <date when="1939-07-15">15 Juillet 1839</date></head>
