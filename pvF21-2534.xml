@@ -1295,7 +1295,8 @@
                 </closer>
             </div>
             <div type="assembly">
-                <head>Séance du <date when="1839-02-25">25 février 1839</date></head>
+                <head>Séance du <date when="1839-02-25">2<unclear cert="medium">5</unclear> février 1839</date></head>
+<!--                Si c'est bien le 25 février, il y existe deux séances avec cette date, celle-ci et la prochaine -->
                 <div type="case">
                     <label>Cantal</label>
                     <label><abbr>conston</abbr> d'un <abbr>Établt</abbr> thermal à Chaudesaigues</label>
@@ -1315,11 +1316,58 @@
                     <label>(461)</label>
                     <div type="report">
                         <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
-                        <p></p>
+                        <p>Quoique selon l'avis de <persName><abbr>Mr.</abbr> le Préfet</persName>, ce plan paraisse répondre aux besoins de la localité, et <lb/>les rectifications à suivre sous le rapport de la circulation et de la salubrité, je crois donc <lb/>appeler l'attention du Conseil sur le plan présenté qui me parait faire encore beaucoup à <lb/>désirer et c'est pour remplir le but du <gap extent="1" unit="words"/> et instruction sur cette matière que je me suis <lb/>conformé à ce qu'elles prescrivent en modifiant le plan  de Courthézon ainsi que je le soumets <lb/>au Conseil ; l'<abbr>aligt</abbr> de la généralité des rues me paraissant devoir être modifié, je me <gap extent="1" unit="words"/> à <lb/>présenter au Conseil <abbr>Mal</abbr> les modifications au crayon en l'invitant à les suivre autant que le <lb/>permettent les localités et lui faisant observer que ce n'est qu'avec le <abbr>tems</abbr> et au fur et à <lb/>mesure de reconstructions que ces <abbr>alignts</abbr>, dans le sens diverses modifications tracées au crayon.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Seine</label>
+                    <label>Monument de Juillet</label>
+                    <label><abbr>réclamon</abbr> de <persName><abbr>M.</abbr> Marneuf</persName></label>
+                    <label>462</label>
+                    <div type="report">
+                        <p>Rapport du Bureau de Contrôle sur les réclamations élevées par <persName><abbr>Mr.</abbr> Marneuf</persName>, contre <lb/>le réglement des ouvrages de sculpture par lui exécutées en 1837 pour le Monument <lb/>de Juillet, place de la Bastille.</p>
+                        <p><persName><abbr>M.</abbr> l'Inspecteur <abbr>gnl</abbr> de la <abbr>Compté</abbr></persName>, peux ainsi que <abbr>Mrs.</abbr> les Contrôleurs qu'il serait <lb/>convenable de soumettre l'examen de cette réclamation à une commission spéciale.</p>
                     </div>
                     <div type="advice">
-                        <head></head>
-                        <p></p>
+                        <p>Le Conseil adopte le présent rapport.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Seine</label>
+                    <label>Observatoire Royal</label>
+                    <label>amphithéâtre d'astronomie</label>
+                    <label>463</label>
+                    <div type="report">
+                        <p>Rapport du Contrôle sur les devis et Cahier des charges pour la mise en adjudication <lb/>des travaux de terrasse et maçonnerie relatifs à la construction d'un amphithéâtre <lb/>d'astronomie à l'Observatoire Royal.</p>
+                        <p><persName><abbr>Mr.</abbr> l'<abbr>Insp.</abbr> <abbr>Gnl</abbr> de la <abbr>Compté</abbr></persName> fait remarquer qu'on avait annoncé à tort <lb/>que les devis et Cahier des charges conservant ce projet ont été rédigés par <abbr>Mrs</abbr> les Contrôleurs de concert avec <persName><abbr>M.</abbr> l'architecte</persName>. Il insiste sur les <orig>grâves</orig> <orig>inconvéniens</orig> <lb/>qui résulteraient de ce mode de procéder. Il passe ensuite à l'examen critique de ces <lb/>différentes pièces et signale divers points qui selon lui <abbr>doivt</abbr> être rectifiés. (voir son rapport au <gap extent="1" unit="words"/>.</p>
+                    </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Le Conseil invite le Bureau de Contrôle à aviser au moyen de réviser le <lb/>devis d'une manière plus complète et plus régulière. Le Conseil pense que <persName><abbr>M.</abbr> le Directeur</persName> <lb/>peut seul décider quelle mesure il est convenable de prendre <abbr>relativt</abbr> aux certificats de <lb/>capacité ; enfin quant au Cahier des charges <abbr>gales</abbr> le Conseil est d'avis que tant qu'un autre <lb/>mode de métrage n'aura pas été adopté, il y a lieu d'appliquer celui qui existe maintenant.</p>
+                    </div>
+                </div>
+                <closer>
+                    <g ref="#biet"/>
+                    <g ref="#blouet"/>
+                    <g ref="#caristie"/>
+                    <g ref="#leclere">Le Secrétaire</g>
+                    <g ref="#rohault"/>
+                    <g ref="#gourlier"/>
+                </closer>
+            </div>
+            <pb/>
+<!--            On voit au-dessus à gauche le numéro 254, mais cela devrait être la page 256 -->
+            <div type="assembly">
+                <head>Séance du <date when="1839-02-25">25 février 1839</date></head>
+                <div type="case">
+                    <label>Seine</label>
+                    <label><abbr>Conston</abbr> de Fontaines dans les Champs Élysées</label>
+                    <label>464</label>
+                    <div type="report">
+                        <p><persName><abbr>Mr.</abbr> Rohault</persName> expose verbalement au Conseil que dans un précédent avis il avait <lb/>demandé que les fontaines qui doivent décorer les champs Elysées fussent en granit <lb/>ou en marbre, en engageant l'architecte à simplifier les formes. Il ajoute que <persName><abbr>Mr.</abbr> le <lb/> Préfet</persName> en réponse à cet avis propose d’exécuter les vasques en fonte et les bassin en pierre <lb/>de <abbr>St</abbr> Nom et de ne mettre qu'une figure, pensant qu'avec ces <abbr>modifons</abbr> on était sur de <lb/>ne pas dépasser les prix du devis.</p>
+                        <p><abbr>Mrs</abbr> les Membres pensent que l'<abbr>admn</abbr> doit hésiter à faire des économie dont le résultat <lb/>serait de nuire à l’effet des <orig>monumens</orig> dont le seul but est de décorer les Champs Élysées. <lb/><persName><abbr>M.</abbr> Mlouet</persName> expose que l'<abbr>établt</abbr> d'un modèle en fonte avaient à un prix très élevé et qu'en conséquence <lb/>chacun des exemplaires est fort coûteux <gap extent="1" unit="words"/> qu'on n'en produit qu'en petit nombre, il pense pas cette <gap extent="1" unit="words"/> <lb/>que le surcroît de dépense occasionné par l'emploi du marbre ou du granit, ne doit pas être aussi <lb/>important qu'on l'annonce. Un membre rappelle qu'en engageant l'<abbr>arche</abbr> à employer le marbre <lb/>ou la pierre, le Conseil avait surtout voulu indiquer qu'il serait convenable de donner aux <lb/>fontaines plus de fermeté en simplifiant leur formes. Il ajoute que dans le cas où il <gap extent="1" unit="words"/> <lb/>démontré d'une manière certaine que le prix de <gap extent="1" unit="words"/> de ces matières doit être trop élevé <lb/>il faudrait se <gap extent="1" unit="words"/> à demander la simplicité des formes et <abbr>préalablt</abbr> demander un <gap extent="1" unit="words"/> <lb/>de prix afin de juger si les différences sont assez importantes pour renoncer à l'avantage qui <lb/>résulterait de l'emploi de matière plus convenables.</p>
+                        <p>En résumé le Conseil décide qu'une lettre sera adressée à <persName><abbr>Mr.</abbr> l'architecte</persName> pour l'inviter à se rendre à la prochaine séance afin de communiquer ses projets ainsi que les <gap extent="2" unit="words"/> <lb/>a transmis à <persName><abbr>M.</abbr> le Préfet</persName>, <abbr>relativt</abbr> aux prix comparatifs des divers matériaux don on <lb/>a proposé l'emploi.</p>
+<!--                       Est-ce que ce dernier paragraphe est-il l'avis? -->
                     </div>
                 </div>
                 <closer>
@@ -1331,7 +1379,6 @@
                     <g ref="#gourlier">Le Secrétaire</g>
                 </closer>
             </div>
-            
             
             <!--partie Lena été 2021-->
             <fw>391</fw>
