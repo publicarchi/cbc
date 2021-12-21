@@ -1457,6 +1457,77 @@
                     <g ref="#gourlier"/>
                 </closer>
             </div>
+            <pb/>
+<!--            On voit au-dessus à gauche le numéro 258, mais cela devrait être la page 260 -->
+            <div type="assembly">
+                <head>Séance du <date when="1839-02-28">28 février 1839</date></head>
+                <div type="case">
+                    <label>Haut-Rhin</label>
+                    <label><abbr>travx</abbr> <abbr>supplrm</abbr> à l'Eglise de Turcheim</label>
+                    <label>469</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Biet</persName></head>
+                        <p>L'objet de ces <abbr>travx</abbr> est d'établir <unclear cert="low">rue perron couture</unclear> au devant de la façade de l'Église en <lb/>à l'égard de celles demandées qui se rapportent à la partie graphique du projet, l'examen <lb/>que j'en ai fait m'a donné lieu de reconnaître que mes indications ont été suivies <lb/>et qu'il est résulté des améliorations qui rendent le projet admissible.</p>
+                        <p>À l'égard de celles qui concernent le devis et le Cahier des charges je pense que <lb/>c'est à <persName><abbr>M.</abbr> l'<abbr>Insp.</abbr> <abbr>Gnl</abbr></persName> de la <abbr>Compté</abbr> à en rendre compte.</p>
+                        <p>Je pense donc tout en proposant l'adoption du projet qu'il n'y aura lieu par le <unclear cert="low">Conseil</unclear> <lb/>d'en proposer <abbr>définitvt</abbr> l'<abbr>approbon</abbr> à <persName><abbr>M.</abbr> le Ministre</persName> qu'après le rapport de <persName><abbr>M</abbr> Gourlier</persName>.</p>
+                    </div>
+                    <div type="advice">
+                        <p>Adopté</p>
+<!--                        Le mot adapté à été écrit à droite de la première ligne du rapport prochain. -->
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Pyrénées orientales</label>
+                    <label><abbr>reston</abbr> de l'Église de Céret</label>
+                    <label>472</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Lecrerc</persName></head>
+                        <p>Il est à regretter que les dessins ne donnent pas l'état actuel du monument car nous ne <lb/>pouvons savoir si la <abbr>reston</abbr> projetée change quelques parties ou si elles rentre <orig>complèttement</orig> <lb/>dans les dispositions actuelles de l'Église, dans ce dernier cas nous approuvons la <lb/>restauration ; autrement nous croyons que certains détails de l’élévation entre autres <lb/>les amortissements de la façade et les éperons de la nef, pourraient avoir une meilleure <gap extent="1" unit="words"/>.</p>
+                        <p>Dans le devis il est dit que des lézardes causées par un décintrement trop prompt, <lb/>affaiblissent la voûte de la nef dans toute la longueur. Tout en approuvant dans ce cas <lb/>le rebouchage des lézardes nous croyons devoir prévenir l'architecte que si les lézardes <lb/>reparaissaient après leur réparations, il n'y aurait qu'un moyen d'arrêter la ruine <lb/>de la voûte, ce serait de <del>arrêter</del> placer des <orig>tirans</orig> en fer dans la largeur de la nef <lb/>d'un piédroit à l'autre à la naissance de la voûte.</p>
+                        <p>Dans la <abbr>reston</abbr> do clocher, la manière que <abbr>l'arche</abbr> indique pour relier les <gap extent="1" unit="words"/> <lb/>lézardés nous semble inutile, les dalle se casseraient au moindre <unclear cert="low">lassement</unclear>, pensons qu'il est d'abord nécessaire de relier les murs <emph>Nord</emph> et <emph>sud</emph> par des <unclear cert="high"><orig>tirans</orig></unclear> <lb/>en fer, puis de reprendre les parties lézardés en maçonnerie semblables à celles de <lb/>tout le clocher.</p>
+                        <p>Dans la <abbr>répon</abbr> de la <orig>chappe</orig> du clocher l'<abbr>arche</abbr> est seul capable de juger la dégradation <lb/>et par conséquent les <abbr>travx</abbr> qui doivent y être faits.</p>
+                        <p>La charpente doit être entièrement refaite tant en se servant des matériaux <unclear cert="low">qui</unclear> <lb/>qui <unclear cert="low">résout assez tous</unclear> pour être employés de nouveaux, faute de détails nous ne pouvons <lb/>rien dire sur cette partie des restaurations.</p>
+                        <p>Quoique par la manière dont le devis est faite nous soyons assuré que l'architecte <pb/><fw>261</fw>entend pas fortement la <abbr>reston</abbr> de l'Église de <unclear cert="low">Cérest</unclear>, nous devons dire <abbr>cependt</abbr> que le travail que nous <lb/><gap extent="1" unit="words"/> sous les yeux du Conseil, n'est pas <abbr>suffist</abbr> détaillé surtout quant aux grosses réparations. <lb/>Nous croyons devoir en faire l'observation tout en proposant l'adoption du projet de restauration <lb/>sauf les <abbr>modifons</abbr> indiquées par nous au rapport.</p>
+                    </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Le Conseil après avoir examiné les plans et entendu la lecture du rapport dont il adopte <lb/>les observations. est d'avis qu'il y a lieu de présenter à l'<abbr>approbon</abbr> de <persName><abbr>M.</abbr> le Ministre</persName> ce projet en <lb/>ayant soins toute fois de le rectifier dans le sens des <abbr>observons</abbr> indiquées par le rapporteur.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Seine</label>
+                    <label><abbr>conston</abbr> de Fontaine aux Champs-élysées</label>
+                    <label>473</label>
+                    <div type="report">
+                        <p>Le Conseil ayant entendu les observations verbales de <persName><abbr>M.</abbr> le rapporteur</persName> et les explications <lb/>données par <persName><abbr>M.</abbr> Hitorf</persName> architecte, présent à la séance, reconnaît d’après les <abbr>renseigts</abbr> qu'il vient <lb/>de lui transmettre sur les prix comparatifs des diverses matières dont on proposait l'emploi <lb/>que la dépense dépasserait la prévision du devis si l'on employait le marbre ou le granit. En conséquence il est d'avis qu'il y a lieu d'adopter les propositions de <persName><abbr>M.</abbr> le Préfet</persName> qui <lb/>consistent à exécuter les vasques en <unclear cert="high">foute</unclear> et les bassins en château <unclear cert="high">landon</unclear> qui serait substitué <lb/>à la pierre de <abbr>St</abbr> Non. Le Conseil persistant dans son <abbr>1er</abbr> avis, engage de nouveau l'architecte <lb/>à donner plus de fermeté à l'ensemble de sus fontaines.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Rhône</label>
+                    <label>projet général pour la <abbr>conston</abbr> de Palais de justice de Lyon par <persName><abbr>M.</abbr> Baltard</persName>, <abbr>arche</abbr>.</label>
+                    <label>474</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                        <p>L'ensemble de la dépense, compris honoraire de l'<abbr>arche</abbr> et <abbr>travx</abbr> imprévus, est évalué à <unclear cert="high">3,435,362 <abbr>fr.</abbr> 48</unclear> <lb/>Savoir: Tous travaux exécutés 1,560,538_61 <lb/> pour <abbr>travx</abbr> restant à exécuter 1.868.862 11 <lb/>pour dépenses imprévues 35.961. 76 <lb/>somme égale 3.435.362. 48 <lb/>La dépense avait été primitivement évaluée à <unclear cert="medium">2,287,337. 11</unclear> <lb/>L'augmentation se trouverait donc être de 1,148,025.48<!-- les chiffres sont séparés du texte par des lignes pointillées. ils ont été placés à droite de la page. --> <lb/>Mais il est, dès à présent, à observer, laissant à part <abbr>provt</abbr> toutes les circonstances qui ont contribué <lb/>à élever la dépense, que dans cette somme primitive de 2.287 337 <abbr>f.</abbr> ne se trouvaient compris aucun <abbr>travx</abbr> <lb/>d'art ou <abbr>d'embellt</abbr>, ni les honoraires de l'<abbr>arche</abbr>, tandis que le projet général comprend sans exception <lb/>toutes les dépenses qui seront nécessaires à l'entier <abbr>achevt</abbr> de l'Édifice.</p>
+                        <p>En transmettant ce projet définitif <persName><abbr>M.</abbr> le Préfet</persName> fait la remarque que <persName><abbr>M.</abbr> Baltard</persName> lui a donné <lb/> l'assurance que le chiffre de 3435362.48</p>
+                    </div>
+                    <div type="advice">
+                        <head></head>
+                        <p></p>
+                    </div>
+                </div>
+                <closer>
+                    <g ref="#blouet"/>
+                    <g ref="#biet"/>
+                    <g ref="#caristie"/>
+                    <g ref="#leclere"/>
+                    <g ref="#rohault"/>
+                    <g ref="#gourlier">Le Secrétaire</g>
+                </closer>
+            </div>
+            
+            
+            
             
             <!--partie Lena été 2021-->
             <fw>391</fw>
