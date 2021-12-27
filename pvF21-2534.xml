@@ -1572,7 +1572,31 @@
                     <g ref="#gourlier"/>
                 </closer>
             </div>
-            
+            <div type="assembly">
+                <head>Séance du <date when="1839-03-04"></date></head>
+                <div type="case">
+                    <label><abbr>Bouch.</abbr> du-Rhône</label>
+                    <label><abbr>répons</abbr> à la couverture et à la charpente du Palais-de justice d'Aix</label>
+                    <label>475</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                        <p>Cette affaire a donné lieu à un rapport du <date when="1838-08-14">14 août 1838</date> et à un avis du Conseil à la suite de ce rapport <lb/>dont je vais donner lecture. On soumet aujourd'hui à l'examen du conseil les nouvelles <lb/>propositions présentées par l'architecte.</p>
+                        <p>Le rapport de <persName><abbr>M.</abbr> Barral</persName> <abbr>arche</abbr> fait connaître que <abbr>conft</abbr> à l'avis du Conseil, il a fait étayer <lb/>les entraits de la charpente du comble et opérer les sondages qui avaient été présentés ; qu'il résulte <lb/>de ces sondages que sur 44 entraits 26 sont fortement endommagés et que les autres nécessitent <lb/>de plus légères réparations ; que les sablières, les arêtiers et les chevrons sont en partie pourris <lb/>dans leur portée. Cet état de chose fait donc voir qu'il était de la plus grande urgence <pb/><!-- je suis ici -->de procéder aux <orig>étaiemens</orig> et <unclear cert="medium">sondages de en bois</unclear>, ainsi que le Conseil en avait <gap extent="1" unit="words"/> l'avis, sondages qui, <lb/>seuls, pouvaient du reste mettre à même de constater l'étendue du dommage et d'apprécier le montant <lb/>de la dépense pour les <abbr>répons</abbr>.</p>
+                    </div>
+                    <div type="advice">
+                        <head></head>
+                        <p></p>
+                    </div>
+                </div>
+                <closer>
+                    <g ref="#blouet"/>
+                    <g ref="#biet"/>
+                    <g ref="#caristie"/>
+                    <g ref="#leclere"/>
+                    <g ref="#rohault"/>
+                    <g ref="#gourlier">Le Secrétaire</g>
+                </closer>
+            </div>
             
             
             
