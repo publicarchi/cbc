@@ -410,7 +410,7 @@
                         <label>Plan des <orig>alignemens</orig> de <abbr>St.</abbr> Aignan</label>
                         <label>(404)</label>
                         <div type="report">
-                            <head>Rapport de <persName><abbr>M.</abbr> Leclerc.</persName></head>
+                            <head>Rapport de <persName><abbr>M.</abbr> Leclerc</persName></head>
                             <p>Ce travail nous parait fait avec soin et devoir être  approuvé, sauf quelques légères <abbr>modifns</abbr> que je <gap extent="2" unit="words"/></p>
                             <p>Feuille <abbr>Nº</abbr> <abbr>1er</abbr>. Rue du Cher. Nous pensons que c'est par oubli que cette rue n'a pas été alignée, <lb/> d'autant plus qu'il en est parlé dans le procès-verbal comme devant être alignée à 8 <abbr>m</abbr>. L'<abbr>aligt</abbr> que <gap extent="1" unit="words"/> <lb/><unclear cert="medium">indiquera</unclear> et qui est conforme à celui donné par le <abbr>procès-val</abbr> part de l'angle commun des maisons <abbr>Nº</abbr> <unclear cert="medium">5</unclear> <lb/>et <abbr>Nº</abbr> 6 de la rue de la boucherie jusqu'à l'angle <abbr>Nº</abbr> 19 de la rue du Cher, l'autre côté sera porté à 8 mètres <lb/> parallèlement à cet alignement.</p>
                             <p>Rue des Tanneurs. Nous pensons que le <persName><abbr>Nº</abbr> 15</persName> devrait rentrer comme nous l'avons indiqué au crayon.</p>
@@ -1481,7 +1481,7 @@
                     <label><abbr>reston</abbr> de l'Église de Céret</label>
                     <label>472</label>
                     <div type="report">
-                        <head>Rapport de <persName><abbr>M.</abbr> Lecrerc</persName></head>
+                        <head>Rapport de <persName><abbr>M.</abbr> Leclerc</persName></head>
                         <p>Il est à regretter que les dessins ne donnent pas l'état actuel du monument car nous ne <lb/>pouvons savoir si la <abbr>reston</abbr> projetée change quelques parties ou si elles rentre <orig>complèttement</orig> <lb/>dans les dispositions actuelles de l'Église, dans ce dernier cas nous approuvons la <lb/>restauration ; autrement nous croyons que certains détails de l’élévation entre autres <lb/>les amortissements de la façade et les éperons de la nef, pourraient avoir une meilleure <gap extent="1" unit="words"/>.</p>
                         <p>Dans le devis il est dit que des lézardes causées par un décintrement trop prompt, <lb/>affaiblissent la voûte de la nef dans toute la longueur. Tout en approuvant dans ce cas <lb/>le rebouchage des lézardes nous croyons devoir prévenir l'architecte que si les lézardes <lb/>reparaissaient après leur réparations, il n'y aurait qu'un moyen d'arrêter la ruine <lb/>de la voûte, ce serait de <del>arrêter</del> placer des <orig>tirans</orig> en fer dans la largeur de la nef <lb/>d'un piédroit à l'autre à la naissance de la voûte.</p>
                         <p>Dans la <abbr>reston</abbr> do clocher, la manière que <abbr>l'arche</abbr> indique pour relier les <gap extent="1" unit="words"/> <lb/>lézardés nous semble inutile, les dalle se casseraient au moindre <unclear cert="low">lassement</unclear>, pensons qu'il est d'abord nécessaire de relier les murs <emph>Nord</emph> et <emph>sud</emph> par des <unclear cert="high"><orig>tirans</orig></unclear> <lb/>en fer, puis de reprendre les parties lézardés en maçonnerie semblables à celles de <lb/>tout le clocher.</p>
@@ -1645,20 +1645,64 @@
                         <head>Avis</head>
                         <p>Le Conseil après avoir examiné les projets et entendu la lecture du rapport, reconnaît <lb/>que l'architecte a présenté un travail tendant plutôt à modifier l'Édifice qu'à le réconforter. <lb/>en conséquence il est d'avis que les dessins soient renvoyés afin de les étudier dans le sens <lb/>des observations présentées par <persName><abbr>M.</abbr> le <abbr>rappr</abbr></persName>, insistant sur la nécessité de conserver les <lb/><orig>monumens</orig> historique et de ne pas les dénaturer par des additions en désaccord avec <lb/>leur caractère. Le Conseil propose de ne faire exécuter que les <abbr>travx</abbr> indispensables <lb/>pour reconfortation de cet Édifice.</p>
                     </div>
-                    <div type="case">
-                        <label>Aisne</label>
-                        <label><abbr>conston</abbr> d'une Maison d'arrêt à <abbr>St.</abbr> Quentin</label>
-                        <label>479</label>
-                        <div type="report">
-                            <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
-                            <p>Un nouveau projet a été rédigé par suite de l'avis du Conseil du 4 août dernier. <lb/>Le devis estimatif montant à 165063.06 non compris comme à valoir pour <abbr>travx.</abbr> <lb/>imprévus et honoraires de l'arche non plus que celle nécessaire pour l'<abbr>établt</abbr> <lb/>des appareils de chauffage. L'<abbr>arche</abbr> sur ce dernier point demandant que le <lb/>Conseil lui désigne, parmi les trois moyens qu'il présente celui auquel il donne <lb/>la préférence pour atteindre le but désirable, produit à ce sujet, l'aperçu de dépenses <lb/>relatives à chacune des deux propositions.</p>
-                            <p>Le nouveau projet, bien que présenté sur une échelle moitié de celle prescrite <lb/>par les instructions ministérielles, exprime autant que possible, les modification demandées <lb/>par le conseil, et me parait mériter l'approbation de l'administration, toutefois ne <lb/>louant <lb/> <persName><abbr>Mr.</abbr> l'architecte</persName> sur la combinaison ingénieuse de son projet, je crois <lb/>devoir appeler son attention.</p>
-                            <p>1<abbr>er</abbr> sur les inconvénients que je crois <gap extent="1" unit="words"/> dans l'établissement d'une <lb/>citerne dans la salle centrale d'inspection et qui d'ailleurs s'oppose à <pb/></p>
-                        </div>
-                        <div type="advice">
-                            <head></head>
-                            <p></p>
-                        </div>
+                </div>
+                <div type="case">
+                    <label>Aisne</label>
+                    <label><abbr>conston</abbr> d'une Maison d'arrêt à <abbr>St.</abbr> Quentin</label>
+                    <label>479</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                        <p>Un nouveau projet a été rédigé par suite de l'avis du Conseil du 4 août dernier. <lb/>Le devis estimatif montant à 165063.06 non compris comme à valoir pour <abbr>travx.</abbr> <lb/>imprévus et honoraires de l'arche non plus que celle nécessaire pour l'<abbr>établt</abbr> <lb/>des appareils de chauffage. L'<abbr>arche</abbr> sur ce dernier point demandant que le <lb/>Conseil lui désigne, parmi les trois moyens qu'il présente celui auquel il donne <lb/>la préférence pour atteindre le but désirable, produit à ce sujet, l'aperçu de dépenses <lb/>relatives à chacune des deux propositions.</p>
+                        <p>Le nouveau projet, bien que présenté sur une échelle moitié de celle prescrite <lb/>par les instructions ministérielles, exprime autant que possible, les modification demandées <lb/>par le conseil, et me parait mériter l'approbation de l'administration, toutefois ne <lb/>louant <lb/> <persName><abbr>Mr.</abbr> l'architecte</persName> sur la combinaison ingénieuse de son projet, je crois <lb/>devoir appeler son attention.</p>
+                        <p>1<abbr>er</abbr> sur les inconvénients que je crois <gap extent="1" unit="words"/> dans l'établissement d'une <lb/>citerne dans la salle centrale d'inspection et qui d'ailleurs s'oppose à <pb/>l'établissement des calorifères, 2º sur la nécessité de combiner un système <lb/>de ventilation pour chaque cellule, comme cela est pratiqué en Amérique ou <lb/>part tout au moyen analogue, 3º sur la nécessité de ménager dans le bâtiment <lb/>d'administration et le plus près possible de surveillance une ou deux pièces les <lb/>plus grandes que les cellules pour les détenus, qui par exception pourraient être mis <lb/>en commun, et en autre le logement pour deux gardiennes affectées aux services des <lb/>femmes détenues, 4º enfin sur la nécessité de réduire à 3 <abbr>m</abbr>50 environ la hauteur <lb/>des murs de clôture intérieure des préaux et comme et comme disposition générale d'ensemble <lb/>sur la possibilité de repartir le mur d'<gap extent="1" unit="words"/> à l'alignement du boulevard <lb/>d’<unclear cert="low">abris</unclear> pour ne pas laisser de ce côté un triangle de terrain inutile et qui ne <lb/>parait devoir être d'un mauvais effet, pour cet alignement ; <lb/>quant au système de chauffage, je propose au Conseil de donner la <lb/>préférence aux calorifères chauffés en charbon de terre, et dont l'évaluation est <lb/>portée à 10,115 <abbr>fr</abbr> ,6, les deux autres moyens me paraissent l'un trop <lb/>dispendieux et l'autre inadmissible.</p>
+                        <p>En résumé, je propose l'adoption du projet et le <unclear cert="medium">renvoi</unclear> du devis à <lb/>l'examen du bureau de Contrôle.</p>
+                    </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Le Conseil après l'examen des plans, ayant entendu la lecture du rapport, <lb/>est d'avis que ce projet peut être présenté à l'approbation de <persName><abbr>Mr.</abbr> le Ministre</persName> , en <lb/>engageant l'architecte à exécuter les modifications les modifications demandés par <persName><abbr>Mr.</abbr> le rapporteur</persName></p>
+                    </div>
+                </div>
+                <closer>
+                    <g ref="#leclere"/>
+                    <g ref="#blouet"/>
+                    <g ref="#biet"/>
+                    <g ref="#caristie"/>
+                    <g ref="#gourlier"/>
+                    <g ref="#rohault">Le Secrétaire</g>
+                </closer>
+            </div>
+            <div type="assembly">
+                <head>Séance du <date when="1839-03-07">7 mars 1839</date></head>
+                <div type="case">
+                    <label>Rhône</label>
+                    <label><abbr>Conson</abbr> d'une Église à <abbr>Ste</abbr> Foy-lès-Lyon</label>
+                    <label>480</label>
+                    <div type="report">
+                        <head>Rapport par <persName><abbr>M.</abbr> Caristie</persName></head>
+                        <p>Le travail de <persName><abbr>Mr.</abbr> Gros</persName> qui consiste en 2 projets dont la dépense est évaluées à la somme de 43,473 <abbr>f.</abbr>69 a été complété selon les modifications du <lb/>conseil dans sa séance du <date when="1838-06-12">12 juin <abbr>der</abbr></date>, mais la dépense excédant les repasses <lb/>actuelles ne semble pas devoir adapter le second rédigé selon ces mêmes indications <lb/>est plus simple, il n'exigerait pour être achevé qu'une somme de 46,645 à<lb/>peu-près équivalente à cette du premier projet. En diminuant un peu les <lb/>proportion du projet précédemment présenté par suite de l’exécution du 2º <unclear cert="high">projet</unclear> <lb/>la vois publique au-devant de l'Église aurait <unclear cert="low">5 <abbr>m</abbr> 50</unclear>.</p>
+                        <p>Conformément à l'indication qui lui a été donnée, l'architecte à <lb/>substitué un plafond à la voûte de la nef, mais il n'en a pas profité pour <gap extent="1" unit="words"/> <lb/>des jours du haut, comme il a été exprimé dans le précédent rapport ; en <lb/>baissant un peu les bas côtés et en élevant un peu le plafond de la nef <lb/>sera possible de prendre des jours nécessaires dans la partie haute des murs <lb/>latéraux de la nef. J'y invite de nouveau l'architecte, aussi qu'à indiquer les <lb/>épaisseurs voûte et de plancher, et la combinaison de charpente des combles. <lb/>Ce projet ne donnant pas lieu de ma part à d'autres observations, je laisse au <pb/><fw>271</fw>Conseil à décider s'il ajourne son avis définitif, à la représentation de ce <lb/>projet avec ces nouvelles modifications.</p>
+                    </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Le conseil après avoir examiné les plans approuve les observations <lb/>de <persName><abbr>Mr.</abbr> le rapporteur</persName> et pense qu'il y a lieu de donner la préférence au <lb/>second projet, en ajournant toutefois la proposition d'adoption définitive <lb/>jusqu'à la présentation du rapport du Bureau de Contrôle, qu'il engage à <lb/>examiner le devis du 2 projet avec la plus scrupuleuse attention.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Haute-Garonne</label>
+                    <label>Toulouse</label>
+                    <label>Église <abbr>St</abbr> Étienne</label>
+                    <label>481</label>
+                    <div type="report">
+                        <head>Rapport <persName><abbr>Mr.</abbr> <unclear cert="medium">de</unclear> Leclerc</persName></head>
+                        <p>Je crois qu'un monument de cette importance et que l'on se propose d'achever <lb/>dans toutes ses parties doit être isolé entièrement et qu'on doit dès à présent déterminer <lb/>les alignemens voisins afin d'en rendre les abords convenables et faites, dans le plan de <lb/>l'état actuel on voit sur ces côtés des habitations particulières, tenant à l'Église. Je <lb/>crois que cet état de chose ne peut durer et que dès à présent on doit fixer les <lb/><orig>alignemens</orig> qui par la suite opéreront un isolement complet en faisant sur les deux côtés <lb/>des rues latérales de 10 mètres de largeur.</p>
+                        <p>La nef que l'on propose de construire se trouve en prolongement et en <gap extent="1" unit="words"/> donnent <lb/>avec le chœur élevé anciennement, on a adapté la même disposition et le même caractère <lb/>dans les élévations, afin d'avoir cet ensemble et cet unité de style qui sel peut produire <lb/>le plus grand effet des édifices : cet nef est accompagné d'un bas côté et de chapelles <lb/>régnant autour de l'Église. Ce parti était le seul à suivre et ne <gap extent="1" unit="words"/> de ma part <lb/>aucune observation.</p>
+                        <p>Venant ensuite à l’élévation qui est une chose murale et pour laquelle on manque d'indications comme  pour la nef, il est nécessaire de rechercher ce qui <lb/>pourrait indiquer l'idée première soit par des anciens dessins ou gravures, soit par <lb/>les monuments qui de la même époque et dans le pays pourraient présenter de <lb/>l'analogie.</p>
+                    </div>
+                    <div type="advice">
+                        <head></head>
+                        <p></p>
+                    </div>
+                </div>
                 <closer>
                     <g ref="#blouet"/>
                     <g ref="#biet"/>
@@ -1668,6 +1712,7 @@
                     <g ref="#gourlier">Le Secrétaire</g>
                 </closer>
             </div>
+            
             
             
             
