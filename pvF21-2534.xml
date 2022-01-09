@@ -1707,16 +1707,115 @@
                         <p>Ayant examiné les plans, entendu la lecture du rapport et après discussion, le Conseil <pb/>pense qu'il y a lieu de proposer l'adoption en principe de ce projet, en engageant l'architecte à l'étudier <lb/>et à le modifier dans le sens des observations présentées par <persName><abbr>M.</abbr> le Rapporteur</persName> et en insistant sur <lb/>celles qui vont suivre. 1º indiquer dans les plans les points d'appui qui <abbr>doivt</abbr> supporter les deux <lb/>tours ; 2º conserver le <gap extent="1" unit="words"/> placé dans le chœur, sa disposition et son style présentent assez <lb/>d'intérêt pour qu'on ait égard à cette observation ; 3º ne pas conserver le mur situé du côté <lb/>du Presbytère, à cause de la disposition actuelle des contreforts dont il faudra changer le plan <lb/>pour les distribuer conformément aux division des voûtes que l'on doit construire afin <lb/>d'éviter les <orig>déchiremens</orig> qui s’opéreraient <abbr>inévitablt</abbr> si on reliait les nouvelles constructions <lb/>avec les anciennes ; 4º reproduire dans la partie projetée les motifs semblables à ceux qui <lb/>existent déjà dans la disposition des fenêtres du chœur ; 5º étudier dans tous les détails <bibl/>et avec le plus grand soin la façade en se rapprochant le plus possible du caractère <lb/>de ce qui existe en conservant le parti indiqué par le papier de retombe. enfin le Conseil <lb/>demande qu'au projet définitif soit joint le plan d'<abbr>aligt</abbr> du quartier afins de juger <lb/>de la portion des <abbr>constons</abbr> qui l’environnement.</p>
                     </div>
                 </div>
+                <div type="case">
+                    <label>Lot et Garonne</label>
+                    <label><abbr>conston</abbr> du clocher de la Cathédrale d'Agen,<unclear cert="low"><abbr>xae</abbr></unclear></label>
+                    <label>482</label>
+                    <div type="advice">
+                        <p>Le Conseil après avoir pris connaissance des <orig>documens</orig> contenus au dossier et ayant <lb/>entendre les explications verbales de <persName><abbr>M.</abbr> le Rapporteur</persName> est d'avis qu'il y a lieu d'approuver <lb/>les proposition faites par <persName><abbr>M.</abbr> l'architecte</persName> et en conséquence d'autoriser la <abbr>conston</abbr> <lb/>du clocher de la Carhédrale d'Agen, telle qu'elle est demandée et la substitution <lb/>de voûte plein-cintre sur les chapelles, côté de la tourelle sud et de la tourelle <gap extent="1" unit="words"/> <lb/>au lieu du plafond adopté en principe.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Haute-Marne</label>
+                    <label>Cathédrale de Langres</label>
+                    <label>Compte des travaux</label>
+                    <label>483</label>
+                    <div type="report">
+                        <p><persName><abbr>M.</abbr> L’Inspecteur Général de la Comptabilité</persName> donne lecture de la lettre d'envoi de <lb/>d'affaire par <persName><abbr>M.</abbr> le Ministre des Cultes</persName> ; après avoir pris connaissance du travail de <lb/><persName><abbr>M.</abbr> l'architecte</persName> ainsi que de celui de <persName><abbr>M.</abbr> le vérificateur</persName> et en avoir conféré <unclear cert="low">avec eux</unclear> <lb/>il examine les points en discussion et émet son avis sur chacun d'eux. <lb/>(voir la copie du rapport <persName><abbr>M.</abbr> Gourlier</persName> du Carton de la Haute Marne.)</p>
+                        <!--rapport au carton-->
+                    </div>
+                    <div type="advice">
+                        <p>Le conseil adopte l'avis de <persName><abbr>M.</abbr> l'<abbr>Insper</abbr> <abbr>gnl</abbr> de la <abbr>Compté</abbr></persName>.</p>
+                    </div>
+                </div>
                 <closer>
+                    <g ref="#leclere"/>
                     <g ref="#blouet"/>
                     <g ref="#biet"/>
-                    <g ref="#caristie"/>
-                    <g ref="#leclere"/>
+                    <g ref="#gourlier"/>
                     <g ref="#rohault"/>
-                    <g ref="#gourlier">Le Secrétaire</g>
+                    <g ref="#caristie">Le Secrétaire</g>
                 </closer>
             </div>
-            
+            <div type="assembly">
+                <head>Séance du <date when="1839-03-11"></date></head>
+                <div type="case">
+                    <label>Ardèche</label>
+                    <label><abbr>conston</abbr> d'un tambour d'entrée et buffet d'orgue à la Cathédrale de Viviers</label>
+                    <label>484</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                        <p>Il suit de la lettre d'envois du Ministre que d'après les <abbr>observons</abbr> du Conseil dans sa séance du <lb/><date when="1835-08-03">3.<abbr>8br</abbr>.1835</date>, un 3<abbr>e</abbr> projet a été demandé à <persName><abbr>M.</abbr> Chenavard</persName> et que la dépense à faire ne s’élève <lb/>plus qu'à 21,000 <abbr>fr.</abbr> au lieu de 24 500 <abbr>f.</abbr> et, qu'avant toute décision <persName><abbr>M.</abbr> le Ministre</persName> a <gap extent="1" unit="words"/> <lb/>devoir consulter <persName><abbr>M.</abbr> Abbey</persName>, facteur d'orgues, chargé de la confection de l'orgue de la Cathédrale <lb/>de Vivier, sur la convenance des propositions de <persName><abbr>M.</abbr> Chenavard</persName> ; que le facteur a fait <unclear cert="low">observer</unclear> <lb/>que le projet de buffet d'orgue présenté par <persName><abbr>M.</abbr> Chenavard</persName> n'étant point en <gap extent="1" unit="words"/> <lb/>la grandeur de l'instrument, il propose de le faire exécuter ici sous ses yeux en bois de chêne <lb/>au lieu de noyer et que, d'après le devis qu'il produit, il en résulterait une économie de <unclear cert="low">2492 <abbr>f.</abbr>95</unclear></p>
+                        <p>C'est sur ce projet que le Conseil est consulté aujourd'hui.</p>
+                        <p>J'ai l'honneur de mettre sous les yeux du <abbr>Cel</abbr> avec le projet de <persName><abbr>M.</abbr> Chenavard</persName>, celui de <persName><abbr>M.</abbr> <lb/>Abbey</persName> est conforme aux indications de celui de <persName><abbr>M.</abbr> Chenavard</persName>. Toutefois je partage <pb/><fw>273</fw> l'opinion de <persName><abbr>M.</abbr> Abbey</persName> et je pense qu'il y aurait avantage à exécuter ici sous les yeux de ce facteur et à <lb/>portée de l'instrument, le buffet qui doit l'envelopper. Je pense également que le bois de chêne doit être préféré <lb/>au bois de noyer pour la confection de ce buffet d'orgue.</p>
+                        <p>En <abbr>conséqce</abbr> et sauf l'examen préalable du devoir remontant à 4,893 <abbr>f.</abbr> pour le buffet d'orgue, le projet de <persName><abbr>M.</abbr> <lb/>Abbey</persName>, me parait susceptible de recevoir l'<abbr>approbon</abbr> du Ministre.</p>
+                        <p>Je crois également que la partie du projet <persName><abbr>M.</abbr> Chenavard</persName>, partie qui comprend le tambour d'entrée et la tribune est, sauf examen du devis, susceptible de recevoir l'<abbr>approon</abbr> de <persName><abbr>M.</abbr> le Ministre</persName>.</p>
+                    </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Le Conseil après avoir examiné les plans, et ayant pris connaissance des procés contenus au <lb/>dossier, adopte les observations contenus au rapport et est d'avis que ce projet est susceptible de recevoir <lb/> l'<abbr>approbon</abbr> de <persName><abbr>M.</abbr> le Ministre</persName>.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Rhône</label>
+                    <label>Palais de justice à Lyon</label>
+                    <label>485</label>
+                    <div type="advice">
+                        <p>Le Conseil reconnaît que les modification indiquées dans son avis du <date when="1838-02-28">28 <abbr>févr</abbr> <abbr>de</abbr></date> <lb/>ont été exécutées par <persName><abbr>M.</abbr> Baltard</persName>, au moyen de papiers, de retombe sur l'atlas et dessins <lb/>composant son projet. En conséquence il renvoie à l'examen du Bureau de contrôle cet <lb/>atlas et les devis, en l'engageant à rendre un compte exact du résultat des <lb/><abbr>modifons</abbr> <lb/>opérées et d'indiquer les différences qu'elles devront amener sur le chiffre de la dépense.</p>
+                        <p>Le Conseil ajourne son avis jusqu'à ce que cet examen ait été terminé par le Contrôle.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Rhône</label>
+                    <label>Palais de justice de Lyon</label>
+                    <label>honoraires de <persName><abbr>M.</abbr> Baltard</persName></label>
+                    <label>486</label>
+                    <div type="advice">
+                        <p>Sur le rapport verbal de la Commission qui a été chargée de ce qui concerne le Palais <lb/>de justice de Lyon et après avoir entendu la lecture textuelle d'une réclamation adressée <lb/>à <persName><abbr>M.</abbr> le Ministre</persName> en date du <date when="1839-02">25 <abbr>févr</abbr></date> contre le refus qui aurait été fait par <persName><abbr>M.</abbr> le Préfet</persName> <lb/>de Rhône de faire liquide les honoraires dus à cet architecte, ainsi que le proposait l'avis <lb/>du Conseil en date du <date when="1838-11-26">26 <abbr>novbr</abbr> dernier</date> et que <persName><abbr>M.</abbr> le Ministre</persName> l'aurait ultérieurement décidé.</p>
+                        <p>Le Conseil ne peut que se référer à ce sujet, à son avis du <date when="1838-02-28">28 <abbr>févr</abbr> <abbr>der</abbr></date> qu'il croit en <abbr>conséqce</abbr> <lb/>devoir rappeler. En circonstances ordinaires nous verrons peu d'objection à opposer <unclear cert="low"><abbr>XXne</abbr></unclear>.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Ardennes</label>
+                    <label>Plan des <orig>alignemens</orig> de Mouzon</label>
+                    <label>(487)</label>
+                    <div type="advice">
+                        <p>Le Conseil après avoir examiné les plans d'<orig>alignemens</orig> de la Ville de Mouzon, <lb/>et entendre les explications verbales de <persName><abbr>M.</abbr> le Rapporteur</persName>, propose 1º quoiqu'à regret de <lb/>renoncer pour la rue de l'abreuvoir, à la modification proposée parce qu’elle est <abbr>suffist</abbr> <lb/>large ; 2º il insiste pour l'<abbr>élargt</abbr> de la ruelle du Secours qui est trop étroite ; 3º il maintient <lb/>sa proposition pour la ruelle de l'Égout et pour le <abbr>redresst</abbr> de la ruelle des Jardins qui n'est <lb/>pas alignée, enfin il insiste sur son observation relative à la ruelle des rondes et demande qu'on <lb/>ne construise pas en avancement rue des Anges et Place <abbr>St</abbr> Louis. En conséquence il est d'avis que ce <lb/>projet doit être renvoyé aux Autorités locales afin qu'il soit rectifié dans le sens des modifications <lb/>contenues dans le présent avis.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Lot</label>
+                    <label>Édifices diocésains de Cahors</label>
+                    <label>488</label>
+                    <div type="reoprt">
+                        <p><persName><abbr>M.</abbr> L'Inspecteur <abbr>Gnl</abbr></persName> fait remarquer qui les prix portés dans les devis relatif aux <lb/>Marchés d'entretien pour les couvertures des Édifices diocésains de Cahors, sont peut-être <lb/>un peu élevés, mais il pense que l'<abbr>adjudon</abbr> doit les reporter à leur juste valeur.</p>
+                    </div>
+                    <div type="advice">
+                        <p>Le Conseil adopte l'avis de <persName><abbr>M.</abbr> l'Inspecteur <abbr>Gnl</abbr> de la <abbr>Compté</abbr></persName></p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Maison <abbr>Cales</abbr> de Fontevrault</label>
+                    <label>Rennes, Mont <abbr>St.</abbr> Michel et Beaulieu.</label>
+                    <label>Travail de <persName><abbr>M.</abbr> Harou-Romain</persName> plus 2 systèmes pénitenciers</label>
+                    <label>489</label>
+                    <div type="report">
+                        <p><persName><abbr>M.</abbr> Gourlier</persName> donne lecture du rapport de la Commission chargée d'examiner le travail de <persName><abbr>M.</abbr> Harou<lb/>-Romain architecte</persName>, relatif aux Maison <abbr>Cales</abbr> de détention de Fontevrault, Rennes, Mont <abbr>St.</abbr> Michel <lb/> et Beaulieu. La <abbr>Comon</abbr> présente diverses observations sur chacune des Maisons pour les quelles <persName><abbr>M.</abbr> Harou-Romain</persName> a rédigé des projets <abbr>suivt</abbr> les 2 systèmes. (voir la copie du rapport au Carton) <!--rapport au carton--></p>
+                    </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Le Conseil ayant examiné les projets et entendu la lecture du rapport de la <lb/>Commission approuve les observation qu'il contient.</p>
+                    </div>
+                </div>
+                <closer>
+                    <g ref="#biet"/>
+                    <g ref="#leclere">Le Secrétaire</g>
+                    <g ref="#blouet"/>
+                    <g ref="#caristie"/>
+                    <g ref="#rohault"/>
+                    <g ref="#gourlier"/>
+                </closer>
+            </div>
             
             
             
