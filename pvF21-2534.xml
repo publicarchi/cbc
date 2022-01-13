@@ -1757,7 +1757,6 @@
                         <p>Le Conseil après avoir examiné les plans, et ayant pris connaissance des pièces contenues au <lb/>dossier, adopte les observations contenues au rapport et est d'avis que ce projet est susceptible de recevoir <lb/> l'<abbr>approbon</abbr> de <persName><abbr>M.</abbr> le Ministre</persName>.</p>
                     </div>
                 </div>
-                <!--je suis ici-->
                 <div type="case">
                     <label>Rhône</label>
                     <label>Palais de justice à Lyon</label>
@@ -1772,9 +1771,9 @@
                     <label>Palais de justice de Lyon</label>
                     <label>honoraires de <persName><abbr>M.</abbr> Baltard</persName></label>
                     <label>486</label>
-                    <div type="advice">
-                        <p>Sur le rapport verbal de la Commission qui a été chargée de ce qui concerne le Palais <lb/>de justice de Lyon et après avoir entendu la lecture textuelle d'une réclamation adressée <lb/>à <persName><abbr>M.</abbr> le Ministre</persName> en date du <date when="1839-02">25 <abbr>févr</abbr></date> contre le refus qui aurait été fait par <persName><abbr>M.</abbr> le Préfet</persName> <lb/>de Rhône de faire liquide les honoraires dus à cet architecte, ainsi que le proposait l'avis <lb/>du Conseil en date du <date when="1838-11-26">26 <abbr>novbr</abbr> dernier</date> et que <persName><abbr>M.</abbr> le Ministre</persName> l'aurait ultérieurement décidé.</p>
-                        <p>Le Conseil ne peut que se référer à ce sujet, à son avis du <date when="1838-02-28">28 <abbr>févr</abbr> <abbr>der</abbr></date> qu'il croit en <abbr>conséqce</abbr> <lb/>devoir rappeler. En circonstances ordinaires nous verrons peu d'objection à opposer <unclear cert="low"><abbr>XXne</abbr></unclear>.</p>
+                    <div type="report">
+                        <p>Sur le rapport verbal de la Commission qui a été chargée de ce qui concerne le Palais <lb/>de justice de Lyon et après avoir entendu la lecture textuelle d'une réclamation adressée <lb/>à <persName><abbr>M.</abbr> le Ministre</persName> en date du <date when="1839-02">25 <abbr>févr</abbr></date> contre le refus qui aurait été fait par <persName><abbr>M.</abbr> le Préfet</persName> <lb/>du Rhône de faire liquide les honoraires dus à cet architecte, ainsi que le proposait l'avis <lb/>du Conseil en date du <date when="1838-11-26">26 <abbr>novbr</abbr> dernier</date> et que <persName><abbr>M.</abbr> le Ministre</persName> l'aurait ultérieurement décidé.</p>
+                        <p>Le Conseil ne peut que se référer à ce sujet, à son avis du <date when="1838-02-28">28 <abbr>févr</abbr> <abbr>der</abbr></date> qu'il croit en <abbr>conséqce</abbr> <lb/>devoir rappeler. En circonstances ordinaires nous verrions peu d'objection à opposer <unclear cert="low"><abbr>XXne</abbr></unclear>.</p>
                     </div>
                 </div>
                 <div type="case">
@@ -1782,7 +1781,7 @@
                     <label>Plan des <orig>alignemens</orig> de Mouzon</label>
                     <label>(487)</label>
                     <div type="advice">
-                        <p>Le Conseil après avoir examiné les plans d'<orig>alignemens</orig> de la Ville de Mouzon, <lb/>et entendre les explications verbales de <persName><abbr>M.</abbr> le Rapporteur</persName>, propose 1º quoiqu'à regret de <lb/>renoncer pour la rue de l'abreuvoir, à la modification proposée parce qu’elle est <abbr>suffist</abbr> <lb/>large ; 2º il insiste pour l'<abbr>élargt</abbr> de la ruelle du Secours qui est trop étroite ; 3º il maintient <lb/>sa proposition pour la ruelle de l'Égout et pour le <abbr>redresst</abbr> de la ruelle des Jardins qui n'est <lb/>pas alignée, enfin il insiste sur son observation relative à la ruelle des rondes et demande qu'on <lb/>ne construise pas en avancement rue des Anges et Place <abbr>St</abbr> Louis. En conséquence il est d'avis que ce <lb/>projet doit être renvoyé aux Autorités locales afin qu'il soit rectifié dans le sens des modifications <lb/>contenues dans le présent avis.</p>
+                        <p>Le Conseil après avoir examiné les plans d'<orig>alignemens</orig> de la Ville de Mouzon, <lb/>et entendu les explications verbales de <persName><abbr>M.</abbr> le Rapporteur</persName>, propose 1º quoiqu'à regret de <lb/>renoncer pour la rue de l'abreuvoir, à la modification proposée parce qu’elle est <abbr>suffist</abbr> <lb/>large ; 2º il insiste pour l'<abbr>élargt</abbr> de la ruelle du Secours qui est trop étroite ; 3º il maintient <lb/>sa proposition pour la ruelle de l'Égout et pour le <abbr>redresst</abbr> de la ruelle des Jardins qui n'est <lb/>pas alignée, enfin il insiste sur son observation relative à la ruelle des rondes et demande qu'on <lb/>ne construise pas en avancement rue des Anges et Place <abbr>St</abbr> Louis. En conséquence il est d'avis que ce <lb/>projet doit être renvoyé aux Autorités locales afin qu'il soit rectifié dans le sens des modifications <lb/>contenues dans le présent avis.</p>
                     </div>
                 </div>
                 <div type="case">
@@ -1790,7 +1789,7 @@
                     <label>Édifices diocésains de Cahors</label>
                     <label>488</label>
                     <div type="reoprt">
-                        <p><persName><abbr>M.</abbr> L'Inspecteur <abbr>Gnl</abbr></persName> fait remarquer qui les prix portés dans les devis relatif aux <lb/>Marchés d'entretien pour les couvertures des Édifices diocésains de Cahors, sont peut-être <lb/>un peu élevés, mais il pense que l'<abbr>adjudon</abbr> doit les reporter à leur juste valeur.</p>
+                        <p><persName><abbr>M.</abbr> L'Inspecteur <abbr>Gnl</abbr></persName> fait remarquer qui les prix portés dans les devis relatifs aux <lb/>Marchés d'entretien pour les couvertures des Édifices diocésains de Cahors, sont peut-être <lb/>un peu élevés, mais il pense que l'<abbr>adjudon</abbr> doit les reporter à leur juste valeur.</p>
                     </div>
                     <div type="advice">
                         <p>Le Conseil adopte l'avis de <persName><abbr>M.</abbr> l'Inspecteur <abbr>Gnl</abbr> de la <abbr>Compté</abbr></persName></p>
@@ -1802,7 +1801,7 @@
                     <label>Travail de <persName><abbr>M.</abbr> Harou-Romain</persName> plus 2 systèmes pénitenciers</label>
                     <label>489</label>
                     <div type="report">
-                        <p><persName><abbr>M.</abbr> Gourlier</persName> donne lecture du rapport de la Commission chargée d'examiner le travail de <persName><abbr>M.</abbr> Harou<lb/>-Romain architecte</persName>, relatif aux Maison <abbr>Cales</abbr> de détention de Fontevrault, Rennes, Mont <abbr>St.</abbr> Michel <lb/> et Beaulieu. La <abbr>Comon</abbr> présente diverses observations sur chacune des Maisons pour les quelles <persName><abbr>M.</abbr> Harou-Romain</persName> a rédigé des projets <abbr>suivt</abbr> les 2 systèmes. (voir la copie du rapport au Carton) <!--rapport au carton--></p>
+                        <p><persName><abbr>M.</abbr> Gourlier</persName> donne lecture du rapport de la Commission chargée d'examiner le travail de <persName><abbr>M.</abbr> Harou<lb/>-Romain architecte</persName>, relatif aux Maisons <abbr>Cales</abbr> de détention de Fontevrault, Rennes, Mont <abbr>St.</abbr> Michel <lb/> et Beaulieu. La <abbr>Comon</abbr> présente diverses observations sur chacune des Maisons pour lesquelles <persName><abbr>M.</abbr> <lb/>Harou-Romain</persName> a rédigé des projets <abbr>suivt</abbr> les 2 systèmes. (voir la copie du rapport au Carton) <!--rapport au carton--></p>
                     </div>
                     <div type="advice">
                         <head>Avis</head>
@@ -1819,7 +1818,6 @@
                 </closer>
             </div>
             
-            <!--je suis ici-->
             
             
             <!--partie Lena été 2021-->
