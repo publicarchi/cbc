@@ -1817,6 +1817,133 @@
                     <g ref="#gourlier"/>
                 </closer>
             </div>
+<!--            je suis ici-->
+            <div type="assembly">
+                <head>Séance du <date when="1839-03-14">14 mars 1839</date></head>
+                <div type="case">
+                    <label>Haute-Saône</label>
+                    <label><abbr>alignt</abbr> de Vesoul</label>
+                    <label>(490)</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Biet</persName></head>
+                        <p>Le plan est généralement satisfaisant en tout ce qui concerne les grandes voies, mais il <lb/>laisse à désirer à l'égard des rues les plus étroites, celle <abbr>cependt</abbr> où le besoin d'élargir <lb/>n'est pas moins impérieux pour la circulation que pour l'assainissement.</p>
+                        <p>Ainsi un grand nombre de ruelles ont été laissées à 2 ou 3 <abbr>m</abbr> de largeur ou plus <lb/>bien que plusieurs d'entre elles situées à peu de distance les unes des autres <unclear cert="low">forment</unclear> <lb/>des quartiers mal sains qui devraient être éclairées.</p>
+                        <p>Je vais les indiquer en passant les feuilles de l'atlas en revue.<list><item>Feuille 1<abbr>e</abbr> ruelle des <gap extent="1" unit="words"/> et impasse Pellot</item><item><abbr>Fe</abbr> 2<abbr>e</abbr> Impasse de l'ancienne charité.</item><item><abbr>Fe</abbr> 3<abbr>e</abbr> Ruelle Cuny</item><item><abbr>Fe</abbr> 7<abbr>e</abbr> Impasse Flavigny et derrière l'Église, partie de la rue du fort</item><item><abbr>Fe</abbr> 10<abbr>e</abbr> Impasse de l'angle noire</item><item><abbr>Fe</abbr> 13<abbr>e</abbr> <unclear cert="medium">Lev</unclear> <abbr>aligts</abbr> de la place de la maison de correction sont restés vagues. Il parait <lb/>nécessaire de les régulariser.</item></list></p>
+                        <p>Il serait à désirer que ces voies fussent autant que possible, élargies à 4 ou 5 <unclear cert="medium"><abbr>m</abbr></unclear> <lb/>à cela pris de cette observation le plan <abbr>gnl</abbr> de Vesoul m'a paru bien entendu et serait bientôt dans le cas de recevoir la sanction royale, si l'autorité locale se prononçait <unclear cert="medium">prochainement</unclear> <lb/>sur l'amélioration que je propose, laissant au surplus au Conseil à prononcer sur <gap extent="2" unit="words"/> <lb/>absolue.</p>
+                    </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Après avoir examiné les plans et pris connaissance de <abbr>documens</abbr> contenus au dossier <lb/>le Conseil approuve les observations de <persName><abbr>M.</abbr> le rapporteur</persName> ; de plus il fait remarquer que <unclear cert="medium">si la</unclear> <lb/>grande rue Basse n'est pas de grande voirie, il est nécessaire d'y supprimer un avancement <lb/>dont la saillie est nuisible à la circulation ; 2º Il ajoute que si l'on n'opère pas prochainement <lb/>les <orig>percemens</orig> projetés dans la rue serpente, il devient alors indispensable d'aligner <lb/>cette rue ; 3º Enfin il demande que la rue du Cimetière soit redressée à son débouché <lb/>dans la rue de préfecture et qu'un pan coupé soit établi dans la rue <unclear cert="medium">Dannvions</unclear>, ainsi que dans la rue du <unclear cert="medium">Presle</unclear>. En conséquence il est d'avis que ces plans doivent être <lb/>renvoyés pour qu'ils <unclear cert="high">soyent</unclear> modifiés dans le sens des indications contenues dans le <lb/>rapport et dans le présent avis.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Côté d'Or</label>
+                    <label>Plan d'<abbr>alignt</abbr> de Nuits</label>
+                    <label>(491)</label>
+                    <div type="advice">
+                        <p>Après avoir examiné les plans, entendu les explication verbales de <persName><abbr>M.</abbr> le <lb/>Rapporteur</persName> qui donne lecture des observations contenus dans un précédent <lb/><sic>rapporteur</sic> de <persName><abbr>M.</abbr> Caristie</persName> ainsi que des réponses du Conseil <abbr>Mal</abbr> de Nuits <lb/> Le Conseil est d'avis que ce projet d'<abbr>alignt</abbr> est susceptible de recevoir <lb/>l'approbation de <persName><abbr>M.</abbr> le Ministre</persName>.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Meuse</label>
+                    <label><abbr>conston</abbr> d'un abattoir à Verdun</label>
+                    <label>492</label>
+                    <div type="report">
+                        <p>Après avoir entendu le rapport verbal de <persName><abbr>M.</abbr> Biet</persName> qui rend compte des <lb/>diverses réponses faites par <persName><abbr>M.</abbr> le Maire de Verdun</persName> aux observations contenues <lb/>dans un rapport de <persName><abbr>M.</abbr> Grillon</persName> et dans un avis du Conseil le Conseil fait <lb/>observer que des explications données par <persName><abbr>M.</abbr> le Maire</persName> il résulte que le <lb/>projet d'abattoir dont il s'agit ne remplira qu'une faible partie du but <lb/>principal qu'on se propose des <orig>Établissemens</orig> de ce genre et dont la <unclear cert="medium">condition</unclear> <lb/>la plus importante est d'obvier au passage des bestiaux à travers l'intérieur <lb/>des villes.</p>
+                        <p>Le Conseil pense donc qu'en déclarant le projet admissible en égard su système dans lequel il a été conçu, il croit cependant devoir <unclear cert="high">avertir</unclear> <lb/><persName>Monsieur le Ministre</persName> de l'intérieur de l'inconvénient que ce projet <unclear cert="low">laisse</unclear> <lb/>subsister pour la sûreté publique ; disposition <orig>grâve</orig> qui pourrait tant <lb/>refuser le projet si <persName>Monsieur le Ministre</persName>, juge qu'il est obligation <lb/>d'y parer.</p>
+                        <!--est-ce l'avis du conseil?-->
+                    </div>
+                </div>
+                <pb/>
+                <fw>275</fw>
+                <div type="case">
+                    <label>Seine</label>
+                    <label><abbr>alignt</abbr> de la petite rue Taraune à Paris</label>
+                    <label>(493)</label>
+                    <div type="advice">
+                        <p>Après avoir entendu les explications verbales de <persName><abbr>M.</abbr> le Rapporteur</persName> et ayant examiné <lb/>le plan, le Conseil sans s'arrêter à la réclamation faite au sujet de cet alignement <lb/>est d'avis d'approuver la proposition faite par <persName><abbr>M.</abbr> le Préfet de la Seine</persName>, et tracé <lb/>au crayon sur le plan de la petite rue taraune.</p>
+                    </div>
+                </div>
+                <closer>
+                    <g ref="#blouet"/>
+                    <g ref="#biet"/>
+                    <g ref="#caristie"/>
+                    <g ref="#leclere">Le Secrétaire</g>
+                    <g ref="#rohault"/>
+                    <g ref="#gourlier"/>
+                </closer>
+            </div>
+            <div type="assembly">
+                <head>Séance du <date when="1839-03-18"> 18 mars 1839</date></head>
+                <div type="case">
+                    <label>Seine</label>
+                    <label>Observatoire de Paris</label>
+                    <label>494</label>
+                    <div type="report">
+                        <p><persName><abbr>M.</abbr> le Président</persName> décide que dans l'avenir les certificats de capacité <unclear cert="low">détinée</unclear> aux <abbr>Entreprs</abbr> <lb/>seront examinés par le Conseil des <abbr>Bts</abbr> et visés par lui.</p>
+                        <p>Il présente ensuite au nouvel examen du Conseil la question relative au mode de métrage <lb/>qu'il convient de suivre dans les affaires soumises à l'examen du bureau de contrôle. La <lb/>solution de cette question devant également s'appliquer à l'affaire dont il s'agit.</p>
+                        <p><persName><abbr>M.</abbr> l'<abbr>Insp</abbr> <abbr>Gnl</abbr> de la <abbr>Compté</abbr></persName> pense que l'on doit suivre le mode de métrage qui existe, <lb/>jusqu'à ce qu'on en ait adopté un autre qui aura du <abbr>préalablt</abbr> être soumis à un examen <unclear cert="high">soucieux</unclear> <lb/>et résulter d'un étude consciencieuse. Il ajoute que le travail présenté par <persName><abbr>M.</abbr> Guillemot</persName> sur les <lb/>devis de l'observatoire repose sur des bases qui n'ont pas été <abbr>suffist</abbr> étudiées, pour qu'il soit <lb/>convenable de l'approuver et pour ne par craindre devoir s'éloigner les bons Entrepreneurs <lb/>qui ne trouveront pas assez de garanties dans la marche qui a été suivie. <persName><abbr>M.</abbr> le Contrôleur</persName> <lb/>présente diverses observations, à l'appui des <abbr>changemens</abbr> qu'il a apportés au mode de <lb/>métrage adopté, pensant avoir sur certains points <unclear cert="high">completté</unclear> le système et remédié <lb/>à certains <orig>inconvéniens</orig> qu'il signale. Plusieurs de <abbr>M.</abbr> les Membres appuient <lb/>l'opnion de <persName><abbr>M.</abbr> l'<abbr>Inspr</abbr> <abbr>Gnl</abbr></persName> de la <abbr>Compté</abbr> et pensent que le mode de métrage <lb/><abbr>actuellt</abbr> en usage étant le résultat d'un travail long et difficile, il n'est pas prudent <lb/>d'approuver des <abbr>modifons</abbr> dont on n'a pu encore apprécier le mérite. Après discussions et ayant <lb/>été consulté par <persName><abbr>M.</abbr> le Président</persName>, le Conseil maintient son avis précédent, pensant qu'il <lb/>est convenable de continuer à suivre le mode de métrage adopté jusqu'à ce qu'un nouveau <lb/>système étudié et combiné ait été régulièrement approuvé.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Seine</label>
+                    <label><abbr>agrandt</abbr> du Ministère de l'<abbr>Inston</abbr> publique</label>
+                    <label>495</label>
+                    <div type="report">
+                        <p><persName><abbr>Mr.</abbr> Gisors</persName> présente son projet modifié dans ses dispositions et simplifié quant aux <lb/>façades des deux pavillons, il pense que les <orig>changemens</orig> qu'il a exécutés ont eu un <lb/>double résultat de convenance et d'économie. <persName><abbr>M.</abbr> le Président</persName> insiste pour que <lb/>le passage conduisant au jardin soit découvert, cette nouvelle disposition nécessitera de <lb/>diminuer la longueur des salles, et les dépendances seront alors éclairées par des jours <lb/>directs sous ce passage. Il est décidé que <persName><abbr>M.</abbr> l'architecte</persName> exécutera sur ses plans <lb/>la modification dont il s'agit.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Ardèche</label>
+                    <label><abbr>conston</abbr> d'un Palais de justice et Prison à Largentière</label>
+                    <label>496</label>
+                    <div type="report">
+                        <p><persName><abbr>M.</abbr> l'architecte</persName> présente à l'examen du Conseil diverses coupes du terrein choisi <lb/>par l'autorité pour la <abbr>conston</abbr> de ces deux Édifices ; il démontre la difficulté de placer <lb/>la prison autrement qu'il l'a indiqué dans son projet.</p>
+                        <p><persName><abbr>M.</abbr> Leclerc</persName> insiste sur l'<unclear cert="high"><abbr>inconrt</abbr></unclear> de superposer ainsi deux Édifices. <persName><abbr>M.</abbr> Blouet</persName> pense <lb/>qu'il est possible de conserver le projet toutefois en le modifiant, car il reconnaît <lb/>avec l'architecte qu'en séparant la prison du Palais de justice le chiffre de <lb/>la dépense pourrait s'augmenter. <persName><abbr>M.</abbr> Grillon</persName> demande que le périmètre <lb/>soit agrandi afin de faciliter la circulation de l'air après discussion et ayant <lb/>été consulté par <persName><abbr>M.</abbr> le Président</persName>, le Conseil pense qu'on peut admettre la <lb/>superposition de ces deux Édifices et invite <persName><abbr>Mr.</abbr> Blouet</persName> à communiquer les <lb/>diverses observations et modifications suivant lesquelles il est convenable <lb/>qu'il rectifie son projet.</p>
+                    </div>
+                </div>
+                <pb/>
+                <div type="case">
+                    <label>Drôme</label>
+                    <label><abbr>reston</abbr> des vitraux de la Cathédrale de Valence</label>
+                    <label>497</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Caristie</persName></head>
+                        <p>Le rapport de <persName><abbr>M.</abbr> le Chef de la division du Culte</persName> donnant sur les projets des explications détaillées <lb/>je prie le Conseil d'en entendre la lecture.</p>
+                        <p>L'examen que j'ai fait des divers projets n'a pu que me ranger à l'opinion qu'en avait eue <lb/><persName><abbr>M.</abbr> le Ministre</persName>. Le projet de <persName><abbr>M.</abbr> d'Espailly</persName> serait d'une faible exécution ; mais les vitraux projetés <lb/>ne me semblent pas étudiés dans le style de l'architecture de la Cathédrale de Valence.</p>
+                        <p>Le projet de <persName><abbr>M.</abbr> Arveuf</persName> est bien préférable sous le rapport du style. Il présente il est <gap extent="1" unit="words"/> des <lb/>difficultés et exécutions que les <abbr>modifons</abbr> introduites par <persName><abbr>M.</abbr> Thévenot</persName> <gap extent="1" unit="words"/> disparaître. <lb/>Le croquis présenté par ce dernier à l'appui de son engagement me semble bien <gap extent="1" unit="words"/> <lb/>pour faciliter l’exécution des vitraux.</p>
+                        <p>Je pense donc que sous le rapport du style et de la facilité de l’exécution, c'est au projet de <lb/><persName><abbr>M.</abbr> Arveuf</persName> modifié par <persName><abbr>M.</abbr> Thévenot</persName> ainsi qu'à l'<abbr>engagt</abbr> de cet artiste que <persName><abbr>M.</abbr> le Ministre</persName> <lb/>doit donner son approbation.</p>
+                    </div>
+                    <div type="advice">
+                        <head>Avis</head>
+                        <p>Après avoir examiné les divers projets présentés pour la <abbr>reston</abbr> des vitraux de la Cathédrale de <lb/>Valence et ayant entendu la lecture du rapport, le Conseil approuve les observations qui y son <lb/>contenues et est d'avis de proposer à <persName><abbr>M.</abbr> le Ministre</persName> l'adoption du projet de <persName><abbr>M.</abbr> Arveuf</persName> <lb/>modifié par <persName><abbr>M.</abbr> Thévenot</persName> auquel il pense devoir donner la préférence attendu qu'on <lb/>a supprimé les fonds blancs ; d'appeler l'attention de l'architecte sur la nécessité de <lb/>modifier le ton rouge qui prédomine trop et de l'engager à éviter les fonds unis.</p>
+                    </div>
+                </div>
+                <div type="case">
+                    <label>Seine</label>
+                    <label><abbr>agrandt</abbr> de l'Église des Batignolles</label>
+                    <label>498</label>
+                    <div type="report">
+                        <head>Rapport de <persName><abbr>M.</abbr> Rohault</persName></head>
+                        <p>L'Église des Batignolles construite il y a peu de <orig>tems</orig>, est déjà insuffisante pour la population <lb/> qui augment chaque jour. <persName><abbr>M.</abbr> <unclear cert="low">Seguey</unclear> <abbr>arche</abbr></persName>, a été chargé de faire un projet d'<abbr>agrandt</abbr> <lb/>qui put encore permettre une nouvelle extension dans quelques années.</p>
+                        <p>Je n'ai aucune observation à faire sur le plan <abbr>gnl</abbr> qui est donné par les <abbr>constons</abbr> existantes <lb/>et les <abbr>aligts</abbr> des rues.</p>
+                        <p>Le plan Nº2 (l'Église avec tout l'<abbr>accroisst</abbr> dont elle susceptible) me parait bien conçu <lb/>et sauf quelques détails dans le sanctuaire la sacristie et la chapelle du Catéchisme <lb/>il pourrait être adopt s'il s'agissait de l'exécuter dès à présent. <persName><abbr>Mr.</abbr> lequeux</persName> <lb/>m'a expliqué qu'il conservait les piliers de la nef, ne démolissant le mur qui les <lb/>réunit, parce que la construction actuelle est en <unclear cert="high">maclons</unclear> avec chaînes de pierre qui <lb/>peuvent sans être demandés fournir la matière des piliers.</p>
+                    </div>
+                    <div type="advice">
+                        <head></head>
+                        <p></p>
+                    </div>
+                </div>
+                <closer>
+                    <g ref="#blouet"/>
+                    <g ref="#biet"/>
+                    <g ref="#caristie"/>
+                    <g ref="#leclere"/>
+                    <g ref="#rohault"/>
+                    <g ref="#gourlier">Le Secrétaire</g>
+                </closer>
+            </div>
+            
             
             
             
