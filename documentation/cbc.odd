@@ -83,10 +83,11 @@
               <datatype minOccurs="1" maxOccurs="unbounded"> <text
                 xmlns="http://relaxng.org/ns/structure/1.0"/> </datatype>
               <valList mode="replace" type="closed">
-                <valItem ident="assembly"/>
-                <valItem ident="additional"/>
-                <valItem ident="case"/>
                 <valItem ident="advice"/>
+                <valItem ident="additional"/>
+                <valItem ident="assembly"/>
+                <valItem ident="case"/>
+                <valItem ident="report"/>
                 <valItem ident="signing"/>
                 <valItem ident="unknown"/>
               </valList>
