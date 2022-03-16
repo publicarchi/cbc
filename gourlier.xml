@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/cbc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription des procès-verbaux du Conseil des bâtiments civils, F/21/2534</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>none</publisher>
+        <date from="2016-11">de novembre 2016 à </date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales de France</institution>
+            <idno>FRAN/F/21/*/2470-...</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <docTitle>
+                <titlePart>Procès-verbaux du Conseil des bâtiments civils</titlePart>
+                <titlePart>Transcription des procès-verbaux des affaires du Gourlier</titlePart>
+              </docTitle>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- exemple -->
+      <!-- saut de ligne <lb/> -->
+      <!-- structure assembly / case / report | advice -->
+      <!-- abréviation <abbr></abbr> -->
+      <!-- peu clair <unclear/> -->
+      <!-- raccourcis : encadrer du texte par un élément CTRL+E, soft-wrap SHIFT + CTRL+Y -->
+      <div>
+        <head>F/21/2000</head>
+        <div type="assembly">
+          <head>Séance du <date when="1839-01-17">17 janvier 1839</date></head>
+          <gap/><!-- pour indiquer que du texte n’a pas été transcrit -->
+          <pb n="2"/><!-- indication de la pagination -->
+          <div type="case">
+            <label>Seine</label>
+            <label>Paris</label>
+            <label>Projet d’agrandissement du ministère des Travaux publics et du Commerce</label>
+            <label>380</label>
+            <div type="report">
+              <p><persName><abbr>M.</abbr> Rohault</persName> dépose ce projet sur le bureau et demande à <persName><abbr>M.</abbr>
+                <lb />l’architecte</persName> s’il ne serait pas convenable de supprimer les colonnes placées dans le <lb />passage et <persName><abbr>M.</abbr> Moreau</persName> reconnaît, qu’en effet, il y aura avantage à exécuter <lb />cette modification. Il fait ensuite connaître au conseil que l’entresol a été projeté <lb />afin d’éviter que le public ait à monter au-dessus de l’appartement de <persName><abbr>M.</abbr> le Directeur <lb />général</persName>, <persName><abbr>M.</abbr> le Président</persName> pense que cette disposition a l’inconvénient de détruire <lb />l’harmonie qu’il est convenable d’établir entre la façade projetée et celle qui existe, <lb />en conséquence il propose de placer les bureaux dans les bâtiments de la rue des <lb /><unclear
+                cert="low">Baronnies</unclear> et <unclear cert="low"
+                >donner <abbr>lad.</abbr> façade dans ceux</unclear> dont il s’agit que les appartements de réception <lb />et d’habitation particulière, ce parti permettrait que les dispositions architecturales <lb />de <expan>ladite</expan> façade actuelle dans celle que l’on se propose d’édifier fut plus <gap
+                extent="2" unit="words" /> <lb />celle de l’hôtel du Ministère.</p>
+              <p><persName><abbr>M.</abbr> l’architecte</persName> exprime la crainte que les constructions de la rue de <lb />Varennes ne soit pas assez solide pour supporter la charge d’une surélévation, <lb />et de plus il pense que cette disposition n’augmentera de beaucoup la dépense.<pb /> Un membre fait remarquer que la suppression de l’entresol, produirait une <lb />diminution de dépense qui pourra établir une compensation qui nécessairement <lb />diminuera l’augmentation signalée.</p>
+              <p><persName><abbr>M.</abbr> le Président</persName> examine de quelle manière le passage couvert devrait <lb />servir de communication entre le Ministère des travaux publics et celui de l’Intérieur <lb />pourrait être disposé.</p>
+              <p>Les explications données à ce sujet données par <persName><abbr>M.</abbr> l’architecte</persName> démontrent qu’il sera <lb />facile d’établir ce passage dont la nécessité est reconnue par <abbr>MM.</abbr> les membres.</p>
+              <p>Enfin, <persName><abbr>M.</abbr> le Président</persName> invite plusieurs de <abbr>M.</abbr> les membres à se rendre rue <lb />de Varennes afin d’examiner conjointement avec <persName><abbr>M.</abbr> Moreau</persName> si l’état actuel des <lb />constructions permet de les surélever, l’engageant <del>ensuite</del> à présenter ensuite au <lb />conseil l’état des dépenses que l’exécution de ce nouveau projet pourrait occasionner.</p>
+            </div>
+            <div type="advice"><p>Avis du conseil...</p></div>
+          </div>
+          
+          <div>
+            <head>F/21/2470</head>
+            <div type="assembly">
+              <head>Séance du <date when="1839-01-17">17 janvier 1839</date></head>
+            </div>
+          </div>
+          
+          
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
