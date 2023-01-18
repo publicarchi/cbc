@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/cbc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription des Procès-verbaux des séances du Conseil des bâtiments civils</title>
+        <title>Extrait pour les concours</title>
+        <editor>
+          <persName>
+            <forename>Emmanuel</forename>
+            <surname>Château-Dutier</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+        <publicationStmt>
+        <publisher>none</publisher>
+        <date from="2016-11">de novembre 2016 à </date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales de France</institution>
+            <idno>FRAN/F/21/*/25--</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <docTitle>
+                <titlePart>Procès-verbaux des séances du Conseil des bâtiments civils</titlePart>
+              </docTitle>
+            </msItem>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <!-- todo -->
+      </titlePage>
+    </front>
+    <body>
+      <gap/>
+      <div>
+        <!-- FRAN/F/21/2514 -->
+        <div type="assembly">
+          <head>Séance du samedi 23 août 1823</head>
+          <!-- https://www.siv.archives-nationales.culture.gouv.fr/siv/media/FRAN_IR_058868/batcivils_442/FRAN_0334_015228_L -->
+          <div type="case" ref="conbavil21995">
+            <pb facs="https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0334_015228_L-medium.jpg"></pb>
+            <div></div>
+          </div>
+        </div>
+        
+      </div>
+      <div>
+        <!-- F/21/2517 -->
+      <div type="assembly">
+        <head>Séance du <date when="1825-10-08">8 octobre 1825</date></head>
+        <!-- https://www.siv.archives-nationales.culture.gouv.fr/siv/media/FRAN_IR_058868/batcivils_468/FRAN_0334_016499_L
+ -->
+        <fw>183</fw>
+        <pb facs="https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0334_016499_L-medium.jpg"/>
+        <gap/>
+        <div type="case" ref="conbavil25254">
+          <label>N° 430</label>
+          <label>Nord</label>
+          <label>Const<hi rend="superscript">on</hi> d’un Palais de justice et maison <lb/>d’arrêt à Lille</label>
+          <label>Dépense 950 000 fr.</label>
+          <div type="report">
+            <head>Rapport de M. Gourlier</head>
+            <p>Les Autoritées locales étant d’un avis unanime sur la nécessité de faire cesser la manière déplorable <lb/>dont les prisonniers sont logés dans les prisons actuelles et les <abbr>trib<hi rend="superscript">x</hi></abbr> occupant d’ailleurs un édifice <lb/> dont la véritable destination appartient à la ville et pour lequel le <abbr>dép<hi rend="superscript">t</hi></abbr> a à lui payer un loyer <lb/>annuel assez considérable, il me semble qu’on ne peut qu’accueillir avec le plus vif intérêt la prop<hi rend="superscirpt">on</hi> de construire à un neuf un édifice destiné à réunir les divers Tribunaux et la Maison d’arrêt ainsi que <lb/>celle d’ouvrir un concours pour la composition du projet.</p>
+            <p>Mais plus cet intérêt est mérité, plus il est important de s’assurer d’avance que l’empl<hi rend="superscript">t</hi> proposé <lb/>est <abbr>convebab<hi rend="superscript">t</hi></abbr> et sainement situé et de grandeur suffisante.</p>
+            <p>Ce qui est dit aux pièces du dossier sur la situation de l’empl<hi rend="superscript">t</hi> dit du <unclear>Raspeck</unclear> donne à penser que <lb/>cet <abbr>empl<hi rend="superscript">t</hi></abbr> est <abbr>convenabl<hi rend="superscript">t</hi></abbr> choisi par rapport aux autres édifices publics et au surplus de la ville.</p>
+            <p>Quant à l’<gap extent="1" unit="word"/> disposition de cet <abbr>emplt</abbr> considéré en lui-même, elle est très <subst><orig>considérable</orig><add>convenable</add></subst> <lb/> <subst><orig>plusqu’il</orig><corr>puisqu’il</corr></subst> forme face sur un quai et qu’il serait isolé par des rues sur ses trois autres. <lb/> Sous le rapport de la salubrité il est probable que les Autorités locales se sont assurées que cet <abbr>emplt</abbr> <lb/>n'avait rien à craindre de la proximité de la rivière. Peut être <abbr>cependt</abbr> serait il nécessaire de provoquer <lb/>des <abbr>renseigts</abbr> précis à cet égard. Il est au moins présumable qu’il en résultera une dépense plus <lb/>considérable <abbr>pr</abbr> l’<abbr>établt</abbr> des fondations.</p>
+            <p>Mais un point par rapport auquel cet <abbr>emplt</abbr> laissera beaucoup à désirer est celui de <lb/>l’étendue. Je mets à ce sujet sous les yeux du Conseil un fragment du plan de la ville de Lille <lb/>que le Préfet a joint au dossier. Sa plus grande longueur sur le quai est de 92 m et encore, à ce <lb/>qu’il paraît en réduisant la largeur actuelle de la rue du Duc de bordeaux et sa largeur <lb/>moyenne de 56 m. J’observe qu’en maintenant même la rue du Duc de bordeaux à la largeur <lb/>à laquelle elle se trouve fixée par le plan, c’est ) dire à 8 m quoique cela soit peut être insuffisant <lb/>pour opérer un isolement convenable entre un Édifice de ce genre et des <sic>propriétés</sic> particulières, <lb/>il serait au moins indispensable 1° d’élargir <abbr>considérablt</abbr> la rue du Concert ; 2° et de redresser <lb/>la rue Comtesse de manière autant que possible à former un angle droit avec le quai. Il <lb/>résultera delà que cet <abbr>emplt</abbr> continedra une surface d’au plus 5 000 m carrés et j’avoue qu’il <lb/>me paraît à craindre qu’il soit assez difficile d’y disposer <abbr>convenablt</abbr> les divers <abbr>tribx</abbr> avec <lb/>leurs dépendances et la maison d’arrêt avec toutes les divisions requises de bâtimens <lb/>et de préaux et les chemins de ronde indispensable <abbr>pr</abbr> la sûreté de la prison.</p><p>Au surplus le meilleur moyen de savoir à quoi s’en tenir serait de rédiger un <lb/>programme précis et détaillé des diverses localités que devrait présenter l’Édifice <lb/>programme qui dans tous les cas devrait aux termes de l’<abbr>Inston</abbr> <abbr>Melle</abbr> du 18 juin 1813 <lb/>former la base du concours. Le rapport du Préfet au <abbr>Ceil gal</abbr> contient déjà les données <lb/><abbr>gales</abbr> de ce programme. Ce rapport fait mention <abbr>pr</abbr> la prison d’une population de 300 individus <pb facs="https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0334_016500_L-medium.jpg"/><fw>18</fw> Il est important de se rendre compte d’après les États de situation de <abbr>popon</abbr> des prisons de Lille <abbr>pendt</abbr> <lb/>un certain nombre des dernières années si cette quotité peut être regardée comme le maximum <lb/>présumable et quelles sont en outre les quotités partielles qu’il faut prendre <abbr>pr</abbr> bases à l’égard <lb/>des différentes divisions.</p>
+            <p>Quant au concours illimité que le <abbr>Ceil Mal</abbr> propose d’ouvrir <abbr>pr</abbr> la rédaction des projets et devis <lb/>ce moyen est sans doute le plus propre à assurer le choix d’une composition aussi parfaite que possible <lb/> mais il rend plus indispensable encore la rédaction préalable d’un programme bien circonstancié. <lb/>Il sera également nécessaire d’astreindre les <unclear>courrents</unclear> aux échelles commune et aux autres conditions <lb/>déterminées par l’<abbr>Inston Melle</abbr> du 28 octobre 1811 relative à la rédaction des projets et devis. Enfin <lb/>comme dans un concours illimité il ne serait pas impossible que le meilleur projet se <lb/>trouvât être l’œuvre d’un artiste moins au fait de la pratique que de la théorie, peut-être <lb/>serait-il prudent de l’exiger à cet égard quelques garanties de ceux des concurrens qui <lb/>n’en offriraient pas de suffisantes par leurs antécédents.</p>
+            <p>Je n'ai pas parlé jusqu’ici de l’esquisse jointe au rapport de <abbr>M.</abbr> le préfet. <abbr>Cependt</abbr> une note <lb/>écrite en tête de la lettre d’envoi prie le Conseil de donner son avis sur cette esquisse.</p>
+            <p>Tout ce que je crois pouvoir dire à cet égard, c’est que cette esquisse me parait propre <lb/>à confirmer mes craintes sur l’insuffisance de l’<abbr>emplt</abbr>.</p>
+            <p>Quant au mérite de cette esquisse, j'observerai que tout examen qui pourrait en <lb/>être fait me semblerait en contradiction avec l’intention d’ouvrir un concours, puisque <lb/>louer cette esquisse serait inspirer à son auteur une sécurité qui pourrait tourner contre <lb/>ses intérêts et la critiquer serait lui procurer un avantage anticipé sur ses concurrens <lb/>à venir. Je pense donc qu’il n’y a, quant à présent, aucun avis à émettre sur cette esquisse.</p>
+            <p>En résumé je pense que les propositions faites par les Autorités locales de la ville <lb/><abbr>relativt</abbr> à la <abbr>constron</abbr> d’un palais de justice et d’une maison d’arrêt, peuvent être adoptées <lb/>safu à recommander à leur sagesse les <abbr>obsons</abbr>contenues au présent rapport si elles sont <lb/>adoptées par le Conseil.</p>
+          </div>
+          <div type="advice">Adopté</div>
+        </div>
+        <div type="signing">Ant. de Feraudy, G. Gisors, Rohault, Mazois, Tournon. Ch. Gourlier.</div>
+      </div>
+      <pb/>
+      </div>
+      <div>
+        <!-- FRAN/F/21/2518 -->
+        <head>Séance du mardi 17 janvier 1826</head>
+        <!-- conbavil22188 -->
+        <fw>20</fw>
+        <pb facs="https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0334_016694_L-medium.jpg"/>
+        <div type="case" ref="conbavil22188">
+          <label>N° 16</label>
+          <label>Nord</label>
+          <label>programme <abbr>pr</abbr> un concours relatif à <lb/>un projet de Palais de justice et <lb/>maison d’arrêt à Lille</label>
+          <div type="report">
+            <head>Rapport de <abbr>M.</abbr> de Gourlier</head>
+            <p>Les <abbr>obsersons</abbr> contenues dans mon rapport du 8 <abbr>8br</abbr> <abbr>dr</abbr> ayant été communiquées à <abbr>M.</abbr> le Préfet <lb/>ce Magistrat, par une lettre adressée à <abbr>S. Ex.</abbr> fait connaître à l’égard des craintes que <lb/>j'avais manifestées sur l’insuffisance et sur l’insalubrité de l’<abbr>emplt</abbr> proposée, que <lb/>cet <abbr>emplt</abbr> a été reconnu <abbr>parft</abbr> suffisant et très salubre et il transmet le <abbr>progr</abbr> <lb/>qu’il a rédigé et dans leqeul il croit avoir satisfait à toutes les <abbr>ddes</abbr> du Conseil.</p>
+            <p>Ce <abbr>progr</abbr> est en effet rédigé en général d’une manière très satisfaisante ainsi que je <lb/>pense que le <abbr>Ceil</abbr> le reconnaitra par la lecture que je crois nécessaire de lui donner.</p>
+            <p>Les seules <abbr>obsons</abbr> dont cette pièce me paraît susceptible sont les suivantes : <lb/>1° la population de la prison y est fixée à 300 individus, quoique dans sa lettre le <lb/>Préfet établisse qu’elle ne sera en tems ordinaire que de 150 à 200 individus. Il me <lb/>parait nécessaire d’examiner à fond la question de savoir s’il n’y avait pas lieu à <lb/>réduire le nombre de 300 fixé par le <abbr>proge</abbr>. Si cette réduction est sans <abbr>inconvt</abbr> elle <lb/>me paraît d’autant plus devoir être faite qu’il en résultera une diminution dans les dépenses et qu’elle donnera plus de facilités de se renfermer dans l’espace toujours <lb/>circonscrit, à mon avis de l’emplacement ;  2°. Les plans coupes et élévations ne <lb/>sont demandées que sur une échelle de 5 millimètres tandis que les <abbr>Instron Melles</abbr> demandent <lb/>cette échelle d’un centimètre. Peut être <abbr>cependt</abbr> l’échelle de 5 <abbr>mill.</abbr> pourra obtenir <lb/>la préférence de produire <abbr>pr</abbr> l’<abbr>exen</abbr> du plan à 1 <abbr>cent.</abbr> <abbr>pr</abbr> mètre. <lb/>3° enfin, Il est dit que les honoraires <abbr>pr</abbr> l’<abbr>exen</abbr> du projet préféré ainsi que les sommes <lb/>affectées pour primes en faveur des 3 projets jugés les meilleurs après celui-ci seront <lb/>à la charge de l’<abbr>entrepr</abbr> des <abbr>travx</abbr>. Comme en définitif l’<abbr>admon</abbr> ne gagnerait rien <lb/> à cette mesure puisque les concurrens à l’<abbr>adjudon</abbr> diminueraient leur rabais <pb facs="https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0334_016695_L-medium.jpg"/><fw>21</fw> en conséquence et qu’il est convenable que les Artistes employés par l’<abbr>admon</abbr> soient payés <lb/>directement par elle et non par l’intermédiaire de ces <abbr>entreprs</abbr>. Je pense que cette caluse <lb/>doit être supprimée. Sauf ces <abbr>obsons</abbr> je pense que le <abbr>progr</abbr> doit être approuvé.</p>
+          </div>
+          <div type="advice">
+            <p>Avis. Le Conseil adopte le rapport en insistant sur la <abbr>propon</abbr> de réduire autant que <lb/>possible le <unclear>quantième</unclear> de la population à cause du peu d’ëtendue de l’emplacement. <lb/>Il croit en outre, qu’il est nécessaire d’exiger les dessins du concours sur l’échelle d’un <lb/>centimètre par mètre.</p>
+          </div>
+        </div>
+        <div type="signing"><p>Ant de Feraudy, Mazois, Rohault, Tournon, Ch. Gourlier</p></div>
+      </div>
+      <gap/>
+      <div>
+        <gap/>
+        <pb facs="https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0334_017557_L-medium.jpg"/><fw>46</fw>
+        <head>Séance du mardi 12 juin 1827</head>
+        <!-- FRAN/F/21/2520 -->
+        <div type="case" ref="conbavil16099">
+          <label>238</label>
+          <label>Nord</label>
+          <label>Palais de Justice et maison <lb/>d’arrêt à Lille</label>
+          <label>Concours public</label>
+          <div type="report">
+            <head>Rapport d’une commission composée des 4 Rapporteurs du Conseil</head>
+            <p>Le Conseil <abbr>gal</abbr> du <abbr>dépt</abbr> du Nord a mis en concours public la composition d’un projet de Palais de justice <lb />et de maison d’arrêt attenante, pour la ville de Lille. Les projets des concurrens doivent être examinés et <lb />jugés par le Conseil. À cet effet, un programme a été imprimé et publié. 20 projets ont été envoyés <lb />par leurs Auteurs à la préfecture du Nord ; 14 seulement avait d’abord été transmis au <abbr>Mtère</abbr> par le Préfet. <lb />Ce Magistrat ayant cru devoir en éliminer 6 qui lui avaient paru évidemment defecteux et inadmissibles.</p>
+            <p>Dans sa lettre d’envoi le préfet annonce qu’il a procédé lui même de cocnert avec les Présidents des <abbr>tribx</abbr>
+              <lb />et le Procureur du Roi réunis en commission à un 1er examen et que les <abbr>obsons</abbr> auxquelles les projets ont <lb />donné lieu ont été consignées en un rapport analytique qui est joint au dossier, et qu’il considère comme susceptible de faciliter le travail du Conseil. Dans cette notice, cette Commission s’est étendue particulièrement <lb />sur la description du projet n° 1 auquel elle donne manifestement la préférence et qu’elle regarde comme <lb />le seul qui satisfasse complettement aux convenances, aux besoins du service et aux conditions du programme. <lb />Les remarques sur les autres projets bien que judicieuses pour la plûpart sont <abbr>cependt</abbr> moins nombreuses <lb />et n’émettent du reste aucune opinion sur l’ordre de mérite de ces 13 autres projets.</p>
+            <p>C’est d’abord de ce 1er examen que nous aurons à rendre compte au Conseil ; nous y joindrons <lb />nos <abbr>obsons</abbr> particulières avec le <abbr>développt</abbr> de notre opinion sur les projets et nous aurons l’honneur de <lb />lui soumettre le résultat de notre travail sur le tout mais de plus sur notre rapport préparatoire <lb />en date du 10 avril le <abbr>Cil</abbr> ayant prié <abbr>S. Ex.</abbr> d’observer qu’il semblait nécessaire d’engager le Préfet <lb />à envoyer les projets qui avaient été élminés, ces projets ont également été adressés au Conseil et <lb />nous en avons en <abbr>conséqce</abbr> fait l’examen.</p>
+            <p>La décision du Conseil <abbr>gal</abbr> porte que pour dédommager ceux des artistes dont les ouvrages auront été <lb/>jugés les meilleurs après celui préféré, il sera accordé trois primes, l’une de 3 000 <abbr>fr</abbr>, la 2e de <lb/> 2 000 <abbr>fr</abbr> et la 3e de 1 000 <abbr>fr</abbr> qui seront décernées dans l’ordre de mérite qui aura été assigné entre <lb/>les projets. L’<abbr>admon</abbr> se réserve néanmoins la faculté de confier la direction des travaux à tel <lb/>architecte qu’elle jugera à propos de désigner ; dans ce cas l’auteur du projet préféré recevra pour le prix <lb/>de ses projets une <abbr>soe</abbr> fixe de 15 000 <abbr>fr</abbr> qui sera prélevée sur le 20e du prix de l’<abbr>adjudon</abbr>.</p>
+            <p>Avant d’entrer en matière nous croyons devoir dire un mot de la marche que nous avons <lb />suivie dans nos opérations. Premièrement, par esprit de <unclear>mode</unclear> et pour procéder de front avec <lb />le rapport de la <abbr>Comon</abbr>, nous avons adopté le même ordre par N° selon ce qu’il ont marqué <lb />sur les projets, puis les programme à la main nous avons passé en revue les légendes, qui accompagnent <lb />les dessins, et nous avons consigné dans nos notes soit les écarts soit les <abbr>modifon</abbr> que les concurrens <lb /> ont apporté dans l’<abbr>obson</abbr> des conditions du programme. Nous nous sommes attachés à reconnaître <lb />le motif <abbr>ppal</abbr> qui a guidé ou influencé chaque concurrent dans l’esprit de sa composition et nous <lb />en avons déduit le dégré de mérite qui établit ses prétentions aux divers prix que le Conseil est <lb />appelé à décerner.</p>
+            <p>Le <abbr>projr</abbr> ayant été dans le temps discuté par le Conseil et des exemplaires <pb/><fw>47</fw> imprimés en ayant d’ailleurs été distribués, nous croyons pouvoir nous dispenser d’en donner lecture et nous <lb/>allons passer immédiatement à l’examen particulier des différens projets. Pour completter l’instruction <lb/>de l’affaire nous donner lecture au Conseil avant de lui parler de chacun des 14 premiers projets des <abbr>obson</abbr> de la <unclear>localité</unclear>.</p>
+          </div>
+          <div>
+            <head>N° 1</head>
+            <label>Épigraphe</label>
+            <label xml:lang="lat" cert="low">circumretit vis atque injuria <lb/>quetuque, atque inde ex nota est <lb/>ab cum plerunique rerestit</label>
+            <p>Nous nous empressons d’accéder à ce que la <abbr>Comon</abbr> de Lille a trouvé de remarquable et de bien pensé dans <lb/>la portion de ce projet qui concerne le Palais de justice, ainsi que dans le bon parti que l’auteur a tiré du soubassement de l’édifice. Toutefois nous accompagnons nos <abbr>observons</abbr> des remarques suivantes.</p>
+            <p>L’Auteur a pris en dehors de l’<abbr>aligt</abbr> le porche et les saillies d’avant-corps de ses façades dans le <abbr>développt</abbr> des <lb /><abbr>distons</abbr> intérieures, nous pensons que s’il s’était renfermé exactement dans le périmètre du terrein sans <lb /><abbr>modifons</abbr> des proportions du plan, plusieurs localités importantes et notamment les 4 grandes salles qui <lb />telles qu’elles sont, n’ont en largeur que des dimensions assez restreintes auraient été insuffisantes <lb />à raison du parti que l’<abbr>arche</abbr> a adopté de placer le grand axe de ces salles dans le sens de la magistrale <lb />du terrein cette combinaison a son mérite dans le système d’<abbr>arrangt</abbr> du plan, mais elle a forcé <lb />l’auteur à employer une superficie considérable <abbr>pr</abbr> l’<abbr>établt</abbr> du Palais de justice et l’a jetté dans une <lb />conception plus étendue que l’exiguité de l’espace ne le comportait et qui, manquerait son effet, <lb />si elle devait être exécutée dans les dimensions exactes que le terrein peu lui donner.</p>
+            <p>Toute considerant que cette dérogation au <abbr>progr</abbr> n’existe que dans une portion de la largeur de <lb />l’Édifice ; qu’elle n’a pour objet qu’une partie accessoire de la composition qu’ainsi que nous le <lb />ferons remarquer par la suite ; que presque tous les projets sont d’ailleurs plus ou moins dans le <lb />même cas ; qu’il parait naturel et excusable que les concurrens ne pouvant disposer que d’un <abbr>emplt</abbr>
+              <lb />très restreint, aient regardé comme permis de prendre <unclear>hos</unclear> du périmètre les saillies architecturales qu’ils <lb />ont cru devoir employer dans la vue d’imposer à leurs compositions le caractère monumental que <lb />réclamait leur destination ; nous n’avons aucunement pensé que cette dérogation put entrainer <lb />la mise hors de concours des projets dans lesquels elle existe. Cette <abbr>obson</abbr> étant donc commune <lb />aux projets qui nous occupe maintenant ainsi qu’à ceux d’entre les projets dont nous aurons <lb />à parler ci-après qui se trouvent plus ou moins dans le même cas, nous nous bornerons à signaler pour l’instruction du Conseil ce qu’il en est à cet égard pour chacun d’eux.</p>
+            <p>Les distributions du Palais et le système de circulation sont généralement bien entendus dans ce <lb />projet et conformes aux données du <abbr>progr</abbr>, <abbr>cependt</abbr> quelques localités auraient besoin d’être améliorer <lb />ainsi par exemple ; la chambre de discipline des Notaires, devant servir aux criées est trop exiguë <lb />la bibliothèque placée au rez de chaussée est trop eloignée des salles avec lesquelles elle pourrait être <lb />en rapport ; le <abbr>progr</abbr> laissait à la vérité la liberté de la mettre au rez de chaussée ou au 1er étage, <lb />il nous semble qu’il aurait mieux valu profiter de la dernière faculté afin qu’elle se trouvât plus <lb />à portée des membres de la Cour, qui sont les plus fréquemment dans le cas de la consulter. On <lb />pourrait à cet effet faire usage de l’une des doubles salles de <abbr>délibon</abbr> que l’auteur a données <lb />à chacune des salles d’audience et dont une seulement était exigible aux termes du <abbr>progr</abbr>.</p>
+            <pb/><fw>48</fw>
+            <p>Les archives du Commerce et celles de la police sont obscures ; il en est de même du garde meuble ; les <lb/>escaliers de service ne seraient pas éclairés. Ces défauts tiennent à ce que l’auteur a jugé que des jours <lb/>secondaires suffiraient à ces pièces qu’il n’a point voulu pratiquer de croisées d’entresol sur la <lb/>façade pour n’en point altérer le caractère monumental. Nous ne pensons pas cependant qu’on <lb/>doive persévérer dans cet inconvénient.</p>
+            <p>Nous devons faire remarquer que les jours verticaux qui éclairent les grandes salles sont trop elevés au <lb/>dessus du sol et ne seraient pas assez grands pour procurer une quantité suffisante d’air et de lumière <lb/>dans les jours d’affluence.</p>
+            <p>On connait aussi la difficulté de faire mouvoir aisément des chassis vitrés ainsi elevés, il est à regretter <lb/>que l’auteur n’ai pas préféré pratiquer de grandes croisées à grands ventaux selon l’usage ordinaire ; le dessin <lb/> de la coupe nous fait voir que cette amélioration est praticable à l’égard des <abbr>gdes</abbr> salles d’audience, au moins du <lb/> côté de ces salles qui donne sur une cour. Bien que la nécessité de cette <abbr>modifon</abbr> ne soit pas aussi absolue <lb/>pour les deux autres salles, il n’en sera pas mois regrettable qu’on ne puisse l’effectuer, si ce n’est en fer <lb/>une tranchée dans le comble, parti extrème auquel la nature du climat de Lille, forcera <abbr>probablt</abbr> d’avoir reconnu.</p>
+            <p>Nous ne partagerons pas l’avis de la <abbr>Comon</abbr> en ce qui a rapport aux prisons ; nous trouvons que cette partie <lb/>du projet est tout à fait inadmissible à cause de la disproportion entre la superficie des cours et celle <lb/>des <abbr>constons</abbr>dont la hauteur des <abbr>bât</abbr>, intercepterait de toutes parts, l’air et la lumière dans les quartiers, <lb/>les préaux seraient des puits où les <abbr>divons</abbr> indiquées sur le plan, seraient impraticables, à moins que <lb/>d’exposer la santé des détenus à tous les <abbr>inconvts</abbr> des lieux mal sains et mal éclairés.</p>
+            <p>C’est à raison de l’exiguité dans cette partie du projet tout à fait sacrifié au Palais de justice que <lb/>doit paraître mieux fondé le reproche que nous avons adressé à l’auteur d’un excès de grandiose dans <lb/>la <abbr>diston</abbr> des <abbr>tribx</abbr> et qui l’a porté à faire l’inverse de ce que la nature de l’<abbr>emplt</abbr> comportait, <abbr>c.à.d.</abbr> <lb/>de consacrer trop d’espace au Palais et trop peu aux prisons.</p>
+            <p>Aussi restreint qu’il était par l’espace dans lequel il s’est renfermé, nous avons été surpris que l’auteur <lb/>ait pensé à placer en avant des dortoirs qui longent les rues Comtese et duc de bordeaux, des sortes de <lb/>galeries qui les séparent des cours et qui sont telles que les prisonniers ne recevraient plus que des jours<lb/> secondaires ; nous croyons que si ces passages doivent exister, les trumeaux intérieurs doivent être réduits <lb/>à des piliers de la plus faible dimension possible et être réunis entr’eux par des clotures à jours, <lb/>comme des grilles. La même <abbr>obson</abbr> doit avoir lieu, avec insistance particulière pour les cachots dont<lb/>la position à rez-de-chaussée rendrait cette localité encore plus insalubre, à défaut d’<abbr>emplt</abbr> convenable <lb/>on aurait du essayer de les mettre dans les combles.</p>
+            <p>Les escaliers des quartiers sont totalement obscure et ne peut pas même être <abbr>convenablt</abbr> éclairés.</p>
+            <p>Le reserrement d’espace et le défaut d’air se font principalement sentir avec désavantage <lb/>dans le quartier destiné aux infirmeries. L’auteur a cherché au moyen de ponts en fer formant <lb/>balcons de suplléer à l’exiguité ; cette invention bien qu’ingénieuse n’obvie point au vice capital.</p>
+            <p>La lingerie de l’infirmerie devrait être plus à proximité de la buanderie, qu’on ne l’a fait.</p>
+            <pb/><fw>49</fw>
+            <!-- FRAN_0334_017560_L-medium  -->
+            <p>Le style d’architecture est généralement de bon goût et de bon choix dans toutes les parties du projet. <lb/>On y reconnait l’œuvre d’un talent distingué et versé dans la connoissance des principes de l’art. <lb/>La façade a un caractère palatial bien prononcé. On regrette <abbr>cependt</abbr> que l’auteur, pour obtenir des<lb/>régularités intérieures, dans des pièces où, le besoin de distributions partielles fera bientôt disparaître <lb/>cet avantage, ait rompu si non la symétrie, du moins l'uniformité des espacemens des croisées et <lb/>diminué ainsi l’aspect d’unité et de simplicité qui constituent le caractère monumental. C’est <lb/>dans le même esprit que nous aurions désiré que l’auteur fut moins prodigue de ressauts, d’avant-corps <lb/>de variétée de corniches et de motifs d’ornemens dont l’utilité n’est pas indispensable et qui nuisent <lb/>au caractère de sévérité qui convient à l’Édifice dont il s’agit.</p>
+            <p>Le devis produit par l’auteur est succintement rédigé, les mesurages y sont établis pour la <lb/>plupart en masse et l’on ne voit pas qu’on y ait fait déduction des bayes <abbr>etc.</abbr></p>
+            <p>Il se monte à 1 600 000 fr. On indique à la fin divers moyens de réduire la dépense à 1 348 038 fr <lb/>qui sont de nature à être pris en considération.</p>
+          </div>
+          <div>
+            <label>N° 2</label>
+            <label>Par MM. Lepreux et Philippon</label>
+            <p>Nous n’admettons pas entièrement et la critique de la <abbr>Comon</abbr> concernant le grand escalier <abbr>ppal</abbr> ; nous pensons que <lb/>cette donnée combinée avec celle d’une entrée particulière pour les tribunaux secondaires de commerce et de police <lb/> pouvait donner lieu à une disposition judicieuse, commode et de grand effet ; malheureusement les <abbr>arrangts</abbr> du plan ne répondent pas, à ce que, cette 1re pensée a d’heureux, l’auteur s’est embarassé dans une complication <lb/>de <abbr>conston</abbr> d’où résulte un défaut d’air et de jour et une exiguité génante dans la plupart des localités <lb/> sans moyen d’y remédier. Il a employé en corridors, salles d’attente et vestibules des espaces dont il <lb/>aurait pu accroître les pièces de service et les cours qui devaient les éclairer.</p>
+            <p>Nous convenons bien que la <abbr>diston</abbr> satisfait généralement aux indications du <abbr>progr</abbr>, mais ce résultat <lb/>n’est obtenu qu’avec des dimensions restreintes qui rendraient la plupart des pièces impropres à leurs <lb/>destination notamment la salle des avocats, celle des référés et les dépendances des deux <abbr>gdes</abbr> salles <lb/>et par une difficulté de circulation qui rendrait les communications incommodes et quelques une impraticables <lb/>comme on le remarque à l’égard des dépendances des <abbr>tribx</abbr> de Commerce et de police.</p>
+            <p>Le Concièrge n’est point plcaé <abbr>convenablt</abbr> pour la nature de son service.</p>
+            <p>Plus encore que dans le projet précédent, l’auteur de celui-ci a donné au Palais de justice une superficie <lb/>trop considérable, comparée à celle des prisons ; il en résulte que cette dernière partie du projet présenté avec  plus <lb/>d’<abbr>inconvts</abbr> encore, les mêmes défauts d’espace que nous avons reproché au N° 1 ; bien que dans le projet <lb/>que vous nous examinons, les dortoirs des prisonniers soient des <abbr>bât</abbr> simples sans corridors intérieurs, les faibles <lb/>dimensions des préaux ne leur procureraient pas une masse suffisante d’air et de lumière.</p>
+            <p>Le corridor de ronde est trop étroit. Les substructions de l’Édifice sont considérables ; elles seraient d’une <lb/><abbr>exon</abbr> dispendieuse d’autant plus regrettable que l’auteur n’a point songé à en tier parti pour l’utilité <lb/>du service de l’<abbr>établt</abbr>.</p>
+            <p>L’architecture du projet est <abbr>généralt</abbr> bien traitée et de bon goût, mais ce <lb/>n’est qu’intérieurement qu’elle est bien appropriée aux besoins de l’Édifice, car à l’extérieur nous <lb/>ne saurions admettre l’excès de sévérité que l’<abbr>archt</abbr> a donné à sa façade, par la privation complète <pb/><!-- FRAN_0334_017561_L-medium --><fw>50</fw>d’ouvertures de croisées, à l’imitation de quelques Édifices de l’antiquité. Nous pensons que cette manière <lb/>de oir n’est point applicable à nos usages ni à nos climats, elle auroit à Lille, l’<abbr>inconvt</abbr> d’enlever <lb/>à l’Édifice qui est situé sur le bord d’une rivière, ses vues les plus intéressantes.</p>
+            <p>Le devis est extrêmement succint, il s’ëlève à la <abbr>soe</abbr> de 1 789 606 77 fr. (dans ce projet la totalité du porche <lb/><del quantity="3" unit="words"/>se trouve hors du terrein donné.</p>
+          </div>
+          <div>
+            <label>N° 3</label>
+            <label>Par Mr Dedreux, architecte <lb/>du gouvernement</label>
+            <p>Le plan de masse de ce projet présenté au 1er aspect une disposition symétrique que l’on aime <abbr>généralt</abbr> <lb/>à rencontrer dans les Édifices publics mais à l’examen des détails on s’apperçoit que l’auetur en se <lb/>livrant cette à cette 1ère intention a trop négligé les <abbr>ppales</abbr> données du programme.</p>
+            <p><abbr>Indépendt</abbr> de l’egalité de 4 grandes salles, vice signalé par la <abbr>Comon</abbr> et selon nous capital, comme <lb/>éminemment contraire à l’esprit du programme qui, bien qu’il n’ait pas précisé exactement les dimensions <lb/>relatives de chacune d’elles, a laissé voir <abbr>cependt</abbr> que deux d’entr’elles devraient dominer sur les deux autres. <lb/>Nous ferons remarquer des infractions nombreuses aux <abbr>distons</abbr> demandées pour le service.</p>
+            <p>Les salles de <abbr>délibon</abbr> n’ont point de vestiaire ; les antichambres pourraient à la rigueur en servir, mais <lb/>on y verrait pas clair. Les aisances sont mal placées on ne pourrait leur donner d’air. Les salles <lb/>des référés, celle <abbr>pr</abbr> le rapport des affaires criminelles sont à trop grande distance des sections auxquelles <lb/>elles appartiennent. Il n’y a point de salles d’avoués ; point de cabinets <del quantity="1" unit="words" /> de témoins près les <lb/>chambres d’instruction, <abbr>etc</abbr><abbr>etc</abbr>.</p>
+            <lb/>
+            <p>L’égalité des pièces, la monotone de leurs dimensions, l’affectation de la symétrie entre les <gap quantity="1" unit="words" reason="illegible"></gap><lb/>correspondantes, lors même que ces localités doivent avoir des usages différens, dénotent dans ce <lb/>projet que l’auteur n’a point approfondi <abbr>scrupuleust</abbr> les convenances du service et qu’il n’a point <lb/>surmonté les difficultés d’<abbr>arrangt</abbr> partiels peut être appropriées à leurs destination.</p>
+            <p>Le même défaut d’étude se fait remarquer dans la composition des prisons ; tout est sacrifié à la <lb/>régularité d’une combinaison de lignes, nullement applicable à la circonstance. Le parti de longs dortoirs <lb/> égaux et accolés est inadmissible par le motif qu’il ne se prêterait pas <abbr>couvenablt</abbr> au classement des <lb/>prisonniers par nature de délits et en proportion des populations ; qu’il ne serait point favorable à <lb/>la surveillance et qu’il aruait des <abbr>inconts</abbr> graves pour la sâlubrité.</p>
+            <p>La chapelle dont le motif en lui-même n’est pas dénuée de mérite n’est point combinée commodément <lb/>pour l’isolement des prisonniers. L’emploi de deux ordres sur la façade s’éloigne du caractère que <lb/>devrait avoir l’Édifice : L’ordonnnace architecturale des prisons a de la prétention au caractère <lb/>sans l’obtenir, elle nous paraît dépourvue de style véritable. Nous devons <abbr>cependt</abbr> cette <lb/>justice à l’auteur qu’îl a senti que la partie du projet destinée aux détenus devait l’emporter en <lb/>superficie sur les localités du tribunal. Il est facheux qu’que l’examen <abbr>précédt</abbr> me force à ne point <lb/>tenir compte de ce que cette circonstance pourrait avoir de favorable au projet.</p>
+            <p>Le Devis est très détaillé, il est accompagné d’un cahier des charges, il s’élève à 1 894 503 fr. 63 c.</p>
+          </div>
+          <div>
+            <label>N° 4</label>
+            <label>Vôtre goût a servi de règle à mon <lb/>ouvrage. J'ai tenté les moyens <lb/>d’acquérir son suffrage. <lb/>(La fontaine, live 5)</label>
+            <p>Ce projet est exactement renfermé dans le terrein.</p>
+            <p>La <abbr>Comon</abbr> de Lille a fait reproche à ce projet d’avoir disposé en caves, une partie considérable du rez <pb/><!-- FRAN_0334_017562_L-medium --><fw>51</fw> de chaussée et d n’”avoir point divisé le grand vestibule qu’on y a pratiqué ; Nous trouvons que ce reproche ne serait fondé <lb/>qu’autant que l’auteur n’aurait pas trouvé le moyen de placer toute les localités demandées, mais comme il y est parvenu <lb/>nous pensons qu’il a eu raison de ménager les substructions en formant immédiatement des caves sous les <abbr>gdes</abbr> salles. <lb/>Il y a économie dans ce parti. Nous ne voyons à rectifier dans le rez de chaussée que le placement du concièrge <lb/>de manière à lui faciliter la surveillance immédiate sur l’entrée.</p>
+            <p>La <abbr>Comon</abbr> a observé avec raison que l’auteur  ne s’était point renfermé dans les données du <abbr>pror</abbr> en s’affranchissant <lb />de la condition de séparer entièrement le Palais de justice des prisons par une cour de service interposée entre les <lb />deux Édifices et </p>
+          </div>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
