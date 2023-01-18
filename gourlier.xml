@@ -44,6 +44,7 @@
       <!-- abréviation <abbr></abbr> -->
       <!-- peu clair <unclear/> -->
       <!-- raccourcis : encadrer du texte par un élément CTRL+E, soft-wrap SHIFT + CTRL+Y -->
+      <!--  <gap reason="illegible" quantity="2" unit="words"/> -->
       <div>
         <head>F/21/2000</head>
         <div type="assembly">
@@ -72,11 +73,11 @@
           <div>
             <head>F/21/2470</head>
             <div type="assembly">
-              <head>Séance du <date when="1796-04-07">07 avril 1796</date></head>
+              <head>Séance du <date when="1796-04-07">7 avril 1796</date></head>
               <gap/>
               <pb n="56" facs="https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/FRAN_0334_000064_L-medium.jpg"/>
               <div type="case">
-                <label>155.</label>
+                <label>155</label>
                 <label>Mâcon</label>
                 <label>Démolition de la cidevant église de <abbr>S.</abbr> Vincent de Mâcon</label>
                 <div type="report">
@@ -86,13 +87,18 @@
                     
                     2. Par la considération de frais considérables qui entrainerait sa réparation, <lb /> laquelle reprodurait pour encore l'effet qu'on pourrait en attendre ; cet édifice qui croule <lb /> de vetusté et qui est bâti sur un mauvais terrain n'étant par de nature à être réparé. <lb /> 
                     
-                    3. Par le concours de pièces qui établissent l'urgence de cette démolition et <lb /> notamment, par le rapport de l'ingénieur en chef de ce département, qui certifie tout ce <lb /> qui vient d'être relaté, en ajoutant que cette église n'offre rien, relativement aux autres, qui soit <lb /> digne d'être conservé, et que les matériaux qui en proviendront suffiront et <unclear>au-delà</unclear> pour en <lb /> payer la démolition. <lb /> D'après ces consédirations le <abbr>Cère</abbr> <persName>Chalgrin</persName> précise qu'il est aussi <unclear>urgent</unclear> <lb /> que nécessaire d'ordonner la démolition de ce vieil édifice ; et relativement à la <lb /> construction d'un nouveau temple demandé par l'administration départementale pour <lb /> la célébration des fêtes décadaires, le <abbr>Cère</abbr> <persName>Chalgrin</persName> pense qu'il est impossible de rien <lb /> statuer sur ce projet que préalablement les plans en devis n'ayant été <unclear>cuir</unclear>sous les <lb /> yeux du conseil. </p> 
+                    3. Par le concours de pièces qui établissent l'urgence de cette démolition et <lb /> notamment, par le rapport de l'ingénieur en chef de ce département, qui certifie tout ce <lb /> qui vient d'être relaté, en ajoutant que cette église n'offre rien, relativement aux autres, qui soit <lb /> digne d'être conservé, et que les matériaux qui en proviendront suffiront et <unclear>au-delà</unclear> pour en <lb /> payer la démolition. <lb /> D'après ces considérations le <abbr>Cère</abbr> <persName>Chalgrin</persName> précise qu'il est aussi <unclear>urgent</unclear> <lb /> que nécessaire d'ordonner la démolition de ce vieil édifice ; et relativement à la <lb /> construction d'un nouveau temple demandé par l'administration départementale pour <lb /> la célébration des fêtes décadaires, le <abbr>Cère</abbr> <persName>Chalgrin</persName> pense qu'il est impossible de rien <lb /> statuer sur ce projet que préalablement les plans en devis n'ayant été <unclear>cuir</unclear>sous les <lb /> yeux du conseil. </p> 
                 </div>
-                <div type="advice"><p> <lb /> D'après la discussion qui a suivie cette lecture le conseil est d'avis : <lb /> 
-                  
-                  1. Qu'il y a lieu de confirmer l'arrêté du département de Saône et Loire qui <lb /> ordonne la démolition de cette église. <lb /> 
-                  
-                  2. À demander à cette administration les plans et un devis estimatif concernant <lb /> la construction du nouvel édifice conformément à la circulaire adressée par le <lb /> Ministre aux administrations départementales le <gap/> <unclear>Vendémiaire</unclear><lb /> </p> </div>
+                <div type="advice">
+                  <p>D'après la discussion qui a suivie cette lecture le conseil est d'avis :
+                    <list>
+                      <label>1.</label>
+                      <item>Qu’il y a lieu de confirmer l’arrêté du département de Saône et Loire qui <lb /> ordonne la démolition de cette église.</item>
+                      <label>2.</label>
+                      <item>À demander à cette administration les plans et un devis estimatif concernant <lb /> la construction du nouvel édifice conformément à la circulaire adressée par le <lb /> Ministre aux administrations départementales le <gap/> <unclear>Vendémiaire</unclear></item>
+                    </list>
+                  </p>
+                </div>
               </div>
               
               <div>
