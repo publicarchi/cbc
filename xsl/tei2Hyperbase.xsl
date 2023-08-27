@@ -15,7 +15,7 @@
     <xsl:variable name="conbavil" select="document('../../conbavil/conbavil.xml')"/>
     
     <xsl:template match="/">
-        <xsl:apply-templates select="TEI/text/body/div[@type='assembly']"/>
+        <xsl:apply-templates select="TEI/text/body/div/div[@type='assembly']"/>
     </xsl:template>
     
     <xsl:template match="div[@type='assembly']">
