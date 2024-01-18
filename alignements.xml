@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/cbc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alignement des procès-verbaux, des notes et des minutes du Conseil des bâtiments civils</title>
+                <editor>
+                    <persName>
+                        <forename>Emmanuel</forename>
+                        <surname>Château-Dutier</surname>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Dépouillements</resp>
+                    <persName>
+                        <forename>Alice</forename>
+                        <surname>Truc</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>none</publisher>
+                <date from="2023-07">de juillet 2023 à</date>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- @todo à reprendre -->
+                <msDesc>
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales de France</institution>
+                        <idno>FRAN/F/21/*/2534</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <docTitle>
+                                <titlePart>Procès-verbaux du Conseil des bâtiments civils</titlePart>
+                            </docTitle>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-07-26">Création du fichier</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                <titlePart></titlePart>
+            </titlePage>
+        </front>
+        <body>
+            <!-- instructions -->
+            <div type="assembly">
+                <head>Séance du <date when="1839-01-17">17 janvier 1839</date></head>
+                <div type="case">
+                    <label>Seine</label>
+                    <label>Paris</label>
+                    <label>Projet d’agrandissement du ministère des Travaux publics et du Commerce</label>
+                    <label>380</label>
+                </div>
+                <div type="case">
+                    <label>Seine</label>
+                    <label>Paris</label>
+                    <label>Ministère de l’Instruction publique</label>
+                    <label>381</label>
+                </div>
+                <div type="case">
+                    <label>Seine</label>
+                    <label>Montmartre</label>
+                    <label>Alignement</label>
+                    <label>(382)</label>
+                </div>
+                <div type="case">
+                    <label>Seine</label>
+                    <label>élassement d’une rue communale à la villette</label>
+                    <label>(383)</label>
+                </div>
+                <div type="case">
+                    <label>Seine</label>
+                    <label>alignement de la commune de Balléville</label>
+                    <label>(384)</label>
+                </div>
+                <pb/>
+                <fw>217</fw>
+                <div type="case">
+                    <label>Seine</label>
+                    <label><abbr>aligt</abbr> de la commune de Boulogne</label>
+                    <label>(385)</label>
+                </div>
+                <div type="case">
+                    <label>Gers</label>
+                    <label>Église de plaisance</label>
+                    <label>386</label>
+                </div>
+                <div type="assembly">
+                    <label>Seine</label>
+                    <label>Paris</label>
+                    <label>École royale des beaux-arts</label>
+                    <label>387</label>
+                </div>
+                <closer>
+                    <g ref="#leclere"/>
+                    <g ref="#biet"/>
+                    <g ref="#caristie"/>
+                    <g ref="#blouet"/>
+                    <g ref="#rohault"/>
+                    <g ref="#gourlier">Le Secrétaire</g>
+                </closer>
+            </div>
+            <div type="assembly">
+                <head>Séance du <date when="1839-01-21">21 janvier 1839</date></head>
+                <div type="case">
+                    <label>Seine</label>
+                    <label>Paris</label>
+                    <label>Ministère du Commerce</label>
+                    <label>388</label>
+                </div>
+                <div type="case">
+                    <label><unclear cert="high">Saône-et-Loire</unclear></label>
+                    <label><abbr>aligt.</abbr> de Macon</label>
+                    <label>389</label>
+                </div>
+                <div type="case">
+                    <label>Haut-Rhin</label>
+                    <label>Massevaux</label>
+                    <label>Église</label>
+                    <label>390</label>
+                </div>
+                <div type="case">
+                    <label>Manche</label>
+                    <label><abbr>const.on</abbr> d'une Justice de paix, <abbr>gendie</abbr> et Maison d'arrêt dans le château de Thorigny</label>
+                    <label>391</label>
+                </div>
+                <div type="case">
+                    <label>Seine</label>
+                    <label><abbr>const.on</abbr> d'un pavillon à l'Institut.</label>
+                    <label>392</label>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
